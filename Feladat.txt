@@ -1,0 +1,62 @@
+
+Herczeg Lajos
+
+​
+Szuhaj Mihály;​
+Farkas Márk​
+Kedves Márk és Misi!
+
+ 
+
+Sikerült végre összehasonlítanom, hogy mely fájlok változtak a 2024-es JAWS Súgó Main szakaszából a 2026-os változathoz képest. Csatoltam egy táblázatot az adatokkal. Több munkalap is van a táblázatban. 9 HTM fájlt választottam ki, amelyen érdemes megpróbálni a szakfordítást.
+
+A Help mappát betettem a OneDrive, AI alapú szakfordítás mappába.
+
+A HTM mappa tartalmazza az angol nyelvű lefordítandó HTM fájlokat.
+
+A PO mappa tartalmazza azokat a korábbi PO fájlokat, amelyekben megtalálhatók az angol és a magyar fordítások. Ezek még a 2024 verzióban naprakészek voltak. Tehát ezeket a PO fájlokat lehetne használni azoknak az angol szövegeknek a fordítására, amelyek megtalálhatók a 2024 és a 2026 változatokban is.
+
+Végezetül a jaws.po fájl tartalmazza az egész program aktuális felületi és szöveges fordításait. A jaws.po fájlt lehetne felhasználni a terminológiai kifejezések fordításához.
+
+ 
+
+Kíváncsi leszek az eredményre! 😊
+
+ 
+
+Üdvözlettel: Lajos
+
+
+
+Szuhaj Mihály
+
+​Herczeg Lajos;​Farkas Márk​
+Kedves Lajos és Márk!
+
+ 
+
+Lajos, köszönöm a mesterséges intelligenciával való szakfordítás teszteléséhez kiválasztott fájlokat.
+
+ 
+
+Tehát a 9 db JAWS súgó HTML fájlhoz van szakfordítási előzményünk, amely a Poedit fordítástámogató szoftverrel készült. Ezek a PO fájlok kétnyelvűek, angol-magyar fordítási egységeket tartalmaznak, és kétévvel ezelőtt voltak legutóbb aktualizálva.
+
+ 
+
+A HTML mappában lévő angol nyelvű HTML fájlok a legfrissebb súgó állományok, amelyek a JAWS 2026 verzió februári frissítésében jelentek meg. Ezek az elmúlt kétévben több ponton is megváltozhattak, de biztosan vannak olyan fordítási egységeik is, amelyek automatikusan lefordíthatók a 2024-es PO memória alapján.
+
+ 
+
+A JAWS.po fájl pedig egy olyan kétnyelvű PO memória, amely tartalmazza a JAWS program minden terminológiai kifejezését. Nem kifejezett szótárfájl, de egy referencia, amelyhez igazítani kell a többi fájl magyar nyelvű fordítását.
+
+A fentiek szerint el kell készíteni a 9 db angol nyelvű HTML dokumentum teljes magyar fordítását, egyrészt a specifikus PO memóriák alapján, másrészt a különbözeti részt a JAWS.po terminológiai referencia fájl figyelembevételével és a fordítási előzmények szakfordítási stílusát alkalmazva!
+
+ 
+
+Ha beválna ez a szakfordítási technika, akkor az hatalmas terheket venne le a vállunkról! Reménykedve várjuk az eredményeket!
+
+ 
+
+Üdv.
+
+Misi

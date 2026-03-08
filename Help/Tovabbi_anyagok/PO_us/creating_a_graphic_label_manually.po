@@ -1,0 +1,128 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\creating_a_graphic_label_manually.htm+html.head.title:12-1"
+msgid "Creating a Graphic Label Manually"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\creating_a_graphic_label_manually.htm+html.body.h1:17-1"
+msgid "Creating a Graphic Label Manually"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.p:18-1
+msgid ""
+"To practice creating a Graphic Label, use HJPad. To launch HJPad go to Start, "
+"All Programs, JAWS <em>X</em> (where <em>X</em> is the JAWS version number), Run "
+"HJPad."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.p:19-1
+msgid ""
+"Using the Graphics Labeler is easy, but before you start ensure that JAWS is set "
+"to speak graphics. Follow these steps to be sure:"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:21-1
+msgid "With HJPad open, press <strong>INSERT+V</strong> to open Quick Settings."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:22-1
+msgid ""
+"In the Search box, type the term \"graphics\" (without the quotes), and then "
+"press <strong>DOWN ARROW</strong> to move to the Graphics option in the tree "
+"view."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:23-1
+msgid "Press the <strong>SPACEBAR</strong> until you hear JAWS say, \"All.\""
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:24-1
+msgid ""
+"Next, press <strong>ENTER</strong> to accept the change, and then close Quick "
+"Settings."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.p:26-1
+msgid ""
+"Now that all graphics will be spoken, you are ready to find a graphic to label."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:28-1
+msgid "Press the <strong>NUM PAD MINUS</strong> key to activate the JAWS cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.p:30-1
+msgid ""
+"<strong>Tip:</strong> To navigate to the toolbar, first press <strong>PAGE UP</"
+"strong> to move to the top of the window, and then press <strong>HOME</strong> "
+"to move to the top, left."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:32-1
+msgid ""
+"Use the <strong>ARROW Keys </strong>to move to the first toolbar button. You "
+"will hear, \"Graphic XXX.\" XXX can indicate any number."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:33-1
+msgid "Press <strong>INSERT+G</strong> to open the Graphics Labeler."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:34-1
+msgid ""
+"When the Graphics Labeler is opened, the focus is in the edit field, where you "
+"should enter the label for the graphic. It will contain the graphic and the "
+"number that is assigned to it. Type the name for your graphic."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:35-1
+msgid ""
+"Press the <strong>TAB</strong> key to move to the braille label field. Here you "
+"can enter a label for a braille display."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:36-1
+msgid ""
+"Next press the <strong>TAB</strong> key to move to a group of radio buttons that "
+"will let you determine where you want to save the label, in the application "
+"file, default file, or both files."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.ol.li:37-1
+msgid "Press <strong>ENTER</strong> to activate your graphic label."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.p:39-1
+msgid ""
+"<strong>Note:</strong> To edit a graphic label, use the same procedure that you "
+"would to create a new graphic label, and just change the name of the label in "
+"the Graphics Labeler when it opens. To delete a graphic label, do the same, but "
+"delete the name in the Graphics Labeler."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.div.table.tbody.tr.td.p:45-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_graphic_label_manually.htm%2Bhtml.body.div.table.tbody.tr.td.p:51-1
+msgid "Next"
+msgstr ""

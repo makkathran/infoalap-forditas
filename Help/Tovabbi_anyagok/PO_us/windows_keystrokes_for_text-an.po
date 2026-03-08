@@ -1,0 +1,73 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\windows_keystrokes_for_text-an.htm+html.head.title:12-1"
+msgid "Additional Notes on Windows Keystrokes for Working with Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\windows_keystrokes_for_text-an.htm+html.body.h1:17-1"
+msgid "Additional Notes on Windows Keystrokes for Working with Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.body.h2:18-1
+msgid "General Notes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.body.p:19-1
+msgid ""
+"Many of these keystrokes are designed to move the caret (also called the "
+"insertion point) in a document as indicated. For many of these keystrokes, "
+"JAWS adds the functionality of reading the element to which the caret is "
+"moved, i.e., character, word, or paragraph. When <b>SHIFT</b> is added to the "
+"keystroke, the text from the caret's original position to its new position "
+"will be selected. This does not work reliably with the keystrokes for moving "
+"by paragraph, though. JAWS also adds support for using many of these "
+"keystrokes with the JAWS, Invisible, and virtual PC cursors. The JAWS and "
+"Invisible cursors can only read text already on the screen; they cannot "
+"scroll a document in the manner the PC cursor or Virtual PC cursor can."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.body.h2:20-1
+msgid "Keystroke Specific Notes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.body.h3:21-1
+msgid "Select All (CTRL+A)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.body.p:22-1
+msgid "This keystroke will not work in all applications."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.body.h3:23-1
+msgid "Undo (CTRL+Z)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.body.p:24-1
+msgid ""
+"This keystroke can be very useful, especially in text fields in dialog boxes. "
+"However, not all actions can be undone, so this keystroke will not always "
+"work."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_text-an.htm%2Bhtml.body.div.table.tbody.tr.td.p:29-1
+msgid "Back"
+msgstr ""

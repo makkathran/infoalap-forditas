@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta charset="UTF-8" content=""/>
+<meta name="topic-status" content="In Progress"/>
+<meta name="topic-priority" content="0"/>
+<meta name="topic-time-estimate" content="0"/>
+<meta name="topic-comment" content=""/>
+<meta name="topic-id" content=""/>
+<meta name="window-type" content="$Global_NewWindow"/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Keretesemények</title>
+<link rel="StyleSheet" href="../../assets/css/default.css" type="text/css"/>
+
+<meta name="rh-index-keywords" content="Keretek:Események,Keretek:műveletek,Keretek:Szövegszűrők,Keretek:Esemény hatóköre"/></head>
+<body>
+<h1>Keretesemények</h1>
+<p>A <a data-glossterm="JAWS" class="glossterm">JAWS</a> figyeli a Windows rendszer és a használt alkalmazások eseményeit, és meghatározza, hogy mikor van szükség válaszok megadására vagy műveletek elvégzésére. Ilyen események lehetnek például a következők: billentyű lenyomása (KeyPressedEvent), szövegfájl megnyitása (NewTextEvent) vagy továbblépés egy másik vezérlőelemre a TAB billentyűvel (FocusChangedEvent). Az események ilyen módon történő felismerésével, amely lehetővé teszi a szükséges lépések elvégzését, a JAWS felhasználói számára lehetővé válik a gyors és természetes munkavégzés.</p>
+<p>Kereteken belül csak bizonyos események használatosak. Azt, hogy az egyes keretek mely eseményeket azonosítanak, a felhasználó határozza meg. Ha egy keretben a meghatározott események valamelyike bekövetkezik, az eseményhez beállított művelet végrehajtásra kerül.</p>
+<p>A keretekkel használt eseményeknek több összetevőjük is van.</p>
+<ul>
+<li><b style="font-weight: bold;">Keretesemény-típusok</b>: A keretesemények négy típusba sorolhatók: On Focus, On Frame Key, On Play Action és On Text. Az <a data-glossterm="esemény" class="glossterm">esemény</a> típusa határozza meg, hogy a keretben mi egy adott művelet végrehajtásának kiváltója. Ha például a <b>TAB</b> billentyűvel egy keretben található vezérlőelemre lépve egy adott műveletet szeretne végrehajtatni, használjon egy On Focus típusú eseményt, és rendeljen hozzá egy végrehajtandó műveletet.</li>
+<li><b style="font-weight: bold;">Eseményműveletek</b>: Az eseményműveletek az esemény bekövetkeztekor végrehajtott műveletek. Minden egyes hozzáadott esemény csak egy műveletet indíthat el. Ha több műveletet szeretne végrehajtatni, amikor a <a data-glossterm="fókusz" class="glossterm">fókusz</a> a keretbe kerül, adjon meg több On Focus típusú kereteseményt, és rendeljen mindegyikhez külön műveletet.</li>
+<li><b style="font-weight: bold;">Műveletek attribútumai</b>: Számos eseményművelethez meg kell határoznia valamilyen attribútumot is. Ha például úgy állít be egy keretet, hogy egy ablak tartalmát olvassa fel, amikor egy esemény történik, az Ablak felolvasása művelet kereteseményhez rendelésekor meg kell határoznia, hogy melyik ablak kerüljön felolvasásra.</li>
+</ul>
+<p><a href="#_Frame_Event_Types">Keretesemény-típusok</a></p>
+<p><a href="#_Text_Filters">Szövegszűrők</a></p>
+<p><a href="#_Event_Scope">Esemény hatóköre</a></p>
+<p><a href="#_Event_Actions">Eseményműveletek</a></p>
+<h2><a id="_Frame_Event_Types"></a>Keretesemény-típusok</h2>
+<p>A keretekkel a következő események használhatók.</p>
+<h3>On Focus</h3>
+<p>Ez az esemény akkor következik be, amikor a rendszerfókusz egy kereten belülre kerül. Ha a <b>TAB</b> billentyűvel egy párbeszédpanel meghatározott vezérlőelemére lépve egy műveletet szeretne végrehajtatni, hozzon létre egy keretet a vezérlőelem helyén, rendelje hozzá az On Focus eseményt, és határozza meg a végrehajtandó műveletet.</p>
+<h3>On Frame Key</h3>
+<p>Ez az esemény a kerethez rendelt billentyűkombináció megnyomásakor következik be. A billentyűkombináció hozzárendelése a <a data-glossterm="Keret" class="glossterm">Keret</a> jellemzői párbeszédpanel Általános lapján hajtható végre.</p>
+<h3>On Play Action</h3>
+<p>Ez az esemény akkor következik be, ha a felhasználó végrehajtja a Keretműveletek lejátszása műveletet egy másik keretből, és ezt a keretet attribútumként használja.</p>
+<p>Tegyük fel, hogy a B keretben bekövetkező adott esemény hatására egy műveletsort szeretne végrehajtatni az A keretben. Az A keretben állítson be egy On Play Action eseményt minden egyes végrehajtandó művelethez. Utána a B keretben állítsa be a műveleteket kiváltó eseményt. Rendelje ehhez az eseményhez a Keretműveletek lejátszása műveletet, attribútumként az A keretet megadva.</p>
+<p>Az On Play Action eseményhez megadhatja az esemény hatókörét, ami meghatározza, hogy az eseményt mikor ismerje fel a program.</p>
+<h3>On Text</h3>
+<p>Ez az esemény akkor következik be, amikor új szöveg jelenik meg a keretben. Az új szöveg lehet egy beviteli mezőbe írt szöveg vagy a képernyőn megjelenő párbeszédpanel szövege.</p>
+<p>Ez a szöveg szűrhető, tehát megadható, hogy csak meghatározott szöveg, illetve bizonyos attribútumokkal vagy színnel rendelkező szöveg aktiválhassa az eseményt.</p>
+<p>Ha például egy listamezőt tartalmazó kerethez a kiemelt szövegeket felismerő szűrővel állítja be az On Text típusú eseményt, minden alkalommal, amikor a nyílbillentyűkkel a <a data-glossterm="listamező" class="glossterm">listamező</a> új elemére lép, új kiemelt szöveg jelenik meg. Ekkor az esemény megtörténik, tehát a hozzárendelt művelet is végrehajtásra kerül.</p>
+<p>Az On Text eseményhez megadhatja az esemény hatókörét, ami meghatározza, hogy az eseményt mikor ismerje fel a program.</p>
+<h2><a id="_Text_Filters"></a>Szövegszűrők</h2>
+<p>Az On Text eseménytípus használatakor meghatározhatja, hogy az eseményt csak akkor ismerje fel a program, ha a kereten belül megjelenő új szöveg megfelel a beállított szűrőnek. Ezzel a szűrővel a következő jellemzőket határozhatja meg:</p>
+<ul>
+<li>Előtérszín (szöveg színe)</li>
+<li>Háttérszín</li>
+<li>Szövegattribútumok (félkövér, kiemelt, dőlt vagy aláhúzott)</li>
+<li>Karaktersor (szöveg)</li>
+</ul>
+<p>Az előtér és a háttér színe meghatározható a JAWS kurzor – a Keretmegjelenítő elindításakor elfoglalt – helyénél lévő szöveg színei alapján, de a színek kiválaszthatók a kombinált listából vagy az RGB (vörös, zöld, kék) numerikus értékek beírásával is.</p>
+<p>Ha a szűrőhöz karaktersort (szöveget) ad meg, akkor annak kereten belüli megfelelőjének egy soron belül kell állnia, továbbá a szövegbe nem ékelődhet más szöveg, jel vagy grafikai elem.</p>
+<h2><a id="_Event_Scope"></a>Esemény hatóköre</h2>
+<p>Az On Play Action és az On Text események beállíthatóak úgy, hogy csak bizonyos körülmények között kerüljenek felismerésre. Ezzel korlátozható az ezen eseményekhez rendelt műveletek végrehajtása.</p>
+<p>Az ilyen események felismeréséhez a következő lehetőségeket adhatja meg:</p>
+<ul>
+<li>Mindig, függetlenül a rendszerfókusz helyétől</li>
+<li>Csak akkor, ha a rendszerfókusz a kereten belül van</li>
+<li>Csak akkor, ha a rendszerfókusz nincs a kereten belül</li>
+</ul>
+<h2><a id="_Event_Actions"></a>Eseményműveletek</h2>
+<p>A műveletek teszik a kereteket igazán hatékonnyá. Műveletként megadható egy keret vagy egy ablak felolvasása, hangfájl lejátszása, kurzorok áthelyezése vagy egy JAWS-szkript futtatása. A kerethez társított valamennyi eseményhez egy műveletet rendelhet, de egy eseménytípus több példányban is szerepelhet, így ha ezekhez különböző műveleteket rendel, az esemény bekövetkeztekor az összes művelet végrehajtásra kerül.</p>
+<p class="Note-Text"><b style="font-weight: bold;">Megjegyzés</b>: A műveletek végrehajtásának sorrendje megfelel a Keret jellemzői párbeszédpanel Események lapján található hozzárendelt eseménytípusok sorrendjének.</p>
+<p>Esemény és az ahhoz rendelt művelet megadásakor a listában lépkedve elolvasható az egyes műveletek leírása. Az alábbiakban a rendelkezésre álló művelettípusok leírásai olvashatók.</p>
+<h3>Adatok felolvasása vagy megjelenítése Braille kijelzőn</h3>
+<p>A következő típusú adatok felolvasásához, illetve Braille kijelzőn történő megjelenítéséhez állnak rendelkezésre műveletek:</p>
+<ul>
+<li><b style="font-weight: bold;">Kereten vagy ablakon belüli szöveg</b>: Adja meg a keretet vagy az ablakot.</li>
+<li><b style="font-weight: bold;">Kereten vagy ablakon belüli szöveg adott attribútumokkal</b>: Adja meg a keretet vagy az ablakot, valamint a szöveg attribútumait vagy színeit.</li>
+<li><b style="font-weight: bold;">Szöveg</b>: Adja meg a felolvasni, illetve a Braille kijelzőn megjeleníteni kívánt szöveget.</li>
+<li><b style="font-weight: bold;">Részletezett üzenet</b>: Adja meg a szkriptműveletek segítségével összegyűjtött szöveg és adatok kombinációját.</li>
+</ul>
+<p class="Note-Text"><b style="font-weight: bold;">Megjegyzés</b>: A Braille kijelzőhöz kapcsolódó műveletek csak részletező üzemmódban működnek.</p>
+<h3>Kurzorok mozgatása</h3>
+<p>Kurzorok mozgatásához használható műveletek:</p>
+<ul>
+<li>A JAWS kurzor áthelyezése a keret bal felső sarkába</li>
+<li>A JAWS kurzor áthelyezése az ablak bal felső sarkába</li>
+<li>A JAWS kurzor áthelyezése a PC kurzorhoz</li>
+</ul>
+<h3>Hangok lejátszása</h3>
+<p>Egyes műveletekkel egyéni és rendszerhangok lejátszása, illetve a beépített hangszóró hangjelzésének megszólaltatása válik lehetővé.</p>
+<h3>Egyéb</h3>
+<p>A fentieken kívül még a következő műveletek választhatók:</p>
+<ul>
+<li><b style="font-weight: bold;">A JAWS konfigurációs fájljainak betöltése</b>: Adja meg a használni kívánt konfigurációs fájlt.</li>
+<li><b style="font-weight: bold;">A megadott műveletek végrehajtása másik keretben</b>: Beállítható, hogy egy adott keretben fellépő esemény esetén a program egy másik keretben hajtson végre műveletet.</li>
+<li><b style="font-weight: bold;">A JAWS szkriptjeinek futtatása</b>: A keretek nyújtotta lehetőségek tovább bővíthetőek JAWS-szkriptek használatával.</li>
+<li><b style="font-weight: bold;">Szkriptesemény felfüggesztése</b>: Segítségével elkerülhető az adatok szkriptesemények okozta felesleges felolvasása vagy Braille kijelzőn való megjelenítése, például a keret által biztosított adatok ismételt közlése.</li>
+</ul>
+<p> </p>
+<div style="text-align: center;">
+<table cellspacing="3" width="100%" align="center">
+<tbody><tr style="vertical-align: top;">
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p style="text-align: left; margin-bottom: 0;"><a href="javascript:window.history.go(-1);" accesskey="v">Vissza</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="Frame_Defaults.htm" accesskey="k">Következő</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>

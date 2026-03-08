@@ -1,0 +1,64 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\the_jaws_application_window.htm+html.head.title:12-1"
+msgid "The JAWS Application Window"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\the_jaws_application_window.htm+html.body.h1:17-1"
+msgid "The JAWS Application Window"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.body.p:18-1
+msgid ""
+"The JAWS application can be configured to run in a normal window, or to run "
+"from the system tray. This topic provides a detailed description of the "
+"options available in the JAWS application window. If you run JAWS from the "
+"system tray, these same options are still available through a shortcut menu."
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.body.p:19-1
+msgid "When open, the JAWS application window displays the following menus:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.body.p:20-1
+msgid "Options"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.body.p:21-1
+msgid "Utilities"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.body.p:22-1
+msgid "Language"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.body.p:23-1
+msgid "Help"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.body.div.table.tbody.tr.td.p:28-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_jaws_application_window.htm%2Bhtml.body.div.table.tbody.tr.td.p:34-1
+msgid "Next"
+msgstr ""

@@ -1,0 +1,182 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-25 14:59+0200\n"
+"PO-Revision-Date: 2025-03-27 11:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr "hu"
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.head.title:6-2
+msgctxt "Main\\convert\\Network_Authorization_Instructions.htm+html.head.title:6-2"
+msgid "Network Authorization Instructions"
+msgstr "Hálózati hitelesítési útmutató"
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.h1:9-2
+msgctxt "Main\\convert\\Network_Authorization_Instructions.htm+html.body.h1:9-2"
+msgid "Network Authorization Instructions"
+msgstr "Hálózati hitelesítési útmutató"
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.p:10-1
+msgid ""
+"This topic describes the steps necessary to set up your network license server "
+"environment using our generic network authorization tool. This tool lets you "
+"manage licenses for all of our ILM-based software products, and replaces the "
+"former product-specific network license server tools."
+msgstr ""
+"Ebben a témakörben azokat a lépéseket részletezzük, amelyek a hálózati "
+"licenckiszolgáló környezetének beállításához szükségesek az általános hálózati "
+"hitelesítési eszközünk használatával. Ez az eszköz segítséget nyújt az összes <a "
+"data-glossterm=\"ILM\" class=\"glossterm\">ILM</a>-alapú szoftvertermékünk "
+"licencének kezelésében, és kiváltja a korábbi termékspecifikus hálózati "
+"licenckiszolgáló eszközt."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.h2:11-2
+msgid "Network Server Installation and Activation"
+msgstr "Hálózati szerver telepítése és aktiválása"
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.p:12-1
+msgid ""
+"<strong>Note:</strong> You can only install the license server on a computer "
+"running Microsoft Windows. Other operating systems are not supported."
+msgstr ""
+"<strong>Megjegyzés:</strong> A licenckiszolgálót csak olyan számítógépre "
+"telepítheti, amelyiken a Microsoft Windows operációs rendszer működik. Más "
+"operációs rendszerek nem támogatottak."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.ol.li:14-3
+msgid ""
+"Go to <a href=\"http://fsactivate.com/network\" target=\"_blank\">FSActivate.com/"
+"network</a> and download the Network Authorization Tool installation file on the "
+"computer that will run the license server."
+msgstr ""
+"Látogasson el az <a href=\"http://fsactivate.com/network\" "
+"target=\"_blank\">FSActivate.com/network</a> weboldalra, és töltse le a Network "
+"Authorization Tool telepítőfájlját arra a számítógépre, amelyen a "
+"licenckiszolgálót kívánja futtatni."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.ol.li:15-3
+msgid ""
+"Follow the on-screen instructions to complete the installation of the network "
+"authorization tools and license server."
+msgstr ""
+"A hálózati hitelesítő eszközök és a licenckiszolgáló telepítése érdekében az "
+"útmutatásoknak megfelelően hajtsa végre a képernyőn megjelenő lépéseket."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.ol.li:16-3
+msgid ""
+"Once the license server is installed, open the Start menu, navigate to the "
+"Freedom Scientific Network Authorization Utilities folder, and then choose "
+"Update Network Authorization."
+msgstr ""
+"A licenckiszolgáló telepítését követően nyissa meg a Start menüt, navigáljon a "
+"Freedom Scientific Network Authorization Utilities (Freedom Scientific Hálózati "
+"hitelesítési eszközök) mappába, és válassza az Update Network Authorization "
+"(Hálózati hitelesítés frissítése) opciót."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.ol.li:17-3
+msgid ""
+"Follow the prompts to complete the activation process for your software product."
+msgstr "A szoftver aktiválásához kövesse a képernyőn megjelenő utasításokat."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.p:19-1
+msgid ""
+"<strong>Note:</strong> To activate a license on a computer that does not have "
+"direct Internet access, choose the Manual option and then follow the prompts to "
+"retrieve and enter a license code."
+msgstr ""
+"<strong>Megjegyzés:</strong> A licenc aktiválását közvetlen internetkapcsolattal "
+"nem rendelkező számítógépen a Manuális opció választásával, majd a képernyőn "
+"megjelenő utasítások követésével végezheti el, itt egy licenckódot kell kapnia "
+"és beírnia."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.p:20-1
+msgid ""
+"If you experience problems activating your network license server, you may have "
+"problems connecting to the Internet due to a firewall or other similar "
+"situations. Refer to our <a href=\"http://fsactivate.freedomscientific.com/"
+"Activation/ILMTroubleShootingGuide\" target=\"_blank\">Software Activation "
+"Troubleshooting Guide</a> for more information."
+msgstr ""
+"Ha a hálózati licenckiszolgáló aktiválása során problémába ütközik, valószínű, "
+"hogy internet-elérésével vannak gondok egy tűzfal vagy hasonló ok miatt. További "
+"információkért olvassa el a <a href=\"http://fsactivate.freedomscientific.com/"
+"Activation/ILMTroubleShootingGuide\" target=\"_blank\">Hibaelhárítási útmutató "
+"szoftveraktiváláshoz</a> dokumentumot."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.h2:22-1
+msgid "Client Computer Installation and Activation"
+msgstr "Kliens (ügyfél) számítógép telepítése és aktiválása"
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.p:23-1
+msgid ""
+"After installing and activating a network license server, you are ready to "
+"install and run the application software on your client computers. Other than "
+"installing the application on each client computer, you do not need to perform "
+"any additional action. Each time the application software is started on a client "
+"computer, it will automatically search for the license server and obtain an "
+"authorization token."
+msgstr ""
+"A hálózati licenckiszolgáló telepítését és aktiválását követően megkezdheti a "
+"kliens számítógépek telepítését és az alkalmazás szoftver futtatását. Azon "
+"kívül, hogy az alkalmazást telepíti az egyes kliens számítógépekre, mást nem "
+"szükséges tennie. Az alkalmazás az ügyfélszámítógépen való elindításakor minden "
+"alkalommal megkeresi a licenckiszolgálót, és lekéri a hitelesítési tokent."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.p:24-1
+msgid ""
+"The number of client computers that can be authorized at any given time depends "
+"on the number of users permitted by your license. For example, if you purchased "
+"a license for five users, your license server will allow five client computers "
+"to authorize. Once all tokens are assigned, no additional clients can receive "
+"authorization."
+msgstr ""
+"A hitelesíthető kliens számítógépek számát egy adott időpontban a licenc által "
+"engedélyezett felhasználók száma határozza meg. Ha például öt felhasználó "
+"számára vásárolt licencet, a licenckiszolgálón öt token áll rendelkezésre. "
+"Miután az összes tokent kiosztotta, további ügyfélszámítógépek nem kaphatnak "
+"hitelesítést."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.p:25-1
+msgid ""
+"If you need to support additional users, contact your local distributor or "
+"Freedom Scientific to purchase additional seats."
+msgstr ""
+"Ha arra van szükség, hogy a licenc további felhasználókat támogasson, forduljon "
+"a helyi viszonteladóhoz vagy a Freedom Scientifichez, és vásároljon további "
+"használati jogokat."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.p:26-1
+msgid ""
+"<strong>Note:</strong> For client computers to obtain an authorization from the "
+"network license server they must both be on the same subnet. In situations where "
+"the client computer is on a different subnet, you must provide the application "
+"software the name or IP address of the network license server using the LSHOST "
+"or LSFORCEHOST environment variables. Refer to Chapter 2 – Configuring the "
+"License Server in the Sentinel License Manager System Administrator’s Guide "
+"available from <a href=\"http://fsactivate.com/network\" "
+"target=\"_blank\">fsactivate.com/network</a>."
+msgstr ""
+"<strong>Megjegyzés:</strong> Ahhoz, hogy a kliens számítógépek hitelesítést "
+"kapjanak a hálózati licenckiszolgálótól, azonos alhálózaton kell lenniük. "
+"Azokban az esetekben, amikor a kliens számítógép egy másik alhálózatba van "
+"bekötve, az alkalmazásba az LSHOST vagy LSFORCEHOST környezeti változók "
+"használatával meg kell adnia a hálózati licenckiszolgáló nevét vagy IP-címét. "
+"További információkért lásd a rendszergazdák számára készített útmutatót az <a "
+"href=\"http://fsactivate.com/network\" target=\"_blank\">fsactivate.com/network</"
+"a> oldalon: 2. fejezet: – Hálózati licenckiszolgáló konfigurálása a Sentinel "
+"Licenckezelőben."
+
+#: Main%5Cconvert%5CNetwork_Authorization_Instructions.htm%2Bhtml.body.div.table.tbody.tr.td.p:31-1
+msgid "Back"
+msgstr "Vissza"

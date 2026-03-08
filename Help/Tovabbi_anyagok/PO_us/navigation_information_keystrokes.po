@@ -1,0 +1,178 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.head.title:12-1
+msgid "Navigation - Information Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.h1:17-1
+msgid "Navigational &amp; Informational Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table[summary]:18-1
+msgid "Navigation and Information Commands"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.th:20-1
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.th:21-1
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:24-1
+msgid "Say System Time"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:25-1
+msgid "INSERT+F12"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:28-5
+msgid "Say System Time Including Seconds"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:29-5
+msgid "CTRL+INSERT+F12"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:32-1
+msgid "Say System Date"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:33-1
+msgid "<b style=\"font-weight: bold;\">INSERT+F12</b> twice quickly"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:36-5
+msgid "Say Week Number"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:37-5
+msgid "<b style=\"font-weight: bold;\">CTRL+INSERT+F12</b> twice quickly"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:40-1
+msgid "Say Window Title"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:41-1
+msgid "INSERT+T"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:44-1
+msgid "Say Window Prompt and Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:45-1
+msgid "INSERT+TAB"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:48-1
+msgid "Say Top Line of Window"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:49-1
+msgid "INSERT+END"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:52-1
+msgid "Say Bottom Line of Window"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:53-1
+msgid "INSERT+PAGE DOWN"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:56-1
+msgid "Say Selected Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:57-1
+msgid "INSERT+SHIFT+DOWN ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:60-1
+msgid "Spell Selected Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:61-1
+msgid "<b style=\"font-weight: bold;\">INSERT+SHIFT+DOWN ARROW</b> twice quickly"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:64-1
+msgid "Say Application Version"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:65-1
+msgid "CTRL+INSERT+V"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:68-1
+msgid "Window List"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:69-1
+msgid "INSERT+F10"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:72-1
+msgid "List System Tray Icons"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:73-1
+msgid "INSERT+F11"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:76-1
+msgid "View System Tray Contents"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:77-1
+msgid "CTRL+SHIFT+F11"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:80-1
+msgid "List Labeled Graphics"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:81-1
+msgid "CTRL+INSERT+SHIFT+G"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.p:84-1
+msgid "Additional Notes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.p:85-1
+msgid "See Also:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.p:86-1
+msgid "General Windows Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:91-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:97-1
+msgid "Next"
+msgstr ""

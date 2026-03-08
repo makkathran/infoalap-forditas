@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Firewall_Software.htm+html.head.title:12-1"
+msgid "Troubleshooting Firewall Software"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.h1:16-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Firewall_Software.htm+html.body.h1:16-1"
+msgid "Troubleshooting Firewall Software"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.p:17-1
+msgid ""
+"Firewalls protect computer systems from being accessed by unauthorized users. "
+"Some network or personal firewall software may interfere with the installation, "
+"activation, or usage of JAWS. The following information will help you "
+"reconfigure your firewall to work with JAWS. Refer to your firewall software "
+"documentation for more information on allowing access for programs and files."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.p:18-1
+msgid ""
+"<b style=\"font-weight: bold;\">Note:</b> Hardware firewalls do not interfere "
+"with installing, activating, or running JAWS."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.h2:19-1
+msgid "Firewall Interferes with Installation"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.p:20-1
+msgid ""
+"If your firewall software is preventing you from installing JAWS on your "
+"computer, reconfigure the firewall to allow the file Setup.exe to run. Then "
+"retry the installation procedure."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.h2:21-1
+msgid "Firewall Interferes with Activation"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.p:22-1
+msgid ""
+"If your firewall software prevents you from activating JAWS using the Internet, "
+"reconfigure the firewall to allow the following files to run: FSActivate.exe, "
+"CAUtil.exe, and CAUtil.enu. Once you have reconfigured your firewall, retry the "
+"activation process. If you cannot reconfigure the firewall, or if you still "
+"cannot activate JAWS, go to <a href=\"https://fsactivate.freedomscientific.com\" "
+"target=\"_blank\">FSActivate.com</a>. Follow the instructions on the Web page to "
+"retrieve an Activation License code and activate your software. For more "
+"information on using <a href=\"https://fsactivate.freedomscientific.com\" "
+"target=\"_blank\">FSActivate.com</a>, see Activating through a Trusted Third "
+"Party."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.h2:23-1
+msgid "Firewall Interferes with Using JAWS"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.p:24-1
+msgid ""
+"If the firewall software prevents JAWS from running or starting, or displays a "
+"warning message, reconfigure the firewall to allow the file JFW.exe to run. If "
+"the firewall is preventing speech, quit JAWS by pressing <b>ALT+F4</b> and then "
+"do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.ol.li:26-1
+msgid "Press and hold <b>INSERT</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.ol.li:27-1
+msgid "While holding down <b>INSERT</b>, start JAWS."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.ol.li:28-1
+msgid ""
+"JAWS starts in 40 minute mode and provides speech access so you can navigate "
+"your firewall program."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.ol.li:29-1
+msgid "Reconfigure your firewall to allow the file JFW.exe to run."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.ol.li:30-1
+msgid "Quit and then restart JAWS."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.h2:32-1
+msgid "Advanced Troubleshooting Information"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.p:33-1
+msgid ""
+"For a complete list of all files that need to be allowed by your firewall "
+"software, including the connection type, incoming port, and outgoing port, refer "
+"to <a href=\"Advanced_Troubleshooting.htm\">Advanced Troubleshooting</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Firewall_Software.htm%2Bhtml.body.div.table.tbody.tr.td.p:39-1
+msgid "Back"
+msgstr ""

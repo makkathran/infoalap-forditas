@@ -1,0 +1,144 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.head.title:11-1
+msgctxt "HTM_po_nelkul\\keystrokes_for_accessing_the_jaws_utilities-an.htm+html.head.title:11-1"
+msgid "Additional Notes on Keystrokes for Accessing the JAWS Utilities"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h1:16-1
+msgctxt "HTM_po_nelkul\\keystrokes_for_accessing_the_jaws_utilities-an.htm+html.body.h1:16-1"
+msgid "Additional Notes on Keystrokes for Accessing the JAWS Utilities"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:17-1
+msgid "Create a Prompt (CTRL+INSERT+TAB)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:18-1
+msgid ""
+"This command opens a dialog box allowing you to assign a speech and Braille label to a "
+"control in a dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:19-1
+msgid "Graphics Labeler (INSERT+G)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:20-1
+msgid ""
+"This command opens a dialog box allowing you to assign a text label to a graphic. This "
+"keystroke only works if the JAWS cursor is focused on a graphic."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:21-1
+msgid "Start Auto Graphics Labeler (CTRL+INSERT+G)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:22-1
+msgid ""
+"This command starts the auto graphics labeler, which attempts to label all graphics in the "
+"current window of the active application. The labels are based on tooltip text associated "
+"with each graphic, so graphics without tooltip labels cannot be labeled in this manner."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:23-1
+msgid "Set Frame Top Left (CTRL+SHIFT+LEFT BRACKET)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:24-1
+msgid ""
+"This command sets the top left corner for a frame based on the location of the JAWS or "
+"Invisible Cursor. If the bottom right corner of the frame has already been set, this command "
+"also brings up Frame Manager so the frame can be named and other Properties can be set."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:25-1
+msgid "Set Frame Bottom Right (CTRL+SHIFT+RIGHT BRACKET)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:26-1
+msgid ""
+"This command sets the bottom right corner for a frame based on the location of the JAWS or "
+"Invisible Cursor. If the top left corner of the frame has already been set, this command also "
+"brings up Frame Manager so the frame can be named and other Properties can be set."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:27-1
+msgid "Set Frame to Window (CTRL+SHIFT+LEFT BRACKET pressed twice quickly)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:28-1
+msgid ""
+"This command sets a frame to the area of a control to which the JAWS or Invisible Cursor is "
+"pointing, and brings up Frame Manager so the frame can be named and additional properties can "
+"be set."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:29-1
+msgid "Clear Initial Values (CTRL+INSERT+C)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:30-1
+msgid ""
+"This command cancels setting a frame or dragging and dropping if you decide not to complete "
+"the operation."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:31-1
+msgid "Run JAWS Manager (INSERT+F2)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:32-1
+msgid "This command brings up a dialog box from which you can access the various JAWS managers."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:33-1
+msgid "Screen Sensitive Help Technical (CTRL+INSERT+F1)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:34-1
+msgid ""
+"This command provides technical information for the current control that may be useful when "
+"writing scripts, such as the control ID, window class, and window handle."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:35-1
+msgid "Say special Window Classes (CTRL+INSERT+F2)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:36-1
+msgid ""
+"This command provides the window class of the parent window, next window, prior window, and "
+"child window. Press the command multiple times to cycle through the information."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.h2:37-1
+msgid "Say Frame at Cursor (INSERT+X)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.p:38-1
+msgid ""
+"This keystroke speaks all text within the boundaries of the frame in which the active cursor "
+"is located."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_accessing_the_jaws_utilities-an.htm%2Bhtml.body.div.table.tbody.tr.td.p:43-1
+msgid "Back"
+msgstr ""

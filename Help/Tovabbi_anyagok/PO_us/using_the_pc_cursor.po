@@ -1,0 +1,69 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\using_the_pc_cursor.htm+html.head.title:12-1"
+msgid "Using the PC Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\using_the_pc_cursor.htm+html.body.h1:17-1"
+msgid "Using the PC Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.body.p:18-1
+msgid ""
+"The PC Cursor is the primary cursor used in JAWS. It corresponds to the "
+"system focus. The PC Cursor is used to navigate menus, edit text in "
+"documents, and to navigate in dialog boxes. The PC Cursor is used for most "
+"standard Windows functions, and provides a high degree of functionality. The "
+"PC Cursor is active when JAWS is first started, but if you switch to another "
+"cursor, you can press <b>NUM PAD PLUS</b> to make the PC Cursor active once "
+"again."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.body.p:19-1
+msgid ""
+"The PC Cursor can only go where the system focus can go, and this does limit "
+"the access it provides to the Windows environment."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.body.p:20-1
+msgid "See also:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.body.p:21-1
+msgid "JAWS Keystrokes for Reading Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.body.p:22-1
+msgid "Navigation - Information Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.body.p:23-1
+msgid "JAWS Keystrokes for Working in Dialog Boxes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.body.div.table.tbody.tr.td.p:29-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_pc_cursor.htm%2Bhtml.body.div.table.tbody.tr.td.p:35-1
+msgid "Next"
+msgstr ""

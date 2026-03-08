@@ -1,0 +1,398 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\events.htm+html.head.title:12-1"
+msgid "Frame Events"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\events.htm+html.body.h1:17-1"
+msgid "Frame Events"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:18-1
+msgid ""
+"JAWS makes extensive use of events within Windows and your applications to "
+"determine when certain responses or actions are necessary. Events occur all "
+"the time: when you press a key on your keyboard (KeyPressedEvent), when you "
+"open a file containing text (NewTextEvent), when you TAB from one control to "
+"another (FocusChangeEvent). Recognizing events in such a way that actions "
+"can be taken allows JAWS to quickly and naturally respond appropriately as "
+"you work."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:19-1
+msgid ""
+"Within frames, only specific events are used. You specify which events each "
+"frame recognizes. When one of the events specified for a frame occurs, the "
+"action you have associated with that event is taken."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:20-1
+msgid "There are several parts to every event used with frames."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:22-1
+msgid ""
+"<b style=\"font-weight: bold;\">Frame Event Types</b>: There are four types "
+"of frame events: On Focus, On Frame Key, On Play Action, and On Text. The "
+"event type determines what causes actions within your frame to take place. "
+"For example, if you want some specific action to take place whenever you "
+"<b>TAB</b> to a control within the borders of a frame, assign an On Focus "
+"event and associate the action to take place."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:23-1
+msgid ""
+"<b style=\"font-weight: bold;\">Event Actions</b>: Event actions are the "
+"actions that occur when the event takes place. Each event you add activates "
+"only one action. If you want to have several things occur when focus moves "
+"into the borders of a frame, add the On Focus frame event several times, "
+"assigning different actions to each instance of the event."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:24-1
+msgid ""
+"<b style=\"font-weight: bold;\">Action Attributes</b>: Many, but not all, "
+"event actions require that you specify an attribute of some sort. For "
+"example, if you set a frame to speak the contents of a window when some "
+"event occurs, when you assign the Say Window action to the frame event, you "
+"are prompted to specify which window is to be spoken."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:26-1
+msgctxt "HTM_po_nelkul\\events.htm+html.body.p:26-1"
+msgid "Frame Event Types"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:27-1
+msgctxt "HTM_po_nelkul\\events.htm+html.body.p:27-1"
+msgid "Text Filters"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:28-1
+msgctxt "HTM_po_nelkul\\events.htm+html.body.p:28-1"
+msgid "Event Scope"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:29-1
+msgctxt "HTM_po_nelkul\\events.htm+html.body.p:29-1"
+msgid "Event Actions"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h2:30-1
+msgctxt "HTM_po_nelkul\\events.htm+html.body.h2:30-1"
+msgid "Frame Event Types"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:31-1
+msgid "The following events are available for use with frames."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h3:32-1
+msgid "On Focus"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:33-1
+msgid ""
+"This event occurs whenever the system focus moves into the borders of a "
+"frame. If you want something to happen whenever you <b>TAB</b> to a specific "
+"control in a dialog, create a frame at the location of the control, assign "
+"the On Focus event, and add the actions you want to take place."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h3:34-1
+msgid "On Frame Key"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:35-1
+msgid ""
+"This event occurs when the keyboard combination assigned to the frame is "
+"pressed. The keyboard assignment is made within the General page of the "
+"Frame Properties dialog."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h3:36-1
+msgid "On Play Action"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:37-1
+msgid ""
+"This event occurs when the action, Play Frame Actions is used from another "
+"frame and uses this frame as the attribute."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:38-1
+msgid ""
+"For example, assume you want several actions to take place in FrameA, but "
+"only when an event occurs in FrameB. In FrameA, set up an On Play Action "
+"event for each action you want to take place. Then in FrameB, set up the "
+"event you want to use to initiate the actions. Assign the action, Play Frame "
+"Actions to this event, and set FrameA as the attribute."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:39-1
+msgid ""
+"With the On Play Action event, you can specify the scope of the event to "
+"determine when the event is recognized."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h3:40-1
+msgid "On Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:41-1
+msgid ""
+"This event occurs when text is newly displayed within the borders of the "
+"frame. Newly displayed text can be text typed into an edit field, or static "
+"text in a dialog when the dialog first appears on the screen."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:42-1
+msgid ""
+"This text can be filtered so only specific text, or text with certain "
+"attributes or colors activates the event."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:43-1
+msgid ""
+"For example, if you set the On Text event for a frame containing a list box, "
+"and set the filter to recognize any highlighted text, every time you arrow "
+"to a new item in the list box, newly highlighted text is displayed and the "
+"event occurs, so the associated action takes place."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:44-1
+msgid ""
+"With the On Text event, you can specify the scope of the event to determine "
+"when the event is recognized."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h2:45-1
+msgctxt "HTM_po_nelkul\\events.htm+html.body.h2:45-1"
+msgid "Text Filters"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:46-1
+msgid ""
+"When using the On Text event, you can specify that the event is recognized "
+"only if the text newly written within the borders of the frame matches a "
+"\"filter\" you set. This filter allows you to specify:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:48-1
+msgid "Foreground (Text) Color"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:49-1
+msgid "Background Color"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:50-1
+msgid "Text attributes (Bold, Highlight, Italic, Underline, etc.)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:51-1
+msgid "A String of Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:53-1
+msgid ""
+"Foreground and background colors can be specified based on the text colors "
+"at the location of the JAWS cursor (where it was before Frame Viewer was "
+"started), by selecting the color names from the edit combo boxes, or by "
+"typing in the RGB (Red, Green, Blue) numeric values."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:54-1
+msgid ""
+"When you specify a string of text for the filter, for the text in the frame "
+"to be considered a match, it must be displayed all on one line, and it "
+"cannot be interrupted by other text, symbols, or graphics."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h2:55-1
+msgctxt "HTM_po_nelkul\\events.htm+html.body.h2:55-1"
+msgid "Event Scope"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:56-1
+msgid ""
+"The On Play Action event and the On Text event can be set so these events "
+"are only recognized under certain conditions. This allows you to limit when "
+"the actions associated with these events occur."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:57-1
+msgid "Set these Events to be recognized:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:59-1
+msgid "All the time, regardless of the location of the system focus"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:60-1
+msgid "Only when the system focus is within the frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:61-1
+msgid "Only when the system focus is not within the frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h2:63-1
+msgctxt "HTM_po_nelkul\\events.htm+html.body.h2:63-1"
+msgid "Event Actions"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:64-1
+msgid ""
+"Actions are what make frames so powerful. Set actions to read the frame or "
+"window, play a sound file, reposition cursors, or run a JAWS script. Each "
+"event you add to your frame is associated with one action, but you can have "
+"several instances of the same event type with different actions associated "
+"with each, so when the event occurs, all the actions take place."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:65-1
+msgid ""
+"<b style=\"font-weight: bold;\">Note</b>: Actions take place in the order "
+"the associated event types are listed in the Events page of the Frame "
+"Properties dialog."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:66-1
+msgid ""
+"When you add an event and choose an action to assign to it, as you move "
+"through the list of actions, a description of each action is provided. Below "
+"are summarized the types of actions that are available."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h3:67-1
+msgid "Speak or Braille Information"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:68-1
+msgid ""
+"There are actions to speak or Braille the following types of information:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:70-1
+msgid ""
+"<b style=\"font-weight: bold;\">Text within a frame or window</b>: You "
+"specify which frame or window."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:71-1
+msgid ""
+"<b style=\"font-weight: bold;\">Text with specific attributes in a frame or "
+"window</b>: Specify the frame or window, and specify the attributes or "
+"colors of the text."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:72-1
+msgid ""
+"<b style=\"font-weight: bold;\">A string of text</b>: Just specify what you "
+"want spoken or displayed in Braille."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:73-1
+msgid ""
+"<b style=\"font-weight: bold;\">A structured message</b>: Specify a "
+"combination of specific text and information gathered through use of script "
+"functions."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:75-1
+msgid ""
+"<b style=\"font-weight: bold;\">Note</b>: The actions related to Braille "
+"only work while you are in structured mode."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h3:76-1
+msgid "Move Cursors"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:77-1
+msgid "There are actions to move cursors as follows:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:79-1
+msgid "Move the JAWS cursor to the top left corner of a frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:80-1
+msgid "Move the JAWS cursor to the top left corner of a window"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:81-1
+msgid "Move the JAWS cursor to the PC cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h3:83-1
+msgid "Play Sounds"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:84-1
+msgid ""
+"There are actions to play sounds you specify, system sounds, or to produce a "
+"beep from the system speaker."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.h3:85-1
+msgid "Other"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.p:86-1
+msgid "There are also actions to:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:88-1
+msgid ""
+"<b style=\"font-weight: bold;\">Load JAWS Configuration Files</b>: Specify "
+"the configuration files you wish to use."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:89-1
+msgid ""
+"<b style=\"font-weight: bold;\">Play Actions Specified in other Frames</b>: "
+"An event occurring in one frame can be set to cause actions in another frame "
+"to take place."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:90-1
+msgid ""
+"<b style=\"font-weight: bold;\">Run JAWS Scripts</b>: Enhance your frames "
+"even further by using them together with JAWS scripts."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.ul.li:91-1
+msgid ""
+"<b style=\"font-weight: bold;\">Suppress Script Events</b>: Prevent script "
+"events from causing information to be spoken or Brailed so as to avoid "
+"duplicating the information your frame is providing."
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.div.table.tbody.tr.td.p:98-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cevents.htm%2Bhtml.body.div.table.tbody.tr.td.p:104-1
+msgid "Next"
+msgstr ""

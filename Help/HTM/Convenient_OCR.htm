@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Convenient OCR</title>
+ <link rel="StyleSheet" href="../../assets/css/default.css" type="text/css"/>
+<meta name="rh-index-keywords" content="Convenient OCR,Recognize Image,Image Recognition"/></head>
+<body>
+<h1>Convenient OCR</h1>
+<p>The Convenient OCR (Optical Character Recognition) feature enables you to access any image that includes textual information as part of the image. With just a few simple keystrokes, JAWS can:</p>
+<ul>
+<li>Recognize images captured using the Freedom Scientific PEARL® reading camera or a flatbed scanner and display recognized text in the Results Viewer. The PEARL is a highly portable document camera that allows you to capture and recognize a page within seconds and also features an automatic mode that senses motion which causes it to capture an image whenever a page is turned.</li>
+<li>Recognize an image file selected in File Explorer and display its recognized contents in the Results Viewer.</li>
+<li>Recognize an inaccessible PDF document currently open in Adobe Reader and display the recognized text in the Results Viewer.</li>
+<li>Recognize images on the screen that may contain text such as the setup window of an application.</li>
+</ul>
+<p>To use Convenient OCR, press <strong>INSERT+SPACEBAR</strong> followed by <strong>O</strong> to access the Convenient OCR layer, and then use one of the following keystrokes:</p>
+<ul>
+<li><strong>A</strong> - Recognizes images captured from a camera or scanner.</li>
+<li><strong>F</strong> - Recognizes the currently selected image file.</li> 
+<li><strong>D</strong> - Recognizes the currently open PDF document.</li>
+<li><strong>R</strong> - If Microsoft Office is installed, recognizes the currently selected image file and places the recognized text into a Word document. You can also select the <strong>Open in Word</strong> link at the bottom of the Results Viewer window.</li> 
+<li><strong>W</strong> - Recognizes the current application window that has focus.</li>
+<li><strong>S</strong> - Recognizes the entire screen.</li>
+<li><strong>C</strong> - Recognizes the currently selected control, such as a graphical button.</li>
+<li><strong>B</strong> - Activates Background OCR to continuously recognize text in the current window as it updates.</li>
+<li><strong>ENTER</strong> - Recognizes text from an image based on the current application and context. This eliminates the need to remember multiple keystrokes constantly. For instance:</li>
+<ul>
+    <li>If you are in File Explorer, recognizes the currently selected image file.</li>
+    <li>If you are in Adobe Reader, recognizes the currently open PDF document.</li>
+    <li>If you are playing a YouTube video, activates the Invisible cursor and places it in the video area so you can access any displayed text as it it is recognized.</li>
+    <li>If you are in a Teams meeting where content is being shared such as PowerPoint slides, activates the Invisible cursor and places it in the shared content area so you can view the recognized text as it updates.</li>
+    <li>In any other applications, recognizes the current window that has focus.</li>
+</ul>
+<li><strong>Q</strong> - Cancels recognition while it is in progress.</li>
+<li><strong>QUESTION MARK</strong> - Displays help for the Convenient OCR layer.</li>
+</ul>
+<p>To correctly recognize text in other languages, you can configure the primary and secondary OCR language. The Convenient OCR settings are in the main tree view in <a href="SettingsCenter.chm::/ConvenientOCR/Convenient_OCR.htm">Settings Center</a>. When you expand this item, you have Primary Recognition Language and Secondary Recognition Language settings. Use the <strong>SPACEBAR</strong> to cycle through the available languages until you hear the one you want, or press <strong>F6</strong> to move to the combo box and select a language.</p>
+
+<h2>Recognizing Images from the PEARL Camera or a Scanner</h2>
+<p>To acquire and read a document with the PEARL camera, position a page under the camera aligned with the page guide, and then press <strong>INSERT+SPACEBAR, O, A</strong> to open the Camera and Scanner Recognition dialog box. Make sure PEARL is selected in the Cameras and Scanners combo box and then press <strong>ENTER</strong> or choose the Acquire button to start the single-page OCR. Once recognition is complete, JAWS displays the text in the Results Viewer where you can use standard reading commands to review the text or select and copy it to other applications. During the recognition process, JAWS also announces the page orientation such as &quot;sideways&quot;, &quot;upside down&quot;, or &quot;right side up.&quot; This is especially helpful for users who need to make sure a page is positioned correctly for folding and inserting into an envelope so the correct information is showing through the window.</p>
+<p class="Tip-Note-Text"><strong>Note:</strong> The field of view that can be captured by the PEARL is 9 inches by 12 inches.</p>
+<p>To acquire multiple images, after pressing <strong>INSERT+SPACEBAR, O, A</strong>, select the Motion Detect Multi-Page Recognition check box before activating the Acquire button to start capturing documents. When you hear JAWS play a camera shutter sound, the current image has been captured and you can place a new page under the camera or turn the page in a book. Once the PEARL no longer detects motion, the next image is captured and recognized. Once you are finished recognizing pages, press <strong>INSERT+SPACEBAR, O, A</strong> again to stop recognition. You can also select the Timeout check box to have recognition stop automatically if the PEARL detects no motion for 30 seconds.</p>
+<p>By default, the PEARL&#39;s built-in light is always on during image capture and OCR. If you want the light to automatically turn on only when the camera detects low lighting conditions, or you prefer to have the light always off, use the Light combo box to change this setting.</p>
+<p>If you are in a location with fluorescent lighting, activate the Advanced button which opens a dialog box where you can select the lighting correction for the flickering of fluorescent light. When finished, select OK or Cancel to return to the main Camera and Scanner Recognition dialog box.</p>
+<p>To acquire an image from a scanner, place the page on the scanner bed then press <strong>INSERT+SPACEBAR, O, A</strong> to open the Camera and Scanner Recognition dialog box. Make sure your scanner is selected in the Cameras and Scanners combo box and then choose the Acquire button to begin the recognition process. Just like when acquiring images from the PEARL, JAWS will also announce the orientation of the page. Once recognition is complete, JAWS displays the text in the Results Viewer where you can use standard reading commands to review the text or select and copy it to other applications. If your scanner includes an auto document feeder, select the Use auto-document feed, if available check box to scan and recognize multiple pages.</p>
+<p>Activate the Advance button to open a dialog box where you can configure additional scanner settings including interrupting the current scan when canceling recognition, adjusting the contrast based on brightness instead of threshold, and closing TWAIN after each scan. Note that not all scanners may support these options. When finished, select OK or Cancel to return to the main Camera and Scanner Recognition dialog box.</p>
+<p class="Tip-Note-Text"><strong>Note:</strong> When capturing multiple images from a camera or scanner, the OCR process takes longer for large batches of pages. As text is recognized, it is added to the end of the existing text already in the Results Viewer. This allows you to continue reading without interruption as the document is processed. If you are currently not reading using Say All, JAWS announces the current line as new text is added to the Results Viewer to indicate that OCR is still in progress.</p>
+<h2>Recognizing Image Files</h2>
+<p>JAWS can recognize text in image files saved as BMP, JPG, JPEG, GIF, TIF, TIFF, PNG, PCX, or PDF. To recognize a file, press <strong>INSERT+SPACEBAR, O, F</strong> while focused on the specific file in File Explorer or on the Desktop. The recognized text will be displayed in the results viewer where you can use standard reading commands to review the text or select and copy it to other applications. Alternatively, press the <strong>APPLICATIONS</strong> key to open the context menu and choose &quot;Recognize File with JAWS,&quot; or &quot;Recognize File with Fusion&quot; if Fusion is running.</p>
+<p class="Tip-Note-Text"><strong>Note:</strong> If JAWS is not able to perform OCR on a PDF due to its security settings, try opening the PDF in Adobe Reader and then use the <strong>INSERT+SPACEBAR, O, D</strong> command to recognize PDF documents.</p>
+<h2>Recognizing an Open PDF Document</h2>
+<p>If you open a PDF in Adobe Reader which turns out to be inaccessible, press <strong>INSERT+SPACEBAR, O, D</strong> to have JAWS begin recognizing the entire document. After several seconds, the contents of the PDF file are displayed in the Results Viewer where you can use standard reading commands to review the text or select and copy it to other applications.</p>
+<p class="Tip-Note-Text"><strong>Note:</strong> The OCR process takes longer for larger PDF files. As text is recognized, it is added to the end of the existing text already in the Results Viewer. This allows you to continue reading without interruption as the document is processed. If you are currently not reading using Say All, JAWS announces the current line as new text is added to the Results Viewer to indicate that OCR is still in progress.</p>
+<p class="Tip-Note-Text"><strong>Note:</strong> If the PDF document requires a password, you will be prompted to enter it when you first press <strong>INSERT+SPACEBAR, O, D</strong>. You must enter the correct password before the OCR process will continue.</p>
+<h2>Recognizing Onscreen Content</h2>
+<p>Sometimes, you will encounter application screens or controls that are only images of text. When this occurs, you can press <strong>INSERT+SPACEBAR, O, W</strong> to recognize the current application window, <strong>INSERT+SPACEBAR, O, S</strong> to recognize the entire screen, or <strong>INSERT+SPACEBAR, O, C</strong> to recognize the current control. JAWS will quickly recognize the image and activate the JAWS cursor so you can navigate the resulting text. The recognized text will be in the same location as the actual image on the screen. In order to differentiate the recognized text from other text that may be in the window, JAWS will use a different voice when it encounters the recognized text. When you activate the PC Cursor, or switch to another application or dialog box, the text is removed and you will need to perform the OCR again.</p>
+<p>For example, if you are trying to install an application and the setup process does not appear to have any readily available text when pressing <strong>TAB</strong> or using the JAWS Cursor, you can try Convenient OCR. Start with the PC Cursor and press <strong>INSERT+SPACEBAR, O, W</strong> to recognize the text of the welcome screen graphic. You can then use the JAWS Cursor and <strong>NUM PAD SLASH</strong> (left mouse button) to move to and choose what are possible buttons and links.</p>
+<p>If you are not getting clear recognition results or you find that text is running together, refer to <a href="https://www.freedomscientific.com/Support/TechnicalSupport/Bulletin/1457" target="_blank">FAQ 63556</a> for ways to optimize performance. When recognizing a PDF document or other image files, Convenient OCR does not use the physical image that is currently visible on the screen, so the recognition results feature a higher degree of accuracy since they are not affected by the current screen resolution.</p>
+<h3>Background OCR</h3>
+<p>You can have JAWS continuously OCR text in the background, ensuring you can seamlessly access and interact with screen content. This feature is most useful in applications where onscreen content is partially or completely inaccessible. Examples include security tools, messaging platforms, file management utilities, system maintenance software, multimedia editing programs, proprietary laptop utilities, games, or shared screen content.</p>
+<p>To start Background OCR, press <strong>INSERT+SPACEBAR, O, B</strong>. To review the OCR results, turn on the JAWS or Invisible cursor. Continue navigating with the JAWS or Invisible cursor to read the recognized text as it updates. Braille display users can also position themselves on a line and watch it update in real-time as new text is recognized.</p>
+<p class="Tip-Text"><strong>Tip:</strong> Pressing <strong>INSERT+SPACEBAR, O, CTRL+B</strong> also starts background OCR, but with the addition of a soft clicking sound to indicate the OCR process is being performed.</p>
+<p>Background OCR remains active until a new window gains focus. Otherwise, you can stop it using <strong>INSERT+SPACEBAR, O, Q</strong>.</p>
+<p>A common use for Background OCR is using the <strong>INSERT+SPACEBAR</strong>, <strong>O</strong>, <strong>ENTER</strong> command to access textual content embedded in YouTube videos as well as screen content shared in Teams or Zoom.</p>
+<p class="Tip-Note-Text"><strong>Note:</strong> While <strong>INSERT+SPACEBAR</strong>, <strong>O</strong>, <strong>B</strong> also works for accessing video or shared screen content, <strong>INSERT+SPACEBAR</strong>, <strong>O</strong>, <strong>ENTER</strong> is recommended as it limits background recognition to the area with the video or screen share. The Invisible cursor automatically activates and is restricted to this area to minimize distractions. Using <strong>INSERT+SPACEBAR</strong>, <strong>O</strong>, <strong>B</strong> captures text from the content but may mix it with other text on the screen.</p>
+<h3>YouTube Example</h3>
+<p>To use Background OCR to recognize text in a YouTube video:</p>
+<ol>
+<li>Start playing a video on YouTube.com.</li>
+<li>Press <strong>INSERT+SPACEBAR</strong>, <strong>O</strong>, <strong>ENTER</strong>. JAWS starts Background OCR, then activates and moves the Invisible cursor to the video.</li>
+<li>Use your <strong>ARROW</strong> keys to explore the recognized text.</li>
+<li>At any point, you can verify Background OCR is active by pressing <strong>ALT+DELETE</strong>. If Background OCR is enabled, this will be indicated following the information on the active cursor and its position.</li>
+<li>Cancel Background OCR by doing one of the following:<br /><br />
+<ul>
+<li>Pressing <strong>INSERT+SPACEBAR</strong>, <strong>O</strong>, <strong>Q</strong> to cancel recognition.</li>
+<li>Switching to the PC or Virtual PC cursor.</li>
+<li>Refreshing the page.</li>
+<li>Loading a new video or page.</li>
+<li>Changing focus to another application or window.</li>
+</ul></li>
+</ol>
+<h3>Shared Slides in Teams and Zoom Example</h3>
+<p>To use Background OCR to recognize the text of a shared screen or presentation in a Teams or Zoom meeting:</p>
+<ol>
+<li>Join a Teams or Zoom meeting where content is being shared.</li>
+<li>Press <strong>INSERT+SPACEBAR</strong>, <strong>O</strong>, <strong>ENTER</strong>. JAWS starts Background OCR, then activates and moves the Invisible cursor to the shared content area.</li>
+<li>Use your <strong>ARROW</strong> keys to explore the recognized text.</li>
+<li>At any point, you can verify Background OCR is active by pressing <strong>ALT+DELETE</strong>. If Background OCR is enabled, this will be indicated following the information on the active cursor and its position.</li>
+<li>Cancel Background OCR by doing one of the following:<br /><br />
+<ul>
+<li>Pressing <strong>INSERT+SPACEBAR</strong>, <strong>O</strong>, <strong>Q</strong> to cancel recognition.</li>
+<li>Switching to the PC or Virtual PC cursor.</li>
+<li>Changing focus to another application or window.</li>
+</ul></li>
+</ol>
+<h2>Mouse Mode (Fusion only)</h2>
+<p>Mouse Mode in Fusion provides an alternative method to access and utilize Convenient OCR without relying on JAWS hotkeys. By using Mouse Mode, you can bypass the need for keyboard shortcuts, making it easier to access Convenient OCR if you prefer mouse navigation or if you encounter issues with hotkeys. This method ensures that the feature is accessible to Fusion users with different preferences and needs.</p>
+<ol>
+    <li>To launch and use Convenient OCR through Mouse Mode, do one of the following:<br />
+    <ul>
+        <li>On the Tools toolbar tab, select the <strong>OCR</strong> button.</li>
+        <li>Press <strong>CAPS LOCK+CTRL+O</strong>.</li>
+    </ul></li>
+    <li>After Fusion announces, “OCR Mouse Mode,” click and drag the mouse pointer over the item you want to have described.</li>
+    <li>Once it is processed, the description displays in the Results Viewer window and is also read aloud.</li>
+</ol>
+<p><i style="font-style: italic;">See also:</i></p>
+<p><a href="../Picture_Smart/Picture_Smart.htm">Picture Smart AI</a></p>
+<p> </p>
+<div style="text-align: center;" align="center">
+<div align="center">
+<table x-use-null-cells="" style="width: 100%; border-spacing: 3px; float: aligncenter; border-spacing: 3px;" cellspacing="3" width="100%">
+<tbody><tr>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="javascript:window.history.go(-1);" accesskey="b">Back</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="../Picture_Smart/Picture_Smart.htm">Next</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+</body></html>

@@ -1,0 +1,154 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\introduction_to_frames.htm+html.head.title:12-1"
+msgid "Introduction to Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\introduction_to_frames.htm+html.body.h1:17-1"
+msgid "Introduction to Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:18-1
+msgid ""
+"Frames are a quick, easy way to make your applications more accessible. A "
+"frame is a rectangular area of a window or the screen you define so JAWS "
+"knows to monitor it for any activity that might take place."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.h2:19-1
+msgid "What Frames Do"
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:20-1
+msgid "Frames can do many things. Some of the more common uses are:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.ul.li:22-1
+msgid "Speak or Braille information at the press of a keystroke."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.ul.li:23-1
+msgid ""
+"Speak or Braille information when you <b>TAB</b> to a control within the "
+"borders of the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.ul.li:24-1
+msgid ""
+"Speak or Braille information when text is newly displayed within the borders "
+"of the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.ul.li:25-1
+msgid "Prevent JAWS from automatically speaking information."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:27-1
+msgid ""
+"Quickly list all of your currently active frames by pressing <b>INSERT+F9</"
+"b>. Select a frame in the list and press <b>ENTER</b> and the JAWS cursor is "
+"moved to that frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:28-1
+msgid ""
+"Press <b>CTRL+INSERT+A</b> to quickly display the names and textual content "
+"of all currently active frames within the Virtual Viewer. Easily select text "
+"and copy it to the clipboard. Use standard reading commands to read the "
+"information. Each frame's name is a link, and selecting one of these links "
+"moves the JAWS cursor to that frame. This feature makes it very easy to "
+"interact with text without moving focus away from the control or window "
+"where you were working, and will save many people a lot of time in terminal "
+"emulation programs, call centers, and many other situations."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.h2:29-1
+msgid "Working with Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:30-1
+msgid ""
+"Frames are now much easier to work with and modify. We provide a totally new "
+"interface that is easier to use for everyone. In Frame Viewer, frames are "
+"visible on the screen, and standard commands let you easily move between "
+"them, move and resize them, and access their properties. Refer to <a "
+"href=\"frame_viewer.htm\">Frame Viewer</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:31-1
+msgid ""
+"Frames also provide the support to make it possible to quickly and easily "
+"create prompts for controls when the prompt does not speak or does not "
+"provide useful information. Refer to <a "
+"href=\"Add_and_Change_Prompts.htm\">Add and Change Prompts</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.h2:32-1
+msgid "Designing Effective Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:33-1
+msgid "With frames, there are three main things to consider:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:34-1
+msgid ""
+"<b style=\"font-weight: bold;\">Position</b>: Your frame needs to be "
+"properly positioned. The frame's size and location determine what areas of "
+"the screen or window are monitored. Frames should be positioned based on "
+"what information you want them to speak, what you want them to do, or what "
+"activity occurring in your application you wish to have cause the frame to "
+"do something. Frames are positioned when they are first created, and easy to "
+"use methods are provided for you to move or resize a frame within Frame "
+"Viewer."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:35-1
+msgid ""
+"<b style=\"font-weight: bold;\">Validation Rules</b>: Frames set rules to "
+"compare information in your application with information that is specified "
+"when each frame is created. This ensures frames are only available where you "
+"need to use them. Frames should be limited so they only work where you need "
+"them. If you design a series of three or four frames to make a specific "
+"dialog box in Microsoft Word more accessible, the frames should only be "
+"active in that dialog box. If they are active in other Word dialog boxes, "
+"you will receive unpredictable, and possibly very confusing results."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.p:36-1
+msgid ""
+"<b style=\"font-weight: bold;\">Events and Actions</b>: Events are the "
+"activities that cause your frames to perform some action. Set your frames to "
+"do something when a key is pressed, when text is newly displayed within the "
+"borders of the frame, when you move to a control within the borders of a "
+"frame, or when one of these events occur within another frame. Assign the "
+"actions you wish to occur to each event, and a frame can do many things, "
+"naturally responding as you work in your application."
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.div.table.tbody.tr.td.p:42-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cintroduction_to_frames.htm%2Bhtml.body.div.table.tbody.tr.td.p:48-1
+msgid "Next"
+msgstr ""

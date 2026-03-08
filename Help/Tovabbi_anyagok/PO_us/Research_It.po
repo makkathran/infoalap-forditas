@@ -1,0 +1,605 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.head.title:4-2
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.head.title:4-2"
+msgid "Research It"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h1:8-2
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.h1:8-2"
+msgid "Research It"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:9-2
+msgid ""
+"For a quick overview, see <a href=\"#OnTheFly\">Research It On the Fly</a>, "
+"or continue reading the following introduction."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:10-2
+msgid ""
+"Research It is a versatile tool that provides quick access to data while "
+"also making it easy to return to your primary task. It uses what is known as "
+"a lookup source and the Results Viewer to find information, whether it is "
+"the meaning of a word, top news stories, and more. Using just a few "
+"keystrokes, you can launch Research It from any application on your "
+"computer. The following describes keystrokes, available lookup sources, and "
+"various ways to launch and use Research It."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:12-4
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ul.li:12-4"
+msgid "Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:13-4
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ul.li:13-4"
+msgid "Lookup Sources"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:14-4
+msgid "Examples Showing How to Use Research It"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:15-4
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ul.li:15-4"
+msgid "Changing the Default Lookup Source"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:16-4
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ul.li:16-4"
+msgid "Removing or Adding a Lookup Source"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h2:18-1
+msgid "Research It On the Fly"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:19-2
+msgid ""
+"To quickly lookup an item of interest using Research It, do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:21-4
+msgid ""
+"Press <strong>INSERT+SPACEBAR</strong>, <strong>R</strong>.<br /> The "
+"Research It dialog box appears with focus in the Word or Phrase edit combo "
+"box."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:23-4
+msgid "Do one of the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:26-4
+msgid ""
+"Type a word, phrase, date, tracking number, or other item into the edit "
+"combo box, press <strong>TAB</strong>, and then select a lookup source from "
+"the list."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:27-4
+msgid ""
+"Select an item from the edit combo box history list, press <strong>TAB</"
+"strong>, and then select a lookup source from the list."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:28-4
+msgid ""
+"Press <strong>TAB</strong> to jump directly to the Lookup Source list, and "
+"then select a lookup source. (This option is useful when using a news lookup "
+"source.)"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:31-4
+msgid ""
+"Press <strong>ENTER</strong>.<br /> After a few seconds, the JAWS Results "
+"Viewer window opens and displays the search results. <br /> <br /> "
+"<strong>Note: </strong> For specific examples describing how to enter search "
+"parameters, refer to <a href=\"#ResearchItExamples\">Research It Examples</"
+"a>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h2:37-1
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.h2:37-1"
+msgid "Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:38-2
+msgid ""
+"The following briefly describes the available Research It keystrokes. Note "
+"that if JAWS is configured for Laptop Layout mode, substitute <strong>CAPS "
+"LOCK</strong> for the <strong>INSERT</strong> key."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:40-4
+msgid ""
+"<strong>INSERT+SPACEBAR</strong>, <strong>R</strong>: Opens the Research It "
+"dialog box, where you can then type a word or expression of interest, and "
+"then select a lookup source to perform your search. For example, this can be "
+"a word to use with the Wikipedia search query to view its meaning or "
+"description. This convenient, layered keystroke provides the most efficient "
+"way to search for a term. <strong>Note:</strong> When using this keystroke, "
+"press and release <strong>INSERT+SPACEBAR</strong>, and then press "
+"<strong>R</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:41-4
+msgid ""
+"<strong>INSERT+WINDOWS Key+R</strong>: Launches Research It and uses the "
+"primary lookup source to directly show results in the Results Viewer. This "
+"keystroke bypasses the Research It dialog box.<br /> <br /> By default, "
+"Wiktionary is the primary lookup source. This means that while the cursor is "
+"on a word in a document or Web page, you can press this keystroke and "
+"quickly lookup the Wiktionary description for that word. You can always "
+"change the primary lookup source at any time using the <a "
+"href=\"#Default\">Options button</a> or the JAWS Settings Center, which lets "
+"you select which lookup source to use as the default. As you become more "
+"familiar with Research It, you will want to change the default lookup source "
+"used by JAWS, or just use a different lookup source on the fly."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:44-4
+msgid ""
+"<strong>INSERT+CTRL+WINDOWS Key+R</strong>: Functions the same as the "
+"<strong>INSERT+SPACEBAR</strong>, <strong>R</strong> keystroke."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:45-4
+msgid ""
+"<strong>INSERT+F2</strong>, <strong>R</strong>: Opens Research It from the "
+"Run JAWS Manager dialog box. It provides another way for you to select a "
+"lookup source for the word at the current cursor location. Note that this is "
+"temporary and does not change your default settings. JAWS will continue to "
+"use the primary lookup source the next time you run Research It."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:46-4
+msgid ""
+"<strong>ESC</strong>: Closes the Results Viewer window and returns to your "
+"original focus point."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h2:48-1
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.h2:48-1"
+msgid "Lookup Sources"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:49-2
+msgid "JAWS comes with the following lookup sources."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:51-4
+msgid ""
+"<strong>Wiktionary</strong>: Provides a dictionary description of the word "
+"at the current cursor location in a document or Web page. You can also use "
+"the edit combo box to type a word to lookup. Wiktionary is the primary "
+"lookup source. Refer to the <a href=\"#WiktionaryExample\">Wiktionary "
+"example</a> for more information."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:52-4
+msgid ""
+"<strong>Wikipedia</strong>: Provides encyclopedia results for the word at "
+"the current cursor location in a document or Web page. You can also use the "
+"edit combo box to type a word to lookup. See the <a "
+"href=\"#WikipediaExample\">Wikipedia example</a> for more information."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:53-4
+msgid ""
+"<strong>BBC Top News Stories</strong>: Displays a link and a synopsis of "
+"news stories as reported by the BBC. Select the link to read the complete "
+"story. See the <a href=\"#NewsExample\">News Stories example</a> to help you "
+"configure the news search."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:54-4
+msgid ""
+"<strong>CNN Headline News</strong>: Displays a link and a synopsis of news "
+"stories as reported by CNN Headline News. Select the link to read the "
+"complete story. To use this lookup source, leave the edit combo box blank, "
+"and then select it from the list."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:55-4
+msgid ""
+"<strong>Fox News Stories</strong>: Displays a link and a synopsis of news "
+"stories as reported by Fox News. Select the link to read the complete story. "
+"To use this lookup source, leave the edit combo box blank, and then select "
+"it from the list."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:56-4
+msgid ""
+"<strong>Technology News from CNET</strong>: Displays a link and a synopsis "
+"of the latest headlines from CNET news. Select the link to read the complete "
+"story. To use this lookup source, leave the edit combo box blank, and then "
+"select it from the list."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:57-4
+msgid ""
+"<strong>Bookshare™ Book Search</strong>: Displays search results from "
+"Bookshare.org based on an author’s name, a book’s ISBN number, or words "
+"found in a book title or book description. If a match is found, the result "
+"appears as a link containing the author, title, and copyright date."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:58-4
+msgid ""
+"<strong>Area Code Lookup</strong>: Type a U.S. or Canadian area code into "
+"the edit combo box to learn the city, state, or province location for that "
+"area code."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:59-4
+msgid ""
+"<strong>Time Search</strong>: Displays the current time and time zone for "
+"any location typed into the edit field. <strong>Note:</strong> Be specific "
+"when entering a location since one name may represent multiple cities. For "
+"example, if you only type London into the edit combo box, you will receive "
+"time results for London, England, U.K., London, Ontario, Canada, and London, "
+"Arkansas, U.S.A. If no result is returned, enter another city that is close "
+"to the preferred location."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:60-4
+msgid ""
+"<strong>Convert Currency</strong>: Use this lookup source to convert an "
+"amount of money from one currency into a foreign equivalent. The current "
+"day’s exchange rate is used to convert the currency values typed into the "
+"lookup edit field. Refer to the <a href=\"#CurrencyExample\">Convert "
+"Currency example</a> for more information."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:61-4
+msgid ""
+"<strong>Flight Info Lookup</strong>: Provides recent or current flight "
+"status when you type an airline abbreviation followed by a valid flight "
+"number in the edit combo box. Two letter abbreviations are used to identify "
+"an airline. A list of abbreviations will appear in the Results Viewer if you "
+"enter an invalid airline code, an invalid flight number, or no information "
+"in the edit combo box. Text typed in the edit combo box is not case-"
+"sensitive and can be entered with or without a space between the airline "
+"abbreviation and flight number."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:63-1
+msgid ""
+"If you are a software developer or script developer, you can create and "
+"customize your own lookup module and tailor it to your organization's needs. "
+"A law or medical office can have a search engine for legal and medical "
+"terms, while a school or government agency can have a lookup module "
+"dedicated to specific acronyms and terminology. Visit the <a href=\"https://"
+"support.freedomscientific.com/Products/Blindness/JawsDocumentation\" "
+"target=\"_blank\">JAWS Documentation Web page</a> to download a developer's "
+"guide that outlines formatting for rule sets and debugging techniques."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h2:64-1
+msgid "Research It Examples"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:65-2
+msgid ""
+"There are several ways to run Research It. You can use the default lookup "
+"source, or you can select a lookup source from the Research It list. The "
+"following examples show different ways to search for specific information. "
+"For other ideas and ways to use Research It, listen to the <a href=\"https://"
+"www.freedomscientific.com/About/FSCast/FullListing#Episode33\" "
+"target=\"_blank\">August 2009 FSCast</a> for a demonstration."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h3:66-2
+msgid "Wiktionary"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:67-2
+msgid ""
+"Imagine that you are reading a document online and you come across an "
+"unfamiliar word. With Wiktionary set as your primary lookup source, you can "
+"do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:69-4
+msgid ""
+"While the cursor is on that word, press <strong>INSERT+WINDOWS Key+R</"
+"strong> to launch Research It.<br /> <br /> After a few seconds, the JAWS "
+"Results Viewer window opens and displays a Wiktionary-based description of "
+"the word. With the Results Viewer open, you can also select and copy the "
+"information to the Windows clipboard."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:72-4
+msgid ""
+"After reading the description, press <strong>ESC</strong> to close the "
+"Results Viewer, and JAWS returns to the cursor location in your document."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h3:74-2
+msgid "Wikipedia"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:75-2
+msgid "You can use Wikipedia to quickly research an item."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:77-4
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ol.li:77-4"
+msgid "Press <strong>INSERT+SPACEBAR</strong>, <strong>R</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:78-4
+msgid ""
+"In the edit combo box, type the term that you want to find, and then press "
+"<strong>TAB</strong>. For example, type:<br /> <br /> <strong> Freedom "
+"Scientific</strong>, and press <strong>TAB</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:82-4
+msgid ""
+"Use the <strong>UP</strong> and <strong>DOWN ARROWS</strong> or first letter "
+"navigation to select Wikipedia, and press <strong>ENTER</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:83-4
+msgid ""
+"After a few seconds, the Results Viewer window opens and displays the "
+"results returned from the Wikipedia lookup. Press <strong>ESC</strong> to "
+"close the Results Viewer."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h3:85-2
+msgid "News Stories"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:86-2
+msgid ""
+"For a summary of current news stories, you can use the following procedure "
+"for the BBC, CNN, Fox News, and Technology News for CNET lookup sources."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:88-4
+msgid ""
+"Press <strong>INSERT+SPACEBAR</strong>, <strong>R</strong>, and then press "
+"<strong>TAB</strong> to move focus to the Lookup Source list."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:89-4
+msgid ""
+"Select a news lookup source from the list, and press <strong>ENTER</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:90-4
+msgid ""
+"After a few seconds, the Results Viewer window opens and displays a synopsis "
+"of news stories using the selected lookup source. If you want more "
+"information about a specific story, select its Full Article link. This "
+"action closes the Results Viewer window and then displays the complete story "
+"in a Web browser. Otherwise, press <strong>ESC</strong> to close the Results "
+"Viewer."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h3:92-1
+msgid "Convert Currency"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:93-2
+msgid ""
+"Use the Convert Currency lookup source to quickly convert an amount of money "
+"from one currency to another currency. The lookup source uses three-"
+"character abbreviations to represent <a "
+"href=\"Currency_Abbreviations.htm\">international currencies</a>. The "
+"conversion that appears is based on the day’s current conversion rate."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:95-4
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ol.li:95-4"
+msgid "Press <strong>INSERT+SPACEBAR</strong>, <strong>R</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:96-4
+msgid ""
+"Type the amount of money and currency that you want to convert from followed "
+"by the currency that you want to convert to, and then press <strong>TAB</"
+"strong>. For example, to convert 100 U.S. dollars into Euros, type:<br /> "
+"<br /> <strong>100 USD EUR</strong> and then press<strong> TAB</strong>.<br /"
+"> <br /> <strong>Note:</strong> Make sure to include a space between each "
+"item. Always use the currency’s three-character abbreviation. Select <a "
+"href=\"Currency_Abbreviations.htm\">currency abbreviations</a> for a list of "
+"currencies."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:102-4
+msgid ""
+"Use the <strong>UP</strong> and <strong>DOWN ARROWS</strong> or first letter "
+"navigation to select Convert Currency and then press <strong>ENTER</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:103-4
+msgid ""
+"After a few seconds, the Results Viewer window opens and displays the "
+"conversion results, for example:<br /> <br /> <strong>100 U.S. dollars = "
+"67.4399784 Euros</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h2:107-1
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.h2:107-1"
+msgid "Changing the Default Lookup Source"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:108-2
+msgid ""
+"The fastest way to change the default lookup source is through the Research "
+"It dialog box as described in the following steps. Note that the default can "
+"also be set using the <a href=\"#SC\">Settings Center</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:110-4
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ol.li:110-4"
+msgid ""
+"Press <strong>INSERT+SPACEBAR</strong>, <strong>R</strong>. The Research It "
+"dialog box opens."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:111-4
+msgid ""
+"Press <strong>TAB</strong> to move to the Options button, and then press "
+"<strong>ENTER</strong>. The Research It Options dialog box opens."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:112-4
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ol.li:112-4"
+msgid ""
+"Press the <strong>UP</strong> or <strong>DOWN ARROWS</strong> to select a "
+"lookup source, and then press <strong>TAB</strong> to move to the Set "
+"Primary button."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:113-4
+msgid ""
+"Press <strong>SPACEBAR</strong> to make the selected item the primary lookup "
+"source, and then choose OK to save changes and close the Research It Options "
+"dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:115-1
+msgid ""
+"<strong>Note:</strong> After setting a default lookup source, you can use "
+"<strong>INSERT+WINDOWS Key+R</strong>, which bypasses the Research It dialog "
+"box and automatically launches the Results Viewer using the new default. You "
+"can also continue to use <strong>INSERT+SPACEBAR</strong>, <strong>R</"
+"strong> to run Research It."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h3:116-1
+msgid "Using Settings Center"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:117-1
+msgid ""
+"To assign a default lookup source using Settings Center, do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:119-3
+msgid "Press <strong>INSERT+F2</strong>, and select Settings Center."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:120-8
+msgid "Press <strong>CTRL+SHIFT+D</strong> to load the JAWS default settings."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:122-8
+msgid ""
+"Press <strong>TAB</strong> to move to the tree view, and then select and "
+"open the Research It group."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:123-8
+msgid ""
+"Press <strong>SPACEBAR</strong> to choose the Configure Lookup button. The "
+"Research It Options dialog box opens."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:124-8
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ol.li:124-8"
+msgid ""
+"Press the <strong>UP</strong> or <strong>DOWN ARROWS</strong> to select a "
+"lookup source, and then press <strong>TAB</strong> to move to the Set "
+"Primary button."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:125-8
+msgid ""
+"Press <strong>SPACEBAR</strong> to make the selected item the primary lookup "
+"source."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:126-8
+msgid "Choose OK to save changes and close the Research It Options dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:127-8
+msgid "Choose OK to save changes and close Settings Center."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:129-1
+msgid ""
+"Select <a href=\"SettingsCenter.chm::/ResearchIt/"
+"Research_It_Options_Dialog.htm\">Research It Options Dialog</a> for more "
+"information about this dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.h2:130-1
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.h2:130-1"
+msgid "Removing or Adding a Lookup Source"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.p:131-1
+msgid "To remove or add an item to the Lookup Source list, do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:133-3
+msgctxt "HTM_po_nelkul\\Research_It.htm+html.body.ol.li:133-3"
+msgid ""
+"Press <strong>INSERT+SPACEBAR</strong>, <strong>R</strong>. The Research It "
+"dialog box opens."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:135-3
+msgid ""
+"Press <strong>TAB</strong> to move to the Options button, and then press "
+"<strong>SPACEBAR</strong>. The Research It Options dialog box opens."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:136-3
+msgid ""
+"Press <strong>UP</strong> or <strong>DOWN ARROWS</strong> to select a lookup "
+"source, and then do one of the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:140-3
+msgid ""
+"To remove a lookup source from the list, press <strong>SPACEBAR</strong> to "
+"clear the check box."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ul.li:141-3
+msgid ""
+"To add a lookup source to the list, press <strong>SPACEBAR</strong> to "
+"select the check box."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.ol.li:144-3
+msgid ""
+"Press <strong>TAB</strong> to move to the <strong>OK</strong> button and "
+"then press <strong>ENTER</strong>. <br /> <br /> <strong>Note:</strong> When "
+"you update your copy of JAWS, all lookup sources are restored and appear in "
+"the list box."
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.div.table.tbody.tr.td.p:158-26
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5CResearch_It.htm%2Bhtml.body.div.table.tbody.tr.td.p:166-26
+msgid "Next"
+msgstr ""

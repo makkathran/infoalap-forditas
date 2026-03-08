@@ -1,0 +1,81 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\create_a_prompt.htm+html.head.title:12-1"
+msgid "Creating a Prompt"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\create_a_prompt.htm+html.body.h1:17-1"
+msgid "Creating a Prompt"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.p:18-1
+msgid "To create a prompt:"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.ol.li:20-1
+msgid "Move to the control for which the prompt is not properly spoken."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.ol.li:21-1
+msgid "Press <b>CTRL+INSERT+TAB</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.ol.li:22-1
+msgid ""
+"A dialog box appears to walk you through the creation of the prompt. On the "
+"first page, enter the prompt for the control as you want JAWS to speak it, "
+"and then select Next."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.ol.li:23-1
+msgid ""
+"On the second page, enter the prompt for the control as you want JAWS to "
+"display it in Braille, and then select Next."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.ol.li:24-1
+msgid ""
+"On the third page, specify a Tutor message to provide assistance with "
+"navigation or the use of this control. If you leave the Tutor message blank, "
+"the default message is used. Select Finish to create your prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.p:26-1
+msgid ""
+"<b style=\"font-weight: bold;\">Note</b>: You can also press <b>INSERT+F2</"
+"b> to open the Run JAWS Manager dialog and select Prompt Create from the "
+"list to create a prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.p:27-1
+msgid ""
+"If you wish to change a prompt you have assigned, just press "
+"<b>CTRL+INSERT+TAB</b> again and change the labels you entered."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.div.table.tbody.tr.td.p:33-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreate_a_prompt.htm%2Bhtml.body.div.table.tbody.tr.td.p:39-1
+msgid "Next"
+msgstr ""

@@ -1,0 +1,138 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.head.title:12-1
+msgid "Additional Notes onLaptop Keystrokes for Reading Text and Information"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h1:17-1
+msgid "Additional Notes on Laptop Keystrokes for Reading Text and Information"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h2:18-1
+msgid "General Notes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.p:19-1
+msgid ""
+"Most of the keystrokes for reading text move the active cursor to the "
+"beginning of the text being read. Keystrokes for reading the current "
+"character, line, word, sentence, or paragraph do not move the active cursor. "
+"Most of these keystrokes work in all cursor modes. The JAWS and Invisible "
+"cursor can only read text already on the screen; they cannot scroll a "
+"document in the manner the PC cursor or Virtual PC cursor can."
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h2:20-1
+msgid "Keystroke Specific Notes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h3:21-1
+msgid "Say Character Phonetically (CAPS LOCK+COMMA twice quickly)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.p:22-1
+msgid ""
+"After pressing this keystroke, <b>CAPS LOCK+M</b> says the prior character "
+"phonetically and <b>CAPS LOCK+PERIOD</b> says the next character "
+"phonetically until some other keystroke is pressed. This keystroke works in "
+"all cursor modes."
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h3:23-1
+msgid "Say ASCII or Hexadecimal Value (CAPS LOCK+COMMA three times quickly)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.p:24-1
+msgid ""
+"This keystrokes reads the ASCII value of the current character. If you want "
+"to hear the hexadecimal value of the current character instead, select the "
+"Speak Character Value in Hex check box in the Images and Symbols group in "
+"Settings Center."
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h3:25-1
+msgid "Spell Word (CAPS LOCK+K twice quickly)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.p:26-1
+msgid ""
+"After pressing this keystroke, <b>CAPS LOCK+J</b> spells the prior word and "
+"<b>CAPS LOCK+L</b> spells the next word until some other keystroke is "
+"pressed. This keystroke works in all cursor modes."
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h3:27-1
+msgid "Say to Cursor (CAPS LOCK+SHIFT+J)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.p:28-1
+msgid ""
+"Any text to the left of, and on the same line as, the active cursor is read. "
+"This keystroke works in all cursor modes. This keystroke does not move the "
+"active cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h3:29-1
+msgid "Say from Cursor (CAPS LOCK+SHIFT+L)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.p:30-1
+msgid ""
+"Any text to the right of, and on the same line as, the active cursor is "
+"read. This keystroke works in all cursor modes. This keystroke does not move "
+"the active cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h3:31-1
+msgid "Say All (CAPS LOCK+A or CAPS LOCK+DOWN ARROW)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.p:32-1
+msgid ""
+"When in JAWS or Invisible Cursor modes, this keystroke stops reading when "
+"the text currently displayed on the screen has been read, or when "
+"interrupted. When in PC or Virtual PC Cursor modes, this keystroke reads to "
+"the end of the current document, or until interrupted."
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h3:33-1
+msgid "Say Top Line of Window (CAPS LOCK+SHIFT+Y)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.p:34-1
+msgid ""
+"This keystroke may have different results in different applications. In some "
+"programs, it reads the title bar, while in others it may read the menus or "
+"toolbars at the top of the window."
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.h3:35-1
+msgid "Say Bottom Line of Window (CAPS LOCK+SHIFT+N)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.p:36-1
+msgid ""
+"This keystroke reads the bottom line of a window, which is normally where a "
+"status bar is located."
+msgstr ""
+
+#: HTM_po_nelkul%5Cllaptop_keystrokes_for_reading_text_an.htm%2Bhtml.body.div.table.tbody.tr.td.p:41-1
+msgid "Back"
+msgstr ""

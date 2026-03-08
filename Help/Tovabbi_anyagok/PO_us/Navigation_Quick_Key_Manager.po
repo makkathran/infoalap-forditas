@@ -1,0 +1,162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.head.title:11-2
+msgctxt "HTM_po_nelkul\\Navigation_Quick_Key_Manager.htm+html.head.title:11-2"
+msgid "Navigation Quick Key Manager"
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.h1:14-2
+msgctxt "HTM_po_nelkul\\Navigation_Quick_Key_Manager.htm+html.body.h1:14-2"
+msgid "Navigation Quick Key Manager"
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.p:15-2
+msgid ""
+"Navigation Quick Keys are single or combination keystrokes that let you move "
+"quickly around Web pages, Acrobat PDF files, Microsoft Word documents, or "
+"Microsoft Outlook e-mail messages. For example, if you press the letter "
+"<strong>H</strong> while visiting a Web page, JAWS jumps to and reads the "
+"next heading on the page. Likewise, if you press <strong>SHIFT+H</strong>, "
+"JAWS jumps to and reads the previous heading."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.p:16-2
+msgid ""
+"Use the Navigation Quick Key Manager to view current key assignments, <a "
+"href=\"#Edit\">edit key assignments</a>, or <a href=\"#Delete\">delete key "
+"assignments</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.h2:17-2
+msgid "Opening the Navigation Quick Key Manager"
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.p:18-2
+msgid "To open the Navigation Quick Key Manager, do one of the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.ul.li:20-4
+msgid ""
+"Press <strong>INSERT+F2</strong>, <strong>N</strong>, and then "
+"<strong>ENTER</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.ul.li:22-4
+msgid ""
+"From the JAWS application window, press <strong>ALT+U</strong> to open the "
+"Utilities menu, press <strong>N</strong> to jump to the Navigation Quick Key "
+"manager, and then press <strong>H</strong> to open HTML/PDF Keys, <strong>O</"
+"strong> to open Microsoft Outlook Keys, or <strong>W</strong> to open "
+"Microsoft Word Keys."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.p:24-2
+msgid ""
+"A list of all Navigation Quick Keys for Web pages and PDF documents, Outlook "
+"e-mail messages, or for Word documents appear in the open dialog box. Use "
+"the <strong>UP</strong> and <strong>DOWN ARROW</strong> keys to scroll "
+"through the list."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.h2:25-2
+msgid "Editing Key Assignments"
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.p:26-2
+msgid ""
+"You can assign an unused letter or number to an action listed in the "
+"Navigation Quick Key column of the dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.p:27-2
+msgid "To assign a key to an action, do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.ol.li:29-4
+msgctxt "HTM_po_nelkul\\Navigation_Quick_Key_Manager.htm+html.body.ol.li:29-4"
+msgid ""
+"Press the <strong>UP</strong> or <strong>DOWN ARROW</strong> key to move to "
+"an action in the list."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.ol.li:30-4
+msgid ""
+"Press <strong>TAB</strong> to move to the Edit Key Assignment button and "
+"press <strong>SPACEBAR</strong>. The Edit Quick Navigation Key Assignment "
+"dialog box opens."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.ol.li:31-4
+msgid ""
+"In the Key Assignment combo box, press <strong>UP ARROW </strong> or "
+"<strong>DOWN ARROW</strong> to scroll through the list of available letters "
+"and numbers that can be assigned to the action. Press <strong>ENTER</strong> "
+"after choosing an item from the list. The new key assignment now appears in "
+"the Assignment column of the Navigation Quick Key Manager dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.ol.li:32-4
+msgid ""
+"To save the change, move to the OK button in the Navigation Quick Key "
+"Manager dialog box, and press <strong>ENTER</strong>. The new assignment "
+"takes place immediately."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.h2:34-2
+msgid "Deleting Key Assignments"
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.p:35-2
+msgid "To remove a Navigation Quick Key from an action, do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.ol.li:37-4
+msgctxt "HTM_po_nelkul\\Navigation_Quick_Key_Manager.htm+html.body.ol.li:37-4"
+msgid ""
+"Press the <strong>UP</strong> or <strong>DOWN ARROW</strong> key to move to "
+"an action in the list."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.ol.li:38-4
+msgid ""
+"Press <strong>TAB</strong> to move to the Delete Key Assignment button and "
+"press <strong>SPACEBAR</strong>. The word Unassigned appears next to the key "
+"action in the Navigation Quick Key Manager dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.ol.li:39-4
+msgid ""
+"To save the change, move to the OK button, and press <strong>ENTER</strong>. "
+"The change takes place immediately."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.p:41-2
+msgid ""
+"Refer to <a href=\"popapps.chm::/internet/internet_explorer_5/"
+"qk_nav_ie.htm\">Navigation Quick Keys</a> for a list of quick keys that you "
+"can use with Web pages and PDF documents."
+msgstr ""
+
+#: HTM_po_nelkul%5CNavigation_Quick_Key_Manager.htm%2Bhtml.body.p:42-2
+msgid ""
+"Refer to <a href=\"popapps.chm::/word_processing/microsoft_word/"
+"Navigation_Quick_Keys_in_Word.htm#Nav_Quick_Keys\">Navigation Quick Keys in "
+"Word</a> for a list of quick keys to use with Word documents."
+msgstr ""

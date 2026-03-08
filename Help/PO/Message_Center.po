@@ -1,0 +1,181 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-25 14:59+0200\n"
+"PO-Revision-Date: 2025-03-27 11:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr "hu"
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.head.title:6-1
+msgctxt "Main\\convert\\Message_Center.htm+html.head.title:6-1"
+msgid "Message Center"
+msgstr "Üzenetközpont"
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.h1:9-1
+msgctxt "Main\\convert\\Message_Center.htm+html.body.h1:9-1"
+msgid "Message Center"
+msgstr "Üzenetközpont"
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.p:10-1
+msgid ""
+"The Message Center is your hub for timely announcements from Freedom "
+"Scientific to help maximize your experience with JAWS. The messages cover "
+"various topics, including:"
+msgstr ""
+"Az Üzenetközpont a Freedom Scientific időszerű bejelentéseinek a központja, "
+"amely segít maximalizálni a JAWS használatával kapcsolatos élményeit. Az "
+"üzenetek különböző témákkal foglalkoznak, többek között:"
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.ul.li:12-1
+msgid "Product-specific training tips to explore key features."
+msgstr ""
+"Termék-specifikus képzési tippek a legfontosabb funkciók felfedezéséhez."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.ul.li:13-1
+msgid "Information about new features and changes in updates."
+msgstr ""
+"Tájékoztatás az új funkciókról és a frissítésekben bekövetkező változásokról."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.ul.li:14-1
+msgid "Details about upcoming webinars and additional training opportunities."
+msgstr "Részletek a közelgő webináriumokról és további képzési lehetőségekről."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.ul.li:15-1
+msgid "Notifications about new FSCast podcast episodes."
+msgstr "Értesítések az új FSCast podcast epizódokról."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.p:17-1
+msgid ""
+"By default, a notification is spoken and displayed when new messages are "
+"available. This is a standard Windows background notification, similar to "
+"those received from other apps such as Outlook. To access your messages, do "
+"one of the following:"
+msgstr ""
+"Alapértelmezés szerint egy értesítés hangzik el és jelenik meg, amikor új "
+"üzenetek érhetőek el. Ez egy szabványos Windows háttérértesítés, hasonlóan "
+"más alkalmazásokból, például az Outlookból érkező értesítésekhez. Az "
+"üzenetek eléréséhez tegye a következők egyikét:"
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.ul.li:19-1
+msgid ""
+"Choose Message Center from the Help menu. This menu item also includes the "
+"number of unread messages."
+msgstr ""
+"Válassza a Súgó menü Üzenetközpont parancsát. Ez a menüpont tartalmazza az "
+"olvasatlan üzenetek számát is."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.ul.li:20-1
+msgid ""
+"Use the layered keystroke, <strong>INSERT+SPACEBAR</strong>, followed by "
+"<strong>SHIFT+M</strong>."
+msgstr ""
+"Használja az <strong>INSERT+SZÓKÖZ</strong>, majd <strong>SHIFT+M</strong> "
+"rétegelt billentyűparancsot."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.ul.li:21-1
+msgid ""
+"Use the Voice Assistant. For example, \"Hey Sharky, open message center.\""
+msgstr ""
+"Az angol JAWS esetében használja a Hangvezérlést. Például: \"Hey Sharky, "
+"open message center\"."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.p:23-1
+msgid ""
+"When Message Center opens, you are placed in the list of messages. Use "
+"<strong>UP</strong> or <strong>DOWN ARROW</strong> to move through the list "
+"and press <strong>ENTER</strong> on a message to view additional details. "
+"For example, release notes for an update, step-by-step instructions for a "
+"training tip, or an overview of an FSCast episode. If the message details "
+"include links to external content, pressing <strong>ENTER</strong> opens the "
+"resource in the appropriate app on your computer. For instance, links to web "
+"pages open in your default web browser. Once you are finished reviewing "
+"details for a message, press <strong>ESC</strong> to return to the list."
+msgstr ""
+"Az Üzenetközpont megnyitásakor az üzenetek listájába kerül. A <strong>FEL-</"
+"strong> vagy <strong>LE NYÍL</strong> billentyűvel lépkedhet a listában, és "
+"egy üzeneten nyomja le az <strong>ENTER</strong> billentyűt a további "
+"részletek megtekintéséhez. Például egy frissítéshez tartozó kiadási "
+"megjegyzések, egy képzési tipp lépésről lépésre történő utasításai vagy egy "
+"FSCast epizód áttekintése. Ha az üzenet részletei külső tartalomra mutató "
+"hivatkozásokat tartalmaznak, az <strong>ENTER</strong> lenyomásával az "
+"erőforrás megnyílik a számítógép megfelelő alkalmazásában. A weboldalakra "
+"mutató hivatkozások például az alapértelmezett webböngészőben nyílnak meg. "
+"Ha befejezte egy üzenet részleteinek áttekintését, nyomja le az <strong>ESC</"
+"strong> billentyűt a listához való visszatéréshez."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.p:24-1
+msgid ""
+"To filter the list to only show specific messages, press <strong>SHIFT+TAB</"
+"strong> to move to the <strong>Search</strong> edit field, type what you "
+"want to search for, and then press <strong>TAB</strong> to move back to the "
+"list which now displays your search results. For example, entering "
+"\"podcast\" shows only messages related to the Freedom Scientific FSCast "
+"podcast."
+msgstr ""
+"A lista szűréséhez, hogy csak bizonyos üzeneteket jelenítsen meg, nyomja le "
+"a <strong>SHIFT+TAB</strong> billentyűkombinációt a <strong>Keresés</strong> "
+"szerkesztőmezőre történő lépéshez, írja be, hogy mit szeretne keresni, majd "
+"nyomja le a <strong>TAB</strong> billentyűt a listához való visszatéréshez, "
+"amely most már a keresési eredményeket mutatja. Például a \"podcast\" "
+"beírásával csak a Freedom Scientific FSCast podcasttal kapcsolatos üzenetek "
+"jelennek meg."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.p:25-1
+msgid ""
+"To delete messages you no longer want, navigate to a message and press the "
+"<strong>DELETE</strong> key or select the <strong>Delete</strong> button."
+msgstr ""
+"A már nem kívánt üzenetek törléséhez navigáljon az üzenetre, és nyomja le a "
+"<strong>DELETE</strong> billentyűt, vagy válassza a <strong>Törlés</strong> "
+"gombot."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.p:26-1
+msgid ""
+"To configure Message Center notifications as well as what types of messages "
+"are included in the list, select the <strong>Settings</strong> button. This "
+"dialog box contains several check boxes. Clear the <strong>Receive "
+"notifications about new messages</strong> check box if you do not want to "
+"receive automatic notifications when new messages are available. The "
+"remaining check boxes are the various types of messages that are included in "
+"the list. Select or clear the appropriate options depending on what messages "
+"you want to receive. All message types are enabled by default. Once you are "
+"finished making your selections, select <strong>OK</strong> to close the "
+"dialog box."
+msgstr ""
+"Az Üzenetközpont értesítéseinek, valamint a listában szereplő üzenettípusok "
+"konfigurálásához válassza a <strong>Beállítások</strong> gombot. Ez a "
+"párbeszédpanel több jelölőnégyzetet tartalmaz. Törölje az "
+"<strong>Értesítések fogadása az új üzenetekről</strong> jelölőnégyzetet, ha "
+"nem szeretne automatikus értesítéseket kapni az új üzenetek elérhetőségéről. "
+"A többi jelölőnégyzet a listában szereplő különböző típusú üzenetekre "
+"vonatkozik. Jelölje be vagy törölje a megfelelő jelölőnégyzeteket attól "
+"függően, hogy milyen üzeneteket szeretne kapni. Alapértelmezés szerint "
+"minden üzenettípus engedélyezve van. Ha befejezte a jelölést, válassza az "
+"<strong>OK</strong> gombot a párbeszédpanel bezárásához."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.p:27-1
+msgid ""
+"To completely close Message Center, press <strong>ESC</strong> or select the "
+"<strong>Close</strong> button."
+msgstr ""
+"Az Üzenetközpont teljes bezárásához nyomja le az <strong>ESC</strong> "
+"billentyűt, vagy válassza a <strong>Bezárás</strong> gombot."
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.div.table.tbody.tr.td.p:32-1
+msgid "Back"
+msgstr "Vissza"
+
+#: Main%5Cconvert%5CMessage_Center.htm%2Bhtml.body.div.table.tbody.tr.td.p:38-1
+msgid "Next Section"
+msgstr "Következő szakasz"

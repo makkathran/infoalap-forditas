@@ -1,0 +1,131 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\laptop_keystrokes_for_cursors_and_mouse_an.htm+html.head.title:12-1"
+msgid "Additional Notes on Laptop Keystrokes for Cursors and Mouse Simulation"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\laptop_keystrokes_for_cursors_and_mouse_an.htm+html.body.h1:17-1"
+msgid "Additional Notes on Laptop Keystrokes for Cursors and Mouse Simulation"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:18-1
+msgid "Route Touch Cursor to Focus Location (CAPS LOCK+APOSTROPHE)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:19-1
+msgid ""
+"This command moves the Touch Cursor to the location of the object that currently has "
+"focus. It is only available if the Touch Cursor is the currently active cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:20-1
+msgid "Route PC Cursor to JAWS Cursor (CAPS LOCK+APOSTROPHE)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:21-1
+msgid ""
+"This keystroke moves the PC Cursor to the location of the JAWS Cursor. This keystroke has "
+"no effect if the JAWS Cursor is in a part of the application that will not support the PC "
+"Cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:22-1
+msgid "Route JAWS Cursor to PC Cursor (CAPS LOCK+LEFT BRACKET)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:23-1
+msgid ""
+"This keystroke moves the JAWS Cursor to the location of the PC Cursor. If the Invisible "
+"Cursor is active when this keystroke is used, the Invisible Cursor is moved to the "
+"location of the PC Cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:24-1
+msgid "Left Mouse Button (CAPS LOCK+8)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:25-1
+msgid ""
+"This keystroke simulates a single left mouse button click. Press the keystroke twice "
+"quickly to simulate a left mouse button double click."
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:26-1
+msgid "Right Mouse Button (CAPS LOCK+9)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:27-1
+msgid ""
+"This keystroke simulates a single right mouse button click. Press the keystroke twice "
+"quickly to simulate a right mouse button double click."
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:28-1
+msgid "Left Mouse Button Lock (CTRL+8)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:29-1
+msgid ""
+"This keystroke simulates pressing down the left mouse button and holding it. Once "
+"pressed, the JAWS cursor can be moved with the <b>ARROW</b> keys. JAWS will not speak "
+"until <b>CTRL+8</b> is pressed again to unlock the left mouse button. This keystroke can "
+"be used to drag items from one location and drop them in another."
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:30-1
+msgid "Right Mouse Button Lock (CTRL+9)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:31-1
+msgid ""
+"This keystroke simulates pressing down the right mouse button and holding it. Once "
+"pressed, the JAWS cursor can be moved with the <b>ARROW</b> keys. JAWS will not speak "
+"until <b>CTRL+9</b> is pressed again to unlock the right mouse button. This keystroke can "
+"be used to drag items from one location and drop them in another. When the keystroke is "
+"pressed a second time to unlock the right mouse button, a menu may appear with options "
+"such as Copy Here, Move Here, and Create Shortcut Here."
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:32-1
+msgid "Drag and Drop (CAPS LOCK+SHIFT+8)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:33-1
+msgid ""
+"This keystroke is used to drag items from one location and drop them in another. Position "
+"the JAWS Cursor on the item you wish to move and press <b>CAPS LOCK+SHIFT+8</b> . You can "
+"leave the JAWS Cursor active, or you can switch to the PC Cursor. JAWS keeps speaking as "
+"you navigate. Once you have positioned the JAWS or PC Cursor in the location to which you "
+"would like to move the item, press <b>CAPS LOCK+SHIFT+8</b> again, and the item is moved "
+"to the position of the active cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:34-1
+msgid ""
+"<b style=\"font-weight: bold;\">Note</b>: The original position of what you are dragging, "
+"and the location to which you are moving it must both be visible on the screen when you "
+"press <b>CAPS LOCK+SHIFT+8</b> the second time or the drag and drop will not work."
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.div.table.tbody.tr.td.p:39-1
+msgid "Back"
+msgstr ""

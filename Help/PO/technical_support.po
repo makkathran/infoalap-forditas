@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-25 14:59+0200\n"
+"PO-Revision-Date: 2025-03-27 18:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr "hu"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.head.title:5-1
+msgctxt "Main\\convert\\technical_support.htm+html.head.title:5-1"
+msgid "Technical Support"
+msgstr "Technikai tanácsadó szolgálat"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.h1:9-1
+msgctxt "Main\\convert\\technical_support.htm+html.body.h1:9-1"
+msgid "Technical Support"
+msgstr "Technikai tanácsadó szolgálat"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.h2:10-1
+msgid "Contacting Freedom Scientific Technical Support"
+msgstr ""
+"A Freedom Scientific technikai tanácsadó szolgálatának elérhetőségi adatai"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.p:11-1
+msgid ""
+"You must be a registered user to access Freedom Scientific support services. "
+"Freedom Scientific support services are subject to Freedom Scientific terms "
+"and conditions in place at the time the service is used."
+msgstr ""
+"A Freedom Scientific technikai tanácsadó szolgáltatásait csak regisztrált "
+"felhasználók vehetik igénybe. A Freedom Scientific tanácsadó "
+"szolgáltatásaira a Freedom Scientific a szolgáltatás igénybevételekor "
+"érvényes jogi feltételei és rendelkezései vonatkoznak."
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.p:12-1
+msgid "Reach Technical Support using the following options:"
+msgstr "A technikai tanácsadás a következő módokon vehető igénybe:"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:14-1
+msgid ""
+"Visit our Web site for automated online Help: <a href=\"http://www."
+"freedomscientific.com/support.asp\" target=\"_blank\">Technical Support "
+"Department</a>"
+msgstr ""
+"A következő webhelyünk automatikus on-line segítségnyújtást ad: <a "
+"href=\"http://www.freedomscientific.com/support.asp\" "
+"target=\"_blank\">Technikai tanácsadó szolgálat</a>"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:15-1
+msgid ""
+"Technical Support e-mail: <a href=\"mailto:Support@FreedomScientific."
+"com\">Support at FreedomScientific.com</a>"
+msgstr ""
+"A tanácsadó szolgálat e-mail címe: <a href=\"mailto:"
+"Support@FreedomScientific.com\">support@FreedomScientific.com</a>"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:16-1
+msgid "Technical Support Telephone: (727) 803-8600"
+msgstr "A technikai tanácsadó szolgálat telefonszáma: (727) 803-8600"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.p:18-1
+msgid ""
+"When you call, be at your computer, have your documentation in hand, and be "
+"prepared to provide the following information:"
+msgstr ""
+"Amikor felhív bennünket, tartózkodjon a számítógép mellett, és készítse elő "
+"a szükséges dokumentációt és a következő adatokat:"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:20-1
+msgid "Product serial number used for registration."
+msgstr "A termékregisztrációhoz használt sorozatszám."
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:21-1
+msgid "Product name and version number."
+msgstr "A termék neve és verziószáma."
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:22-1
+msgid "Type of computer hardware you are using."
+msgstr "A számítógép, illetve a hardvereszközök típusa."
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:23-1
+msgid "Software version number of Windows."
+msgstr "A Windows verziószáma."
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:24-1
+msgid "Exact wording of any messages that appear on your screen."
+msgstr "A képernyőn megjelenő bármilyen üzenet pontos szövege."
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:25-1
+msgid "What you were doing when the problem occurred."
+msgstr "Mit csinált éppen, amikor jelentkezett a probléma?"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.ul.li:26-1
+msgid "How you tried to solve the problem."
+msgstr "Miként próbálta megoldani a problémát?"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.p:28-1
+msgid ""
+"Office hours: Monday through Friday 8:30 A.M. to 7:00 P.M. Eastern Time (USA)"
+msgstr ""
+"Hivatali idő: hétfőtől péntekig 8:30 – 19:00 (az USA keleti partvidékének "
+"zónaideje szerint)"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.div.table.tbody.tr.td.p:33-1
+msgid "Back"
+msgstr "Vissza"
+
+#: Main%5Cconvert%5Ctechnical_support.htm%2Bhtml.body.div.table.tbody.tr.td.p:39-1
+msgid "Next"
+msgstr "Következő"

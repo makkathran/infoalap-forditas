@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\the_braille_cursor.htm+html.head.title:12-1"
+msgid "Using the Braille Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\the_braille_cursor.htm+html.body.h1:17-1"
+msgid "Using the Braille Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.p:18-1
+msgid ""
+"The Braille Cursor allows you to review text in a document, separate from "
+"any of the other cursors in JAWS. Unlike the other JAWS cursors, the Braille "
+"Cursor is not limited to one particular character. Instead, the term Braille "
+"Cursor refers to the line of text currently shown on the braille display. As "
+"you use a braille display, you may notice raised or blinking dots under one "
+"character. The dots represent the active cursor, which is usually the PC "
+"cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.p:19-1
+msgid ""
+"Movement of the Braille Cursor is done solely through the use of the display "
+"that you are using. Some displays may have commands that are not available "
+"to others, and the commands to perform each action vary. Some of the "
+"commands available using most or all displays include:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.ul.li:21-1
+msgid "Move the Braille Cursor up or down by line"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.ul.li:22-1
+msgid "Move the active cursor up or down by line"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.ul.li:23-1
+msgid "Route the Braille Cursor to either the JAWS or PC cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.ul.li:24-1
+msgid "Link or unlink the Braille Cursor to the active cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.ul.li:25-1
+msgid "Pan left or right on the current line"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.ul.li:26-1
+msgid "Route the PC Cursor to a particular character on the braille display"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.h2:28-1
+msgid "Linking Cursors"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.p:29-1
+msgid ""
+"JAWS provides three ways to link your Braille Cursor with the active cursor. "
+"Each of these modes can be helpful at different times, and can be changed "
+"through Settings Center."
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.p:30-1
+msgid ""
+"The Braille Cursor can be completely unlinked from the active cursor. This "
+"allows you to navigate using either the Braille or the active cursor, "
+"without changing the position of the other. However, if you change the "
+"active cursor from JAWS to PC or vice versa, the Braille Cursor moves to the "
+"location of the activated cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.p:31-1
+msgid ""
+"The Braille Cursor can be set to follow the active cursor. In this mode, "
+"moving the active cursor causes the Braille Cursor to move. You can still "
+"move the Braille Cursor without moving the active cursor. Most braille "
+"displays have a command which can be used to toggle between this mode and "
+"the previous one."
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.p:32-1
+msgid ""
+"You can choose to tether the Braille Cursor to the active cursor. In this "
+"mode, moving either the Braille or the active cursor causes the other to "
+"move. When moving the Braille Cursor, the active cursor follows but does not "
+"cause JAWS to speak."
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.p:33-1
+msgid ""
+"<strong style=\"font-weight: bold;\">Note</strong>: The above options only "
+"affect line mode. If you use <a href=\"braille.chm::/"
+"Braille_Display_Modes.htm#Structured_Mode\">structured mode</a>, and are "
+"viewing a structured line, movement of either the Braille or the active "
+"cursor automatically moves both cursors."
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.div.table.tbody.tr.td.p:39-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cthe_braille_cursor.htm%2Bhtml.body.div.table.tbody.tr.td.p:45-1
+msgid "Next"
+msgstr ""

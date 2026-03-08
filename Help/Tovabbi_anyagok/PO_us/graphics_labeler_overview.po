@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cgraphics_labeler_overview.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgraphics_labeler_overview.htm%2Bhtml.head.title:11-1
+msgctxt "HTM_po_nelkul\\graphics_labeler_overview.htm+html.head.title:11-1"
+msgid "Graphics Labeler Overview"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgraphics_labeler_overview.htm%2Bhtml.body.h1:16-1
+msgctxt "HTM_po_nelkul\\graphics_labeler_overview.htm+html.body.h1:16-1"
+msgid "Graphics Labeler Overview"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgraphics_labeler_overview.htm%2Bhtml.body.p:17-1
+msgid ""
+"Windows is a graphical user interface. A graphic can be an icon, toolbar "
+"button, or a picture in an application or on the Internet. Many graphics "
+"that you encounter in Windows are labeled. When you navigate over a graphic, "
+"JAWS reads these labels to you. Some graphics are not labeled. In this case "
+"you will hear, \"Graphic XXX.\" The numbers you hear after the word graphic "
+"are assigned by JAWS. With JAWS, you can label graphics that don’t already "
+"have a label specified. You can label graphics automatically or manually. "
+"You may need sighted assistance, to help you determine what the graphic is "
+"so that you can label it appropriately."
+msgstr ""
+
+#: HTM_po_nelkul%5Cgraphics_labeler_overview.htm%2Bhtml.body.p:18-1
+msgid ""
+"After you label your graphics, you can choose to save these labels to the "
+"specific application or to the default file. If you save the graphics labels "
+"in the default file, the label will always be recognized unless it is "
+"labeled differently by an application."
+msgstr ""
+
+#: HTM_po_nelkul%5Cgraphics_labeler_overview.htm%2Bhtml.body.p:19-1
+msgid "Creating a Graphic Label Manually"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgraphics_labeler_overview.htm%2Bhtml.body.p:20-1
+msgid "Using the Auto Graphics Labeler"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgraphics_labeler_overview.htm%2Bhtml.body.div.table.tbody.tr.td.p:26-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgraphics_labeler_overview.htm%2Bhtml.body.div.table.tbody.tr.td.p:32-1
+msgid "Next"
+msgstr ""

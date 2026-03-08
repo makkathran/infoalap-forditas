@@ -1,0 +1,144 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\creating_a_frame.htm+html.head.title:12-1"
+msgid "Creating a Frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\creating_a_frame.htm+html.body.h1:17-1"
+msgid "Creating a Frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ol.li:19-1
+msgid ""
+"With the JAWS cursor, navigate to the top, left corner of the area you want "
+"included in the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ol.li:20-1
+msgid "Press <b>CTRL+SHIFT+LEFT BRACKET</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ol.li:21-1
+msgid ""
+"Move to the bottom, right corner of the area you wish to include in the "
+"frame, and press <b>CTRL+SHIFT+RIGHT BRACKET</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ol.li:22-1
+msgid ""
+"A dialog box appears asking you if you wish to create a frame or a prompt. "
+"Select to create a frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ol.li:23-1
+msgid ""
+"A dialog appears to walk you through the creation of the frame. On the first "
+"page, enter the name of the frame and select Next."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.p:25-1
+msgid ""
+"<b style=\"font-weight: bold;\">Note</b>: Frame names cannot contain spaces "
+"or symbols. We recommend concatenating the names, capitalizing the start of "
+"each word."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ol.li:27-1
+msgid ""
+"The second page asks for a synopsis of the frame's purpose. Fill out the "
+"information and select Next. This information is very important if others "
+"are going to use your frames."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ol.li:28-1
+msgid ""
+"The third page asks for a more detailed description of the frame's purpose. "
+"Fill out the information and select Next. This information is very important "
+"if others are going to use your frames."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ol.li:29-1
+msgid ""
+"The fourth page prompts you to assign a keystroke to the frame. If you "
+"choose to assign a keystroke, text within the frame is spoken when the "
+"keystroke is pressed. This functionality is added as a frame event and can "
+"be modified later."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ol.li:30-1
+msgid ""
+"The fifth page prompts you to specify how JAWS will echo text newly written "
+"within the frame. Select JAWS Screen Echo, Silent, Highlight, or All. These "
+"settings correspond to using the current JAWS screen echo setting, or "
+"specifying which screen echo setting to use. This functionality is added "
+"through use of Frame Events. For information on what Frame Event is added "
+"based on your selection, please refer to <a "
+"href=\"Frame_Defaults.htm#events\">Default Frame Events</a>. After selecting "
+"an option, select Finish to continue."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.p:32-1
+msgid ""
+"<b style=\"font-weight: bold;\">Tip</b>: Move the JAWS cursor to a control "
+"or window, and press <b>CTRL+SHIFT+LEFT BRACKET</b> twice quickly to set the "
+"frame to the current control or window. Then fill in the information as "
+"stated above."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.p:33-1
+msgid ""
+"At this point, the frame is created, but not saved. Focus is on the frame, "
+"and Frame Viewer is active. Press the <b>Applications</b> key to open the "
+"context menu for the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ul.li:35-1
+msgid "Select Save Changes from the menu to save the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ul.li:36-1
+msgid "Select Properties to modify settings for the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.ul.li:37-1
+msgid ""
+"If you select Exit Frames Mode without first saving the frame, a dialog "
+"prompts you to save your changes."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.p:39-1
+msgid ""
+"<b style=\"font-weight: bold;\">Tip</b>: Sighted users of JAWS may find it "
+"easier and more straightforward to create a frame by opening Frame Viewer, "
+"selecting Options, Create New Frame, and after filling in the information in "
+"the Create a Frame dialogs, sizing and positioning the frame with the mouse. "
+"By default, frames created in this manner are sized to the current control "
+"or window."
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.div.table.tbody.tr.td.p:45-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Ccreating_a_frame.htm%2Bhtml.body.div.table.tbody.tr.td.p:51-1
+msgid "Next"
+msgstr ""

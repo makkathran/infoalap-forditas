@@ -1,0 +1,371 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-25 14:59+0200\n"
+"PO-Revision-Date: 2025-04-10 23:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr "hu"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.head.title:5-1
+msgctxt "Main\\convert\\help_menu_overview.htm+html.head.title:5-1"
+msgid "Help Menu Overview"
+msgstr "Súgó menü – áttekintés"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h1:9-1
+msgctxt "Main\\convert\\help_menu_overview.htm+html.body.h1:9-1"
+msgid "Help Menu Overview"
+msgstr "Súgó menü – áttekintés"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:10-1
+msgid ""
+"This topic describes the Help menu items found in the JAWS application "
+"window."
+msgstr ""
+"Ez a témakör a JAWS alkalmazásablakában található Súgó menü tartalmát "
+"ismerteti."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:11-1
+msgid "Commands Search"
+msgstr "Parancsok keresése"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:12-1
+msgid ""
+"Use this menu item to locate specific JAWS or Fusion keystrokes. For more "
+"information, refer to the <a href=\"../Getting_Help/Search_for_Commands."
+"htm\">Commands Search</a> topic."
+msgstr ""
+"Ezzel a menüponttal JAWS vagy Fusion billentyűparancsokat kereshet meg. "
+"További tájékoztatást a <a href=\"../Getting_Help/Search_for_Commands."
+"htm\">Parancsok keresése</a> témakörben találhat."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:13-1
+msgid "Message Center"
+msgstr "Üzenetközpont"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:14-1
+msgid ""
+"This menu item opens the <a href=\"../Getting_Help\\Message_Center."
+"htm\">Message Center</a>. This is a central location to quickly read about "
+"upcoming announcements, news, updates, and useful tips from Freedom "
+"Scientific. By default, you will receive a notification when new messages "
+"are available."
+msgstr ""
+"Ez a menüpont megnyitja az <a href=\"../Getting_Help\\Message_Center."
+"htm\">Üzenetközpontot</a>. Ez egy központi hely, ahol gyorsan olvashat a "
+"Freedom Scientific közelgő bejelentéseiről, híreiről, frissítéseiről és "
+"hasznos tippjeiről. Alapértelmezés szerint értesítést kap, ha új üzenetek "
+"állnak rendelkezésre."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:15-1
+msgid "Training"
+msgstr "FSReader"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:16-1
+msgid ""
+"Choose this menu item to start FSReader and open the JAWS Training Materials "
+"Table of Contents book. From here you can choose from various links to open "
+"the JAWS Basic Training or What's New. These DAISY books guide you through "
+"the new features of your JAWS version and help you learn the basics of using "
+"JAWS."
+msgstr ""
+"Válassza ezt a menüelemet az FSReader indításához és a JAWS oktatóanyagok "
+"tartalomjegyzékének megnyitásához. Innen több hivatkozás közül választhat a "
+"JAWS alapfokú oktatás vagy az Újdonságok megnyitásához. Ezek a DAISY könyvek "
+"bemutatják a JAWS verziók újdonságait, és bevezetnek a JAWS használatába."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:17-1
+msgid "JAWS Help Topics"
+msgstr "JAWS súgótémák"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:18-1
+msgid "This menu item provides access to the JAWS help system."
+msgstr "Ezzel a menüparanccsal érhető el a JAWS súgórendszere."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:19-1
+msgid "Keyboard Commands"
+msgstr "Billentyűparancsok"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:20-1
+msgid ""
+"This menu item opens the JAWS help system, and moves you to topics providing "
+"information on available commands in JAWS."
+msgstr ""
+"Ez a menüelem megnyitja a JAWS súgórendszerét, és olyan témakörökhöz viszi a "
+"felhasználót, amelyek a JAWS rendelkezésre álló parancsairól tartalmaznak "
+"információt."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:21-1
+msgid "What's New"
+msgstr "Újdonságok"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:22-1
+msgid ""
+"This menu item allows you to view descriptions of the new features added in "
+"this version of JAWS."
+msgstr ""
+"Ezzel a menüparanccsal érhetők el azok a súgótémák, amelyek a JAWS e "
+"verziójának új szolgáltatásait ismertetik."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:23-1
+msgid "Technical Support"
+msgstr "Webes források"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:24-1
+msgid ""
+"This menu item provides access to information on how to contact Freedom "
+"Scientific Technical Support."
+msgstr ""
+"A következő hasznos hivatkozásokkal tájékozódhat a Freedom Scientific "
+"termékeiről és egyéb tudnivalókról:"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:25-1
+msgid "Web Resources"
+msgstr ""
+"<a href=\"https://infoalap.hu/wp-content/uploads/szoftver/Profivox_installer."
+"exe\">Profivox beszédszintetizátor letöltése</a> – Ezzel a közvetlen "
+"hivatkozással letöltheti a Profivox magyar nyelvű beszédszintetizátor "
+"telepítőjét."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:26-1
+msgid ""
+"Web Resources provides the following helpful links to Freedom Scientific "
+"products and resources:"
+msgstr ""
+"<a href=\"https://fsactivate.freedomscientific.com/\">Freedom Scientific "
+"termékek aktiválása (angol)</a> – Ezzel a hivatkozással ellenőrizheti a JAWS "
+"még igénybe vehető aktiválási kulcsainak számát, regisztrált felhasználó "
+"esetén kérheti az aktivációk számának újraindítását, illetve a hitelesítési "
+"szám és a zárolási kód alapján lekérdezheti az aktiválási licenckódot."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:28-1
+msgid ""
+"JAWS Headquarters – a one-stop resource for JAWS. Use these pages to "
+"download software updates, locate resources, and learn new ways to use JAWS."
+msgstr ""
+"<a href=\"https://infoalap.hu/megoldasok/lathassam/zoomtext/\">ZoomText "
+"képernyőnagyító</a> – Megnyithatja a ZoomText képernyőnagyító információs "
+"lapját az Informatika a Látássérültekért Alapítvány webhelyén."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:29-1
+msgid ""
+"FScompanion – an AI-powered assistant that helps you quickly look up "
+"information on using JAWS and Microsoft applications."
+msgstr ""
+"FS Segéd – Egy mesterséges intelligenciával működő asszisztens, amely segít "
+"gyorsan információt keresni a JAWS és a Microsoft alkalmazások használatával "
+"kapcsolatban."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:30-1
+msgid "Technical Support – Use this link to access support bulletins and FAQs."
+msgstr ""
+"<a href=\"https://infoalap.hu/letoltesek/szoftverek\">MAGic képernyőnagyító</"
+"a> – Letöltheti a MAGic képernyőnagyítót az Informatika a Látássérültekért "
+"Alapítvány webhelyéről."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:31-1
+msgid ""
+"Software Activation – Use this link to verify the number of available JAWS "
+"activation keys, request a reset of the number of activations allowed for a "
+"registered user, or retrieve an activation license code based on your "
+"Authorization number and Locking code."
+msgstr ""
+"<a href=\"https://support.freedomscientific.com/Downloads/"
+"Synthesizers\">További beszédhangok letöltése</a> – Ezzel a hivatkozással "
+"számos, különböző nyelvű Vocalizer Expressive hangkaraktert tölthet le."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:32-1
+msgid ""
+"Surfing the Internet – Use this link to access Surf's Up! A useful tool that "
+"teaches you how to work with and read HTML pages with JAWS."
+msgstr ""
+"<a href=\"https://www.freedomscientific.com/\">www.freedomscientific.com</a> "
+"– Ez a hivatkozás a Freedom Scientific webhelyének kezdőlapjára mutat."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:33-1
+msgid ""
+"Fusion Magnification – Learn more about Fusion, a product combining ZoomText "
+"and JAWS for a complete screen magnification and screen reading solution."
+msgstr ""
+"<a href=\"https://infoalap.hu/\">Informatika a Látássérültekért Alapítvány</"
+"a> – Ezzel a hivatkozással megnyithatja az Informatika a Látássérültekért "
+"Alapítvány weboldalát."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:34-1
+msgid ""
+"Training Headquarters – Learn more about training options and tutorials "
+"available from Freedom Scientific."
+msgstr ""
+"<a href=\"https://infoalap.eu/mailman/listinfo/jaws-lista_infoalap."
+"eu\">Feliratkozás a magyar JAWS for Winddows levelezőlistára</a> – Ezzel a "
+"hivatkozással feliratkozhat a JAWS képernyőolvasóval foglalkozó magyar "
+"nyelvű levelezési listára."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:35-1
+msgid ""
+"Free Training Webinars – Access archives of free online training. You will "
+"find a wealth of information on topics ranging from how to use JAWS reading "
+"commands, to using JAWS with various applications such as Microsoft Office, "
+"and much more."
+msgstr ""
+"<a href=\"https://akadalymentes.magyarorszag.hu/\">Ország licenc weboldala</"
+"a> – A hivatkozás kiválasztásával megnyithatja az akadalymentes.magyarorszag."
+"hu weboldalt, ahol a JAWS programhoz egy verzió alapú licenckódot "
+"igényelhet. Ennek a kódnak a birtokában ingyenesen használhatja a JAWS "
+"programot a licenc által támogatott verziók esetén."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:36-1
+msgid ""
+"www.FreedomScientific.com – Use this link to open the Freedom Scientific "
+"home page."
+msgstr ""
+"Freedom Scientific Blog (angol) – Különböző cikkek a Freedom Scientific "
+"termékekről, beleértve a közelgő képzési eseményekről szóló információkat."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:37-1
+msgid ""
+"FSCast Homepage – Access episodes of FSCast, Freedom Scientific's podcast "
+"featuring news, interviews, and product demonstrations relating to Freedom "
+"Scientific products."
+msgstr "Technikai tanácsadás"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.ul.li:38-1
+msgid ""
+"Freedom Scientific Blog – access various articles about Freedom Scientific "
+"products including information on upcoming training events."
+msgstr ""
+"E menüparancs segítségével megnyitható a JAWS súgójának Technikai tanácsadás "
+"fejezete."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:40-1
+msgid "About JAWS for Windows"
+msgstr "JAWS névjegye"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:41-1
+msgid ""
+"This menu item provides access to the version number, serial number, "
+"copyright notices, your computer's unique locking code, and other important "
+"information about JAWS. It also contains information about your SMA, or "
+"software maintenance agreement. Purchasing an SMA for JAWS provides you with "
+"automatic upgrades at a reduced price for a specific amount of time. Note "
+"that although the About box gives SMA information, if the information in the "
+"Freedom Scientific database differs, the database information is assumed to "
+"be accurate and up to date."
+msgstr ""
+"E menüelem segítségével megtekinthető a JAWS verziószáma, gyártási száma, a "
+"szerzői jogra utaló megjegyzés, a számítógép egyedi zárolási kódja és egyéb "
+"fontos adatok. A párbeszédpanelen a szoftverkarbantartási megállapodásra "
+"(SMA) vonatkozó információk is megtalálhatók. A szoftverkarbantartási "
+"megállapodással csökkentett áron biztosíthatja a JAWS automatikus "
+"frissítését adott időtartamra. Megjegyzendő, hogy noha a Névjegy panel "
+"tartalmaz a szoftverkarbantartási megállapodással kapcsolatos információkat, "
+"ha a Freedom Scientific adatbázisában eltérő adatok szerepelnek, az "
+"adatbázis adatait tekinti a rendszer érvényesnek és frissebbnek."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:42-1
+msgid "Startup Wizard"
+msgstr "Kezdeti beállítások"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:43-1
+msgid ""
+"The <a href=\"../installing_jaws/Startup_Wizard.htm\">JAWS Startup Wizard</"
+"a> is a helpful tool that allows you to configure specific JAWS parameters, "
+"such as automatically starting JAWS when you turn on your computer, speech "
+"and braille preferences, or various other JAWS settings. During a new JAWS "
+"installation, the Startup Wizard appears after you complete product "
+"activation. However, it can always be accessed later from the JAWS Help menu "
+"by pressing <strong>ALT+H</strong> and choosing Startup Wizard."
+msgstr ""
+"A <a href=\"../installing_jaws/Startup_Wizard.htm\">JAWS kezdeti "
+"beállítások</a> varázsló olyan segédeszköz, amelyik lehetővé teszi a JAWS "
+"egyes paramétereinek konfigurálását, például a JAWS automatikus indítását a "
+"számítógép bekapcsolásakor, egyéb JAWS összetevők és funkciók telepítését. A "
+"JAWS új telepítését követően ez a varázsló a termék aktiválása után jelenik "
+"meg. Bármikor elérhető azonban a JAWS Súgó menüjéből is, ha az <b>ALT+S</b> "
+"billentyűparancs után kiválasztja a Kezdeti beállítások menüparancsot."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:44-1
+msgid "FS Support Tool"
+msgstr "Támogatási eszköz"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:45-1
+msgid ""
+"This item launches a utility which collects information about your computer "
+"and sends a report to our Technical Support and Software Development teams. "
+"Usually, you will only need to run this when asked to by Technical Support "
+"in order to obtain additional information about your system to help with "
+"troubleshooting an issue."
+msgstr ""
+"Ez az elem elindít egy segédprogramot, amely információkat gyűjt a "
+"számítógépéről, és jelentést küld a műszaki támogatással és "
+"szoftverfejlesztéssel foglalkozó csapatainknak. Általában csak akkor kell "
+"futtatnia ezt a programot, ha a műszaki támogatás kéri, hogy további "
+"információkat kapjon a rendszeréről, amelyek segítik a hibaelhárítást."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:46-1
+msgid "License"
+msgstr "Licenc"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:47-1
+msgid "This submenu contains options for managing your JAWS license."
+msgstr ""
+"Ebben az almenüben találja meg a JAWS licencek kezelésével és "
+"nyilvántartásával kapcsolatos lehetőségeket."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.h2:48-1
+msgid "Check for Updates"
+msgstr "Frissítések keresése"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:49-1
+msgid ""
+"Choose Check for Updates from the JAWS Help menu to search for new versions "
+"of the software on the web. JAWS then checks to see if any updates are "
+"available and displays a list for you to choose from. You can then choose to "
+"download and install any of the new software versions in order to keep JAWS "
+"up-to-date. This service helps Freedom Scientific make minor changes and "
+"improvements to JAWS much more frequently."
+msgstr ""
+"A JAWS Súgó menüjéből a Frissítések keresése paranccsal lehet a szoftver "
+"újabb verzióját keresni a világhálón. A JAWS ekkor ellenőrzi, hogy van-e "
+"használható frissítés, és választásra kínálja fel azok listáját. Ekkor "
+"bejelölheti, hogy a JAWS naprakészen tartása érdekében milyen új "
+"szoftververziót kíván letölteni és telepíteni. Ez a szolgáltatás "
+"megkönnyíti, hogy a Freedom Scientific a JAWS kisebb módosításait és "
+"tökéletesítéseit gyakrabban közzétehesse."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:50-1
+msgid ""
+"Internet access and administrative rights are required to check for updates."
+msgstr ""
+"A frissítések kereséséhez rendszergazdai jogosultságra és "
+"internetkapcsolatra van szükség."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.p:51-1
+msgid ""
+"<strong>Tip:</strong> By default, JAWS will automatically notify you when an "
+"update is available when it first starts. If you want to disable automatic "
+"notification of updates for any reason, open the Options menu, choose "
+"Basics, and clear the Automatic Notification of Updates check box."
+msgstr ""
+"<strong>Tipp:</strong> Alapértelmezés szerint a JAWS az első indításakor "
+"automatikusan értesít az újabb frissítés elérhetőségéről. Ha az automatikus "
+"frissítést bármely okból szeretné kikapcsolni, azt a Beállítások menü "
+"Alapbeállítások parancsával teheti meg."
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.div.table.tbody.tr.td.p:57-1
+msgid "Back"
+msgstr "Vissza"
+
+#: Main%5Cconvert%5Chelp_menu_overview.htm%2Bhtml.body.div.table.tbody.tr.td:62-1
+msgid "Next"
+msgstr "Következő"

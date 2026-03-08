@@ -1,0 +1,255 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\jaws_keystrokes_for_cursors_and_mouse_an.htm+html.head.title:12-1"
+msgid "Additional Notes on JAWS Keystrokes for Cursors and Mouse Simulation"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\jaws_keystrokes_for_cursors_and_mouse_an.htm+html.body.h1:17-1"
+msgid "Additional Notes on JAWS Keystrokes for Cursors and Mouse Simulation"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:18-1
+msgid "PC Cursor (NUM PAD PLUS)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:19-1
+msgid ""
+"This command changes the active cursor to the PC cursor. If the currently active cursor "
+"is the Touch Cursor, you must press this command twice quickly in order to activate the "
+"PC Cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:20-1
+msgid "JAWS Cursor (NUM PAD MINUS)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:21-1
+msgid "This command changes the active cursor to the JAWS cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:22-1
+msgid "Invisible Cursor (NUM PAD MINUS twice quickly)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:23-1
+msgid "This command changes the active cursor to the Invisible cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:24-1
+msgid "Touch Cursor (SHIFT+NUM PAD PLUS)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:25-1
+msgid ""
+"This command changes the active cursor to the Touch cursor. For more information, see "
+"<a href=\"../../using_jaws/controlling_speech/Using_the_Touch_Cursor.htm\">Using the "
+"Touch Cursor</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:26-1
+msgid "Route Touch Cursor to Focus Location (INSERT+NUM PAD PLUS)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:27-1
+msgid ""
+"This command moves the Touch Cursor to the location of the object that currently has "
+"focus. It is only available if the Touch Cursor is the currently active cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:28-1
+msgid "Route PC Cursor to JAWS Cursor (INSERT+NUM PAD PLUS)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:29-1
+msgid ""
+"This command moves the PC Cursor to the location of the JAWS Cursor. This command has "
+"no effect if the JAWS Cursor is in a part of the application that will not support the "
+"PC Cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:30-1
+msgid "Route JAWS Cursor to PC Cursor (INSERT+NUM PAD MINUS)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:31-1
+msgid ""
+"This command moves the JAWS Cursor to the location of the PC Cursor. If the Invisible "
+"Cursor is active when this keystroke is used, the Invisible Cursor is moved to the "
+"location of the PC Cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:32-1
+msgid "Tether JAWS to PC (CTRL+INSERT+NUM PAD MINUS)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:33-1
+msgid ""
+"This command causes the JAWS Cursor to follow the PC Cursor as it moves around the "
+"screen. Press the command twice quickly to save this setting across sessions."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:34-1
+msgid "Restrict JAWS Cursor or Virtual PC Cursor (INSERT+R)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:35-1
+msgid ""
+"This command toggles restriction levels for the JAWS and Invisible cursors. The "
+"following briefly describes the different restriction levels:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.ul.li:37-1
+msgid ""
+"Typically, a real window is any window that has a name, for example, a dialog box or an "
+"application main window. The Real Window Restriction limits the JAWS or Invisible "
+"cursors to these windows."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.ul.li:38-1
+msgid ""
+"Current Window Restriction restricts the JAWS or Invisible cursors to the current "
+"window. This is very useful in a text box or a window with multiple panes displaying "
+"information."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.ul.li:39-1
+msgid "Frame Restriction restricts the JAWS or Invisible cursors to the current frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.ul.li:40-1
+msgid ""
+"Focus Window Restriction limits the JAWS or Invisible cursor to the window that "
+"currently has system focus. This typically means the window that contains the insertion "
+"pointer, caret, or highlight bar."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.ul.li:41-1
+msgid ""
+"Unrestricted mode removes all restrictions on movement of the JAWS or Invisible cursors "
+"within the display area."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.ul.li:42-1
+msgid ""
+"Application Window Restriction restricts the JAWS or Invisible cursors to the current "
+"application window."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:44-1
+msgid ""
+"When focused in a dialog box that is part of a web page, this command also toggles "
+"Virtual Cursor restriction. When restricted, Virtual Cursor navigation is limited to "
+"only the content in the dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:45-1
+msgid "Left Mouse Button (NUM PAD SLASH)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:46-1
+msgid ""
+"This command simulates a single left mouse button click. Press the command twice "
+"quickly to simulate a left mouse button double click."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:47-1
+msgid "Right Mouse Button (NUM PAD STAR)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:48-1
+msgid ""
+"This command simulates a single right mouse button click. Press the command twice "
+"quickly to simulate a right mouse button double click."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:49-1
+msgid "Left Mouse Button Lock (INSERT+NUM PAD SLASH)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:50-1
+msgid ""
+"This command simulates pressing down the left mouse button and holding it. Once "
+"pressed, the JAWS cursor can be moved with the arrow keys. JAWS will not speak until "
+"<b>INSERT+NUM PAD SLASH</b> is pressed again to unlock the left mouse button. This "
+"command can be used to drag items from one location and drop them in another."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:51-1
+msgid "Right Mouse Button Lock (INSERT+NUM PAD STAR)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:52-1
+msgid ""
+"This command simulates pressing down the right mouse button and holding it. Once "
+"pressed, the JAWS cursor can be moved with the arrow keys. JAWS will not speak until "
+"<b>INSERT+NUM PAD STAR</b> is pressed again to unlock the right mouse button. This "
+"command can be used to drag items from one location and drop them in another. When the "
+"command is pressed a second time to unlock the right mouse button, a menu may appear "
+"with options such as Copy Here, Move Here, and Create Shortcut Here."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:53-1
+msgid "Drag and Drop (CTRL+INSERT+NUM PAD SLASH)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:54-1
+msgid ""
+"This command is used to drag items from one location and drop them in another. Position "
+"the JAWS Cursor on the item you wish to move and press <b>CTRL+INSERT+NUM PAD SLASH</"
+"b>. You can leave the JAWS Cursor active, or you can switch to the PC Cursor. JAWS will "
+"keep speaking as you navigate. Once you have positioned the JAWS or PC Cursor in the "
+"location to which you would like to move the item, press <b>CTRL+INSERT+NUM PAD SLASH</"
+"b> again, and the item will be moved to the position of the active cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:55-1
+msgid "Say Active Cursor (ALT+DELETE)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:56-1
+msgid ""
+"This command says the name of the active cursor and its position in pixels. When "
+"working in certain programs (such as word processors, text editors, and e-mail) with "
+"the PC Cursor, JAWS may announce the column and row position instead. In addition, JAWS "
+"announces the percentage of the current document you have moved or read through."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:57-1
+msgid ""
+"<b style=\"font-weight: bold;\">Tip:</b> If JAWS announces the row and column position "
+"of the PC Cursor, and you want to hear the position in pixels instead, press <b>NUM PAD "
+"MINUS</b> to switch to the JAWS Cursor, then press <b>INSERT+NUM PAD MINUS</b> to route "
+"the JAWS Cursor to the PC Cursor. Press <b>ALT+DELETE</b> again to hear the position in "
+"pixels."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.h2:58-1
+msgid "Say Cursor Type (CTRL+INSERT+SHIFT+C)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.p:59-1
+msgid "This command announces the shape of the current mouse cursor."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_cursors_and_mouse_an.htm%2Bhtml.body.div.table.tbody.tr.td.p:64-1
+msgid "Back"
+msgstr ""

@@ -1,0 +1,62 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml.head.title:12-1
+msgid "Select a Symbol to Print Dialog"
+msgstr ""
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml.body.h1:17-1
+msgid "Select a Symbol to Print Dialog Box"
+msgstr ""
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml.body.p:18-1
+msgid ""
+"This topic documents the Select a Symbol to Print dialog box. This dialog "
+"allows you to insert certain symbols into a document. To access this "
+"feature, press <b>INSERT+4</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml.body.h2:19-1
+msgid "Symbols List"
+msgstr ""
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml.body.p:20-1
+msgid ""
+"This list box contains textual descriptions of the symbols that you can "
+"insert into your document. To insert the selected symbol, press <b>ENTER</b> "
+"or activate the OK Button."
+msgstr ""
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml.body.h2:21-1
+msgid "Cancel"
+msgstr ""
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml.body.p:22-1
+msgid ""
+"Activating the Cancel Button closes the dialog box without inserting any "
+"symbols."
+msgstr ""
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml.body.div.table.tbody.tr.td.p:28-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5CSelect_a_Symbol_To_Print_Dialog.htm%2Bhtml.body.div.table.tbody.tr.td:33-1
+msgid "Next Section"
+msgstr ""

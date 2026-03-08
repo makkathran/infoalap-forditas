@@ -1,0 +1,164 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.head.title:6-3
+msgctxt "HTM_po_nelkul\\FSCompanion.htm+html.head.title:6-3"
+msgid "FSCompanion"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.h1:10-3
+msgctxt "HTM_po_nelkul\\FSCompanion.htm+html.body.h1:10-3"
+msgid "FSCompanion"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.p:11-7
+msgid ""
+"With so many features and keystrokes available between JAWS, Windows, and "
+"the various Office apps, it can be challenging to locate the information you "
+"need to perform a specific task or even look up a setting or keystroke you "
+"no longer recall. The new AI assistant, FSCompanion, lets you ask questions "
+"about JAWS and other applications and quickly provides the information you "
+"need without you having to search through multiple documents and web pages "
+"to find it. Want to know how a particular JAWS feature works, or the "
+"sequence of keystrokes to perform a specific task in Word? Ask FSCompanion, "
+"and the AI searches through various help and training resources in a matter "
+"of seconds, and provides the key details in a concise step-by-step format."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.p:12-1
+msgid ""
+"FSCompanion has been trained using JAWS help and training data as well as "
+"support content from other sources."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.p:13-1
+msgid ""
+"FSCompanion is capable of responding to questions about the following, with "
+"an emphasis on providing specific keystrokes as answers."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:15-1
+msgid "JAWS usage"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:16-1
+msgid "Windows usage and navigation"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:17-1
+msgid "Web browsing"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:18-1
+msgid "Microsoft Office applications (Word, Excel, Outlook, and PowerPoint)"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:19-1
+msgid ""
+"Google Workspace applications (Gmail, Chrome, Drive, Docs, Sheets, and "
+"Slides)"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.p:21-1
+msgid "To open FSCompanion, do one of the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:23-1
+msgid ""
+"In JAWS, press the layered command, <strong>INSERT+SPACEBAR</strong>, "
+"followed by <strong>F1</strong>. FSCompanion is also located in the JAWS "
+"Help menu under Web Resources."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:24-1
+msgid ""
+"Open FSCompanion using the JAWS Voice Assistant. For instance, you can say "
+"“hey Sharky, open FSCompanion.”"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:25-1
+msgid ""
+"Go to <a href=\"https://fscompanion.ai\" target=\"_blank\">FSCompanion.ai</"
+"a> from a PC or mobile device using your preferred web browser."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.p:27-1
+msgid ""
+"Once the FSCompanion page opens, press <strong>TAB</strong> to move to the "
+"edit field and type a question. After typing a question, press "
+"<strong>ENTER</strong>, and JAWS will automatically read the response as "
+"soon as it is displayed. Focus remains in the edit field, so you can ask any "
+"follow-up questions."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.p:28-1
+msgid ""
+"You also have the option to speak your questions. Press <strong>ALT+SHIFT+D</"
+"strong>, or use the Dictate button to start dictating to FSCompanion. Press "
+"<strong>ALT+SHIFT+D</strong> again, or use the Stop dictation button to "
+"stop. The dictated text will appear in the input edit box for review."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.p:29-1
+msgid ""
+"To review answers, use <strong>H</strong>, <strong>SHIFT+H</strong>, or the "
+"<strong>ARROW</strong> keys. Select the <strong>New Conversation</strong> "
+"button to start a new topic, or select the <strong>Feedback</strong> button "
+"to submit any comments about a response."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.p:30-1
+msgid "Here are a few example questions to help get you started."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:32-1
+msgid "How do I change the JAWS volume?"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:33-1
+msgid "How do I select cells in Excel?"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:34-1
+msgid "How do I turn off the Preview Pane in Outlook?"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:35-1
+msgid "How do I select text?"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.ul.li:36-1
+msgid "How do I set a PlaceMarker on a page?"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.p:38-1
+msgid ""
+"Please ask as many questions as you like, and don’t hesitate to give "
+"feedback on your experiences. The types of questions you ask and the "
+"feedback you provide are very important as it helps our team train the model "
+"to be more accurate."
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.div.table.tbody.tr.td.p:43-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5CFSCompanion.htm%2Bhtml.body.div.table.tbody.tr.td.p:49-1
+msgid "Next Section"
+msgstr ""

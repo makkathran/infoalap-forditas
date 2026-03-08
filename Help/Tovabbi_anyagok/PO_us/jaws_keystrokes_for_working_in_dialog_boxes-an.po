@@ -1,0 +1,112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\jaws_keystrokes_for_working_in_dialog_boxes-an.htm+html.head.title:12-1"
+msgid "Additional Notes on JAWS Keystrokes for Working in Dialog Boxes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\jaws_keystrokes_for_working_in_dialog_boxes-an.htm+html.body.h1:17-1"
+msgid "Additional Notes on JAWS Keystrokes for Working in Dialog Boxes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.h2:18-1
+msgid "Say Default Button of Dialog (INSERT+E)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.p:19-1
+msgid "This keystroke states which button pressing <b>ENTER</b> activates."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.h2:20-1
+msgid "Say Current Control Hot Key (SHIFT+NUM PAD 5)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.p:21-1
+msgid ""
+"This keystroke reads the hot key shortcut for the current item. The hot key activates a "
+"control when pressed with <b>ALT</b>, even if that item does not have focus."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.h2:22-1
+msgid "Read Dialog in Tab Order (INSERT+B)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.p:23-1
+msgid ""
+"This keystroke says all the controls in a dialog in the same order as <b>TAB</b> would cycle "
+"through them."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.h2:24-1
+msgid "Say Window Prompt in Text (INSERT+TAB)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.p:25-1
+msgid ""
+"This keystroke states the type of control that currently has focus, and reads the text in the "
+"control. This keystroke does not work in Virtual PC Cursor mode."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.h2:26-1
+msgid "Read Word in Context (INSERT+C)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.p:27-1
+msgid ""
+"This keystroke works in many spell check dialogs to read words as they were originally used."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.h2:28-1
+msgid "Select Multiple List Items (CTRL+SHIFT or CTRL+SPACEBAR)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.p:29-1
+msgid ""
+"To select multiple list items that are next to each other, press and hold down <b>CTRL+SHIFT</"
+"b> and use the <b>UP ARROW</b> or <b>DOWN ARROW</b> keys. To select multiple list items that "
+"are not next to each other, press and hold down <b>CTRL</b> and use the <b>UP ARROW</b> or "
+"<b>DOWN ARROW</b> keys to move to items you want to select. Still holding down <b>CTRL</b>, "
+"press <b>SPACEBAR</b> to select items."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.h2:30-1
+msgid "Unselect All But Current (CTRL+\\)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.p:31-1
+msgid "This keystroke removes the selection of all items in a list except the current item."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.h2:32-1
+msgid "Read List View Columns 1 through 10 (CTRL+INSERT+1 through 0)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.p:33-1
+msgid ""
+"This keystroke allows you to read the contents of the first ten columns in a list view. "
+"<b>CTRL+INSERT+1</b> reads the first column in the list view, <b>CTRL+INSERT+2</b> reads the "
+"second column, and so on. This command only reads the item in the currently selected row, and "
+"not all items in that column of the list view."
+msgstr ""
+
+#: HTM_po_nelkul%5Cjaws_keystrokes_for_working_in_dialog_boxes-an.htm%2Bhtml.body.div.table.tbody.tr.td.p:38-1
+msgid "Back"
+msgstr ""

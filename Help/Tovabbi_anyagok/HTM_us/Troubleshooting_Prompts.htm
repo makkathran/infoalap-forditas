@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-status" content="In Progress"/>
+<meta name="topic-priority" content="0"/>
+<meta name="topic-time-estimate" content="0"/>
+<meta name="topic-comment" content=""/>
+<meta name="topic-id" content="Troubleshooting_Prompts"/>
+<meta name="window-type" content="$Global_NewWindow"/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Troubleshooting Prompts</title>
+<link rel="StyleSheet" href="../../assets/css/default.css" type="text/css"/>
+
+<meta name="rh-index-keywords" content="Prompts:Troubleshooting,Troubleshooting:Prompts"/></head>
+<body>
+<h1>Troubleshooting Prompts</h1>
+<p>Creating prompts is a straightforward process and you will seldom run into any difficulties. However, there are a few situations within which your prompts may need to be slightly reconfigured for best results. There are also situations within which it is necessary to create your prompts in a specific manner. Several of these situations are listed below with our recommendations for how to make your prompts work best.</p>
+<p><a href="#several">A prompt is Recognized in Several Dialogs</a></p>
+<p><a href="#multipage">Prompts in Multipage Dialogs</a></p>
+<p><a href="#control">A Prompt that does not Size to the Control</a></p>
+<h2><a name="several" id="several">A Prompt is Recognized in Several Dialogs</a></h2>
+<p>It is possible FOR a prompt to be recognized within several dialogs within the same application. This can only occur when the dialogs in an application use similar names and the controls in them are laid out similarly.</p>
+<p>When prompts are created, the text from the title of the dialog in which the control is located is recorded. The prompt is then available whenever a dialog in that application containing that text is opened. Because of this, if you create a prompt in a dialog titled &quot;Options,&quot; and that same application also has a dialog named &quot;Format Options&quot; or something else containing the word &quot;options,&quot; the prompt is recognized in that dialog as well. And if there is a control in that dialog in the same position as that for which you created the prompt, the prompt is spoken when you <b>TAB</b> to that control.</p>
+<p>To correct this:</p>
+<ol class="kadov-p">
+<li class="kadov-p">Open the dialog where you created the prompt.</li>
+<li class="kadov-p">Press <b>INSERT+F2</b> to open the Run JAWS Manager dialog, select Frame Viewer, and press <b>ENTER</b>.</li>
+<li class="kadov-p"><b style="font-weight: bold;">TAB</b> to the frame with the name of your prompt.</li>
+<li class="kadov-p">Press <b>ALT+ENTER</b> to open properties for the frame.</li>
+<li class="kadov-p">Press <b>CTRL+TAB</b> to move to the Validation Rules page of this dialog.</li>
+<li class="kadov-p">Select the Window Title rule and press <b>ALT+M</b> to modify it.</li>
+<li class="kadov-p">Do not change the rule type. Move to Next and press <b>ENTER</b>.</li>
+<li class="kadov-p">Change the comparison type from Contains to Is and select Next.</li>
+<li class="kadov-p">Do not change the comparison value. Select Finish.</li>
+<li class="kadov-p">You should be back in the Validation Rules page of properties. Press <b>ENTER</b>.</li>
+<li class="kadov-p">Press <b>CTRL+S</b> to save changes.</li>
+<li class="kadov-p">Press <b>ESC</b> to exit Frame Viewer.</li>
+</ol>
+<p>Your prompt should now work only in the dialog for which it was intended.</p>
+<h2><a name="multipage" id="multipage">Prompts in Multipage Dialogs</a></h2>
+<p>Prompts created within multipage dialogs may be recognized within several pages of the dialog. This is because the title of the dialog is used to determine when the prompt is available, and the title of multipage dialogs do not change as you move from page to page.</p>
+<p>To prevent this, the prompt must look for something unique in the page of the dialog where it was created. We recommend identifying text of some sort within the page, which is not present in any other pages of the dialog. Once you have identified such text, follow these steps to set your prompt to only be available when that text is present.</p>
+<ol class="kadov-p">
+<li class="kadov-p">Open the dialog to the page where you created the prompt.</li>
+<li class="kadov-p">Press <b>INSERT+F2</b> to open the Run JAWS Manager dialog, select Frame Viewer, and press <b>ENTER</b>.</li>
+<li class="kadov-p"><b style="font-weight: bold;">TAB</b> to the frame with the name of your prompt.</li>
+<li class="kadov-p">Press <b>ALT+ENTER</b> to open properties for the frame.</li>
+<li class="kadov-p">Press <b>CTRL+TAB</b> to move to the Validation Rules page of this dialog.</li>
+<li class="kadov-p">Press <b>ALT+A</b> to modify a new rule.</li>
+<li class="kadov-p">Set the rule type to Window Text. Move to Next and press <b>ENTER</b>.</li>
+<li class="kadov-p">Leave the comparison type set to Contains, and select Next.</li>
+<li class="kadov-p">For the comparison value, type in the text you identified as unique to the page of the dialog where you want your prompt to work. Press <b>TAB</b> to move to the Add button and press <b>ENTER</b>. Then select Finish.</li>
+<li class="kadov-p">You should be back in the Validation Rules page of properties. Press <b>ENTER</b>.</li>
+<li class="kadov-p">Press <b>CTRL+S</b> to save changes.</li>
+<li class="kadov-p">Press <b>ESC</b> to exit Frame Viewer.</li>
+</ol>
+<h2><a name="control" id="control">A Prompt that does not Size to the Control</a></h2>
+<p>You may find situations where a prompt you create does not correctly size to the control or area of the screen in which you want to use it. One example of this is when creating prompts for use in terminal emulation software. In these cases, it may be necessary to create the prompt in another manner.</p>
+<p>You can use the JAWS cursor to specify the exact position of the top left and bottom right corners of your prompt, limiting it to the exact area where you need it.</p>
+<ol class="kadov-p">
+<li class="kadov-p">With the JAWS cursor, navigate to the top, left corner of the area you want included in the prompt.</li>
+<li class="kadov-p">Press <b>CTRL+SHIFT+LEFT BRACKET</b>.</li>
+<li class="kadov-p">Move to the bottom, right corner of the area you wish to include in the prompt, and press <b>CTRL+SHIFT+RIGHT BRACKET</b>.</li>
+<li class="kadov-p">A dialog box appears asking you if you wish to create a frame or a prompt. Select to create a prompt.</li>
+</ol>
+<p>The standard Prompt Creator dialogs appear. Fill out the information on each page just like with any other prompt.</p>
+<p> </p>
+<div style="text-align: center;">
+<table cellspacing="3" width="100%" align="center">
+<tbody><tr style="vertical-align: top;">
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p style="text-align: left; margin-bottom: 0;"><a href="javascript:window.history.go(-1);" accesskey="b">Back</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="introduction_to_frames.htm" accesskey="x">Next</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>

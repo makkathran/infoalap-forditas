@@ -1,0 +1,101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\keystrokes_for_windows_explorer-an.htm+html.head.title:12-1"
+msgid "Additional Notes on Keystrokes for Working in Windows Explorer"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\keystrokes_for_windows_explorer-an.htm+html.body.h1:17-1"
+msgid "Additional Notes on Keystrokes for Working in Windows Explorer"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.h2:18-1
+msgid "Delete Selected File or Folder (DELETE)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.p:19-1
+msgid ""
+"When deleting a file, you may be prompted to confirm that this is what you wish "
+"to do."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.h2:20-1
+msgid "Rename Selected File or Folder (F2)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.p:21-1
+msgid ""
+"If Windows is configured to hide file extensions for known file types, you will "
+"not be able to change file extensions for these files. When file extensions are "
+"displayed and you change them, you may get a warning message. This is because the "
+"file extension determines which application will open certain types of files."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.h2:22-1
+msgid "Refresh Window (F5)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.p:23-1
+msgid ""
+"Use this keystroke if changes you have made do not seem to be reflected in what "
+"JAWS is indicating."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.h2:24-1
+msgid "Switch Between Tree View and List View (F6 or TAB)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.p:25-1
+msgid ""
+"This keystroke switches focus between the available views. If the Address Bar and "
+"Toolbar are displayed, they are included in this \"switch to\" cycle."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.h2:26-1
+msgid "Go Up One Folder Level (BACKSPACE)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.p:27-1
+msgid ""
+"The keystroke will move you to the previous level in the tree view. When you move "
+"back to that level the item you land on will not be selected, use the "
+"<b>SPACEBAR</b> to select it."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.h2:28-1
+msgid "Open File or Folder Properties (ALT+ENTER)"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.p:29-1
+msgid ""
+"Properties of files and folders will give you different information depending on "
+"the kind of file or folder you are requesting information for. If you look at the "
+"properties for a folder like My Documents, you will find out information such as "
+"the size and location of the folder as well as the attributes. If you get the "
+"properties for a shortcut, you can find out the location of the original file. "
+"Document properties will also tell you the name, location, and size, in addition "
+"to the author and the title. The properties for items in Windows Explorer "
+"encompass a wide range of possibilities."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_windows_explorer-an.htm%2Bhtml.body.div.table.tbody.tr.td.p:34-1
+msgid "Back"
+msgstr ""

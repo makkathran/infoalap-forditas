@@ -1,0 +1,136 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.head.title:6-2
+msgctxt "HTM_po_nelkul\\Sound_Splitter.htm+html.head.title:6-2"
+msgid "Sound Splitter"
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.h1:9-2
+msgctxt "HTM_po_nelkul\\Sound_Splitter.htm+html.body.h1:9-2"
+msgid "Sound Splitter"
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.p:10-1
+msgid ""
+"The Sound Splitter feature allows those using stereo headsets or speakers to "
+"route all JAWS or Fusion speech to one ear while routing audio from all "
+"other applications to the other ear. This helps make it easier to continue "
+"getting work done with JAWS while following along during a Zoom or Teams "
+"meeting."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.p:11-1
+msgid "To split audio:"
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.ol.li:13-1
+msgid ""
+"Press <strong>INSERT+SPACEBAR</strong> followed by <strong>V</strong> to "
+"activate the Volume layer."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.ol.li:14-1
+msgid "Press B for Balance, and then do one of the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.ol.li.ul.li:16-1
+msgid ""
+"Press <strong>LEFT ARROW</strong> to route JAWS Speech to the left and audio "
+"from all other applications to the right."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.ol.li.ul.li:17-1
+msgid ""
+"Press <strong>RIGHT ARROW</strong> to route JAWS speech to the right and "
+"audio from all other applications to the left."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.ol.li.ul.li:18-1
+msgid ""
+"Press <strong>UP ARROW</strong> to restore both JAWS speech and application "
+"audio to both channels."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.p:21-1
+msgid ""
+"<strong>Note:</strong> Before attempting to split your audio, make sure your "
+"headset or speakers are properly oriented. For instance, if you route JAWS "
+"speech to the left and instead hear it in your right ear, your headset is "
+"most likely reversed."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.p:22-1
+msgid ""
+"Once you split your JAWS speech and application audio, it remains in effect "
+"until you restart JAWS, or use the command to restore the audio balance."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.p:23-1
+msgid ""
+"You can also wake up the Voice Assistant and say “Sound Left,” “Sound "
+"Right,” or “Sound Balance.” Make sure your microphone is not muted before "
+"speaking these commands. You also may not want to use these commands in apps "
+"like Teams or Zoom as other meeting participants will hear you."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.p:24-1
+msgid "Notes"
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.ul.li:26-1
+msgid ""
+"Splitting the audio will not work in a call when using a Bluetooth headset. "
+"This is not a JAWS issue. When connecting to a call in Teams or Zoom, it "
+"switches from a headphone device to a headset device. By design, the headset "
+"device works as a mono device, so sound splitting does not work. If you want "
+"to split your audio during a call, we recommend using a wired headset."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.ul.li:27-1
+msgid ""
+"If you are playing audio from another source such as a YouTube video, the "
+"sound splitter works as expected even if you are using a Bluetooth headset. "
+"You will only experience issues with splitting audio when connecting to a "
+"Teams or Zoom call using a Bluetooth headset as it changes from a stereo "
+"headphone device to a mono headset device."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.ul.li:28-1
+msgid ""
+"JAWS speech and application audio will split as expected if you are using "
+"your computer's internal speakers, or you have external speakers connected."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.ul.li:29-1
+msgid ""
+"As long as both JAWS and the other applications playing sound are all routed "
+"through the same sound card, the audio will split as expected. If you use "
+"the Sound Cards option under the JAWS Utilities menu to configure JAWS to "
+"use a different sound card, JAWS remains routed, but audio from other apps "
+"will be restored to both speakers."
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.div.table.tbody.tr.td.p:35-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5CSound_Splitter.htm%2Bhtml.body.div.table.tbody.tr.td.p:39-1
+msgid "Next"
+msgstr ""

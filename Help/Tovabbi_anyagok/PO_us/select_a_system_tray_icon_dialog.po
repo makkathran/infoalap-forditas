@@ -1,0 +1,93 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.head.title:12-1
+msgid "Select a System Tray Icon Dialog"
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.h1:17-1
+msgid "Select a System Tray Icon Dialog Box"
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.p:18-1
+msgid ""
+"This topic documents the settings available in the Select a System Tray Icon "
+"dialog box. This dialog box allows you to access items in the system tray. "
+"To access this dialog box, press <b>INSERT+F11</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.h2:19-1
+msgid "System Tray Icon"
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.p:20-1
+msgid ""
+"This list box lists the icons that are displayed in the system tray. Select "
+"an item from the list and press <b>ENTER</b> to simulate a right single "
+"click of the mouse on the item. This will normally bring up a context menu "
+"providing access to the item’s options."
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.h2:21-1
+msgid "Right Single Click"
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.p:22-1
+msgid ""
+"This button can be used to simulate a right single click on the item "
+"currently selected in the System Tray Icon list box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.h2:23-1
+msgid "Left Single Click"
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.p:24-1
+msgid ""
+"This button can be used to simulate a left single click on the item "
+"currently selected in the System Tray Icon list box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.h2:25-1
+msgid "Left Double Click"
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.p:26-1
+msgid ""
+"This button can be used to simulate a left double click on the item "
+"currently selected in the System Tray Icon list box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.h2:27-1
+msgid "Cancel"
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.p:28-1
+msgid ""
+"This button allows you to exit the Select a System Tray Icon dialog box "
+"without taking any action on any system tray icons."
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.div.table.tbody.tr.td.p:34-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cselect_a_system_tray_icon_dialog.htm%2Bhtml.body.div.table.tbody.tr.td:39-1
+msgid "Next"
+msgstr ""

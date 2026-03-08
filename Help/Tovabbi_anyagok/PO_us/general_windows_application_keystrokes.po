@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.head.title:12-1
+msgid "General windows Application Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.h1:17-1
+msgid "General Windows Application Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table[summary]:18-1
+msgid "General Application Commands"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.th:20-1
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.th:21-1
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:24-1
+msgid "Exit the Active Application"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:25-1
+msgid "ALT+F4"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:28-1
+msgid "Open the Application Control Menu"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:29-1
+msgid "ALT+SPACEBAR"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:32-1
+msgid "Move to the Menu Bar"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:33-1
+msgid "ALT"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:36-1
+msgid "Move between Menus"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:37-1
+msgid "ALT, ARROW KEYS"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:40-1
+msgid "Choose a Menu Item"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:41-1
+msgid "ENTER"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:44-1
+msgid "Open a child Window Control Menu"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:45-1
+msgid "ALT+DASH"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:48-1
+msgid "Cancel or close a Menu"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:49-1
+msgid "<b style=\"font-weight: bold;\">ESC</b> or <b>ALT</b>"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.p:52-1
+msgid "Additional Notes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.p:53-1
+msgid "See also:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.p:54-1
+msgid "Navigation - Information Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:60-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_application_keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:64-1
+msgid "Next"
+msgstr ""

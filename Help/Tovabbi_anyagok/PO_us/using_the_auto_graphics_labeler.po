@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cusing_the_auto_graphics_labeler.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_auto_graphics_labeler.htm%2Bhtml.head.title:11-1
+msgctxt "HTM_po_nelkul\\using_the_auto_graphics_labeler.htm+html.head.title:11-1"
+msgid "Using the Auto Graphics Labeler"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_auto_graphics_labeler.htm%2Bhtml.body.h1:16-1
+msgctxt "HTM_po_nelkul\\using_the_auto_graphics_labeler.htm+html.body.h1:16-1"
+msgid "Using the Auto Graphics Labeler"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_auto_graphics_labeler.htm%2Bhtml.body.p:17-1
+msgid ""
+"The Auto Graphics Labeler assigns a text label to all graphics that are "
+"associated with ToolTips. A ToolTip is a brief description of a graphic that "
+"appears on the screen as you point to the graphic with your mouse."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_auto_graphics_labeler.htm%2Bhtml.body.p:18-1
+msgid ""
+"To activate the Auto Graphics Labeler, open the desired application, and press "
+"<b>CTRL+INSERT+G</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_auto_graphics_labeler.htm%2Bhtml.body.p:19-1
+msgid ""
+"JAWS will attempt to label all graphics. Do not move the mouse or press any "
+"keys on the keyboard until JAWS states that the Auto Graphics Labeler is "
+"finished. When JAWS finishes, it will announce the newly labeled graphics."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_auto_graphics_labeler.htm%2Bhtml.body.p:20-1
+msgid ""
+"After using the Auto Graphics Labeler, you can use <b>CTRL+INSERT+SHIFT+G</b> "
+"to bring up the Select Graphic to Click Dialog box. With this dialog box, you "
+"can use your arrow keys to move through the available graphics, and then press "
+"the <b>TAB</b> key to move to the OK button and press <b>ENTER</b> to activate "
+"the graphic you selected."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_auto_graphics_labeler.htm%2Bhtml.body.div.table.tbody.tr.td.p:26-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_auto_graphics_labeler.htm%2Bhtml.body.div.table.tbody.tr.td.p:32-1
+msgid "Next"
+msgstr ""

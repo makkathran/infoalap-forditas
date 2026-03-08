@@ -1,0 +1,56 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-25 14:59+0200\n"
+"PO-Revision-Date: 2025-04-02 10:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr "hu"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml.head.title:4-2
+msgctxt "Main\\convert\\start.htm+html.head.title:4-2"
+msgid "JAWS 2025"
+msgstr "JAWS 2025"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml.body.h1:9-1
+msgctxt "Main\\convert\\start.htm+html.body.h1:9-1"
+msgid "JAWS 2025"
+msgstr "JAWS 2025"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml.body.div.img[alt]:13-1
+msgid "JAWS screen reader logo"
+msgstr "JAWS képernyőolvasó logó"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml.body.p:16-1
+msgid "FSCompanion: AI Assistant for Learning JAWS and Fusion"
+msgstr "FS Segéd: Mesterséges intelligencia alapú asszisztens a JAWS és a Fusion tanulásához"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml.body.p:17-1
+msgid "What's New?"
+msgstr "Újdonságok"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml.body.p:18-5
+msgid "Using JAWS Help"
+msgstr "A JAWS súgójának használata"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml.body.p:19-5
+msgid "New Users Start Here!"
+msgstr "Az Új felhasználók lapja"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml.body.p:20-5
+msgid "Keyboard Commands"
+msgstr "Billentyűparancsok"
+
+#: Main%5Cconvert%5Cstart.htm%2Bhtml.body.p:21-5
+msgid "Voice Commands"
+msgstr "Hangparancsok"

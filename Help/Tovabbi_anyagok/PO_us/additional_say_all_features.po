@@ -1,0 +1,156 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 10:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\additional_say_all_features.htm+html.head.title:12-1"
+msgid "Change Voice Rate on the Fly"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\additional_say_all_features.htm+html.body.h1:17-1"
+msgid "Change Voice Rate on the Fly"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.p:18-1
+msgid ""
+"JAWS allows you to temporarily or permanently change the speech rate for the current "
+"voice. This can be done at any time - even while using Say All!"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.p:19-1
+msgid ""
+"When permanently changing the speech rate, the new rate is saved to the active voice "
+"profile. During a Say All, changing the speech rate is only temporary."
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.p:20-1
+msgid "When not using SayAll:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table[summary]:21-1
+msgid "Commands to change voice rate when not using Say All"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.th:23-1
+msgctxt "HTM_po_nelkul\\additional_say_all_features.htm+html.body.table.tbody.tr.th:23-1"
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.th:24-1
+msgctxt "HTM_po_nelkul\\additional_say_all_features.htm+html.body.table.tbody.tr.th:24-1"
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:27-1
+msgid "Temporarily Decrease Voice Rate"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:28-1
+msgid "ALT+CTRL+PAGE DOWN"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:31-1
+msgid "Temporarily Increase Voice Rate"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:32-1
+msgid "ALT+CTRL+PAGE UP"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:35-1
+msgid "Permanently Decrease Voice Rate"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:36-1
+msgid "ALT+WINDOWS Key+CTRL+PAGE DOWN"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:39-1
+msgid "Permanently Increase Voice Rate"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:40-1
+msgid "ALT+WINDOWS Key+CTRL+PAGE UP"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.p:43-1
+msgid ""
+"<strong>Note:</strong> JAWS states \"slower\" or \"faster\" with each press of the "
+"above keystrokes."
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.p:44-1
+msgid "During a SayAll:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table[summary]:45-1
+msgid "Commands to change voice rate when using Say All"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.th:47-1
+msgctxt "HTM_po_nelkul\\additional_say_all_features.htm+html.body.table.tbody.tr.th:47-1"
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.th:48-1
+msgctxt "HTM_po_nelkul\\additional_say_all_features.htm+html.body.table.tbody.tr.th:48-1"
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td.p:52-1
+msgid "Decrease Voice Rate"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:54-1
+msgid "PAGE DOWN"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td.p:58-1
+msgid "Increase Voice Rate"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.table.tbody.tr.td:60-1
+msgid "PAGE UP"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.p:63-1
+msgid ""
+"To restore the speech rate to the last saved setting if changed temporarily or during "
+"a Say All, press <strong>INSERT+ESC</strong>. Switching to another application using "
+"<strong>ALT+TAB</strong> also restores the default voice rate if changed temporarily."
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.p:64-1
+msgid ""
+"When using these commands to temporarily or permanently increase or decrease the "
+"speech rate on-the-fly, only the rate for the primary language in use in the currently "
+"active voice profile is affected. For example, if the primary language is English, the "
+"speech rate for all available English voices will be changed. All other languages in "
+"the profile will continue to use the rate that you configured in the <a href=\"../../"
+"using_jaws/the_jaws_application_window/Voice_Adjustment.htm\">Voice Adjustment</a> "
+"dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.div.table.tbody.tr.td.p:69-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cadditional_say_all_features.htm%2Bhtml.body.div.table.tbody.tr.td.p:75-1
+msgid "Next"
+msgstr ""

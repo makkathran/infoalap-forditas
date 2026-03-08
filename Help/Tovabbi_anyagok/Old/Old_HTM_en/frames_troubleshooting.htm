@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-status" content="In Progress"/>
+<meta name="topic-priority" content="0"/>
+<meta name="topic-time-estimate" content="0"/>
+<meta name="topic-comment" content=""/>
+<meta name="topic-id" content=""/>
+<meta name="window-type" content="$Global_NewWindow"/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Troubleshooting Frames</title>
+<link rel="StyleSheet" href="../../assets/css/default.css" type="text/css"/>
+
+<meta name="rh-index-keywords" content="Frames:Troubleshooting,Troubleshooting:Frames"/></head>
+<body>
+<h1>Troubleshooting Frames</h1>
+<p>Creating and configuring frames to do what you want is a series of fairly simple steps, but there are quite a few steps, and frames can do a lot. Some of the time, frames will not work, or they might not work the way you expect. This topic addresses several situations you might encounter when working with frames, and provides some tips for correcting the situation.</p>
+<p>Tips are provided for the following situations:</p>
+<ul>
+<li><a href="#inactive">When a frame is inactive where you want to use it</a></li>
+<li><a href="#active">When a frame is active where you do not want to use it</a></li>
+<li><a href="#noaction">When a frame does not perform the actions you set for it</a></li>
+<li><a href="#actions">When a frame performs actions more frequently than you expect</a></li>
+<li><a href="#brl_refresh">When information sent to a Braille display is not properly updated</a></li>
+<li><a href="#no_braille">When Braille Information is not Displayed</a></li>
+</ul>
+<h2><a name="inactive" id="inactive"></a>When a Frame is Inactive Where you Want to Use it</h2>
+<p>If your frame is inactive when you expected it to be available, or when you open Frame Viewer, first make sure you opened Frame Viewer from the location at which the frame was created. All frames are application specific. You cannot create frames in one application and use them in another.</p>
+<p>If you open Frame Viewer and your frames are inactive, you cannot move to them.</p>
+<ol>
+<li><b style="font-weight: bold;">TAB</b> to the Frames List button and press <b>SPACEBAR</b>.</li>
+<li>Move to the frame you wish to work with, and press <b>ALT+P</b> to open the frame&#39;s properties.</li>
+</ol>
+<p>When you first create a frame, two Validation Rules are set. A rule is set for the window title to contain the text it did at the time the frame was created. A rule is also set for the window class to contain the text it did at the time the frame was created. Verify this information has not changed in the application, or turn off one of the rules. In the Validation Rules page of frame properties, select a rule in the list and press <b>SPACEBAR</b> to toggle it off or back on again.</p>
+<p>Add another comparison value. The rule will be valid if one or the other of the values match the information in the application.</p>
+<p>Change the comparison type to something less specific, for example, from Is to Contains. Shorten the comparison value so it only contains text that does not change.</p>
+<h2><a name="active" id="active"></a>When a Frame is Active Where you do not Want to Use it</h2>
+<p>If your frame is active in places where you do not want it speaking information or performing other actions, your validation rules are too general. Look at the window title (<b>INSERT+T</b>), window class (<strong>CTRL+INSERT+F1</strong>), or text within the area (or areas) where you wish to use the frame. Look for something unique to that area or those areas. Set up a validation rule for that unique information.</p>
+<h2><a name="noaction" id="noaction"></a>When a frame does not perform the actions you set for it</h2>
+<p>All frame actions are based on events. Make sure the event is occurring as you expect. There are only three events that directly cause actions to take place: focus moving into the area of the frame (On Focus), new text (of some type) being newly displayed within the area of the frame (On Text), or pressing an assigned keystroke (On Frame Key). The fourth event type (On Play Action) lets you set an action in one frame to occur when one of the other events takes place in another frame.</p>
+<p>Create events to try and verify when events are occurring. Create an On Focus event with the action, Say String. Have it state, &quot;Focus Event.&quot; Try a similar test with the On Text event. Try assigning the action to the On Frame Key event, assign a keystroke, and test it.</p>
+<h2><a name="actions" id="actions"></a>When a Frame Performs Actions More Frequently than you Expect</h2>
+<p>Not all actions take place because of the frame events you have set. Some actions are caused by system events and the JAWS script support. Most frequently, these actions are initiated by FocusChangeEvent, or NewTextEvent. To test to see if this is the cause of the situation, create an On Focus event in your frame with the action set to Suppress Script Event. If this does not resolve the situation, create an On Text event with the action set to Suppress Script Event.</p>
+<p>The On Text event, when set to filter for any highlighted text, will perform the associated action each time the text that is highlighted changes - for example, when moving through a list box. Try changing the scope of the event to only when focus is in the frame, or to only when focus is not within the frame.</p>
+<h2><a name="brl_refresh" id="brl_refresh">When Information Sent to a Braille Display is not Properly Updated</a></h2>
+<p>When you use any of the Braille related actions to send information to a Braille display, the display may not properly refresh when you move focus to another control or perform other actions in your application. To prevent this, ensure the Show Focus Control check box is checked. This check box is located in the Add/Modify Event dialogs, on the page that is displayed after one of the Braille actions is assigned.</p>
+<h2><a name="no_braille" id="no_braille">When Braille Information is not Displayed</a></h2>
+<p>If you configure a frame to send information to a Braille display, but the information is not displayed, verify that you are using structured mode. The frame actions related to Braille do not work while you are using line mode as line mode is an actual representation of what is displayed on the screen. While using structured mode, you can set your frames to send the information you find useful to your Braille display.</p>
+<p> </p>
+<div style="text-align: center;">
+<table cellspacing="3" width="100%" align="center">
+<tbody><tr style="vertical-align: top;">
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p style="text-align: left; margin-bottom: 0;"><a href="javascript:window.history.go(-1);" accesskey="b">Back</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="../Custom_List_View/Customizing_List_Views.htm" accesskey="x">Next</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>

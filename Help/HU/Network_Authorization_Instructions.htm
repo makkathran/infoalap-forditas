@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html lang="hu" xmlns="http://www.w3.org/1999/xhtml"><head>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+ <link rel="StyleSheet" href="../../../assets/css/default.css" type="text/css"/>
+ <title>Hálózati hitelesítési útmutató</title>
+</head>
+<body>
+ <h1>Hálózati hitelesítési útmutató</h1>
+<p>Ebben a témakörben azokat a lépéseket részletezzük, amelyek a hálózati licenckiszolgáló környezetének beállításához szükségesek az általános hálózati hitelesítési eszközünk használatával. Ez az eszköz segítséget nyújt az összes ILM-alapú szoftvertermékünk licencének kezelésében, és kiváltja a korábbi termékspecifikus hálózati licenckiszolgáló eszközt.</p>
+ <h2>Hálózati szerver telepítése és aktiválása</h2>
+<p class="Tip-Note-Text"><strong>Megjegyzés:</strong> A licenckiszolgálót csak olyan számítógépre telepítheti, amelyiken a Microsoft Windows operációs rendszer működik. Más operációs rendszerek nem támogatottak.</p>
+<ol>
+  <li>Látogasson el a <a href="https://fsactivate.freedomscientific.com/Activation/Network" target="_blank">Hálózati licenckiszolgáló telepítése</a> oldalra, és töltse le a Network Authorization Tool telepítőfájlját arra a számítógépre, amelyen a licenckiszolgálót kívánja futtatni.</li>
+  <li>A hálózati hitelesítő eszközök és a licenckiszolgáló telepítése érdekében az útmutatásoknak megfelelően hajtsa végre a képernyőn megjelenő lépéseket.</li>
+  <li>A licenckiszolgáló telepítését követően nyissa meg a Start menüt, navigáljon a Freedom Scientific Network Authorization Utilities (Freedom Scientific Hálózati hitelesítési eszközök) mappába, és válassza az Update Network Authorization (Hálózati hitelesítés frissítése) opciót.</li>
+  <li>A szoftver aktiválásához kövesse a képernyőn megjelenő utasításokat.</li>
+  </ol>
+<p class="Tip-Note-Text"><strong>Megjegyzés:</strong> A licenc aktiválását közvetlen internetkapcsolattal nem rendelkező számítógépen a Manuális opció választásával, majd a képernyőn megjelenő utasítások követésével végezheti el, itt egy licenckódot kell kapnia és beírnia.</p>
+<p>Ha a hálózati licenckiszolgáló aktiválása során problémába ütközik, valószínű, hogy internet-elérésével vannak gondok egy tűzfal vagy hasonló ok miatt. További információkért olvassa el a <a href="https://fsactivate.freedomscientific.com/Activation/ILMTroubleShootingGuide" target="_blank">Hibaelhárítási útmutató szoftveraktiváláshoz</a> dokumentumot.</p>
+
+<h2>Kliens (ügyfél) számítógép telepítése és aktiválása</h2>
+<p>A hálózati licenckiszolgáló telepítését és aktiválását követően megkezdheti a kliens számítógépek telepítését és az alkalmazás szoftver futtatását. Azon kívül, hogy az alkalmazást telepíti az egyes kliens számítógépekre, mást nem szükséges tennie. Az alkalmazás az ügyfélszámítógépen való elindításakor minden alkalommal megkeresi a licenckiszolgálót, és lekéri a hitelesítési tokent.</p>
+<p>A hitelesíthető kliens számítógépek számát egy adott időpontban a licenc által engedélyezett felhasználók száma határozza meg. Ha például öt felhasználó számára vásárolt licencet, a licenckiszolgálón öt token áll rendelkezésre. Miután az összes tokent kiosztotta, további ügyfélszámítógépek nem kaphatnak hitelesítést.</p>
+<p>Ha arra van szükség, hogy a licenc további felhasználókat támogasson, forduljon a helyi viszonteladóhoz vagy a Freedom Scientifichez, és vásároljon további használati jogokat.</p>
+<p class="Tip-Note-Text"><strong>Megjegyzés:</strong> Ahhoz, hogy a kliens számítógépek hitelesítést kapjanak a hálózati licenckiszolgálótól, azonos alhálózaton kell lenniük. Azokban az esetekben, amikor a kliens számítógép egy másik alhálózatba van bekötve, az alkalmazásba az LSHOST vagy LSFORCEHOST környezeti változók használatával meg kell adnia a hálózati licenckiszolgáló nevét vagy IP-címét. További információkért lásd a rendszergazdák számára készített útmutatót a <a href="https://fsactivate.freedomscientific.com/Activation/Network" target="_blank">Hálózati licenckiszolgáló telepítése</a> oldalon: 2. fejezet: – Hálózati licenckiszolgáló konfigurálása a Sentinel Licenckezelőben.</p>
+<div style="text-align: center;">
+<table cellspacing="3" width="100%" align="center">
+<tbody><tr>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="javascript:window.history.go(-1);" accesskey="b">Vissza</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>

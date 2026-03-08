@@ -1,0 +1,195 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.head.title:12-1"
+msgid "Advanced Firewall Troubleshooting"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.h1:16-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.h1:16-1"
+msgid "Advanced Firewall Troubleshooting"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.p:17-1
+msgid ""
+"Your firewall software should allow the following files to run so that it does not interfere with installing, activating, or using of JAWS. If you installed JAWS in the default location, all these files are located in the C:\\Program "
+"Files\\Freedom Scientific folder. The name and location of each file is shown in the following table, along with the connection type required and incoming/outgoing ports used."
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.th:21-1
+msgid "File Name"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.th.div:23-1
+msgid "Connection Type"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.th.div:26-1
+msgid "Incoming Port"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.th.div:29-1
+msgid "Outgoing Port"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td:33-1
+msgid "JAWS\\<em>X</em> (where <em>X</em> is the JAWS version number)\\JFW.exe"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:35-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:35-1HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:35-1HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:35-1"
+msgid "UDP"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:38-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:38-1HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:38-1HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:38-1"
+msgid "5093"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:41-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:41-1"
+msgid "5093"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td:45-1
+msgid "JAWS\\<span class=\"40-percent-column\" style=\"padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;\"><em>X</em> (where <em>X</em> is the JAWS version number)\\JFW.exe</span>"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:47-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:47-1"
+msgid "UDP"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:50-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:50-1"
+msgid "5094"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:53-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:53-1"
+msgid "5094"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td:57-1
+msgid ""
+"JAWS\\<span class=\"40-percent-column\" style=\"padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;\"><em>X</em> (where <em>X</em> is the JAWS version number)\\JFW.exe<br /> (Only required if using redundant license "
+"servers)</span>"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:60-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:60-1"
+msgid "UDP"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:63-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:63-1"
+msgid "5096"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:66-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:66-1"
+msgid "5096"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td:70-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td:70-1"
+msgid "Activator\\1.1\\CAUtil.dll"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:72-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:72-1HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:72-1"
+msgid "TCP/IP"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:75-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:75-1HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:75-1HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:75-1"
+msgid "80"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:78-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:78-1"
+msgid "80"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td:82-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td:82-1"
+msgid "Activator\\1.1\\CAUtil.dll"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:84-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:84-1"
+msgid "TCP/IP"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:87-1
+msgid "20"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:90-1
+msgid "21"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td:94-1
+msgid "JAWS\\<span class=\"40-percent-column\" style=\"padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;\"><em>X</em> (where <em>X</em> is the JAWS version number)\\FSAuth.exe</span>"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:96-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:96-1"
+msgid "UDP"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:99-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:99-1"
+msgid "5093"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:102-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:102-1"
+msgid "5093"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td:106-1
+msgid "Activator\\1.1\\FSActivate.exe"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:108-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:108-1"
+msgid "TCP/IP"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:111-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:111-1"
+msgid "80"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.table.tbody.tr.td.div:114-1
+msgctxt "HTM_po_nelkul\\Advanced_Troubleshooting.htm+html.body.table.tbody.tr.td.div:114-1"
+msgid "80"
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.p:118-1
+msgid ""
+"<strong style=\"font-weight: bold;\">Tip:</strong> If you want to use the <a href=\"../using_jaws/installing_jaws/Updating_JAWS.htm\">Automatic Updates</a> feature to update your software, your firewall must allow JAWS to access ports 20 and 21 or "
+"port 80."
+msgstr ""
+
+#: HTM_po_nelkul%5CAdvanced_Troubleshooting.htm%2Bhtml.body.div.table.tbody.tr.td.p:124-1
+msgid "Back"
+msgstr ""

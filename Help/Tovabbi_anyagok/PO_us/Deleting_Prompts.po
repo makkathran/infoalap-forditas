@@ -1,0 +1,56 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CDeleting_Prompts.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CDeleting_Prompts.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\Deleting_Prompts.htm+html.head.title:12-1"
+msgid "Deleting Prompts"
+msgstr ""
+
+#: HTM_po_nelkul%5CDeleting_Prompts.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\Deleting_Prompts.htm+html.body.h1:17-1"
+msgid "Deleting Prompts"
+msgstr ""
+
+#: HTM_po_nelkul%5CDeleting_Prompts.htm%2Bhtml.body.p:18-1
+msgid "To delete a prompt you have created:"
+msgstr ""
+
+#: HTM_po_nelkul%5CDeleting_Prompts.htm%2Bhtml.body.ol.li:20-1
+msgid ""
+"Navigate to the dialog or window containing the control for which you "
+"created the prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5CDeleting_Prompts.htm%2Bhtml.body.ol.li:21-1
+msgid "press <b>INSERT+F2</b>, select Frame Viewer, and press <b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CDeleting_Prompts.htm%2Bhtml.body.ol.li:22-1
+msgid ""
+"<b style=\"font-weight: bold;\">TAB</b> to the frame with the name of the "
+"prompt you wish to delete and press the <b>DELETE</b> key."
+msgstr ""
+
+#: HTM_po_nelkul%5CDeleting_Prompts.htm%2Bhtml.body.div.table.tbody.tr.td.p:29-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5CDeleting_Prompts.htm%2Bhtml.body.div.table.tbody.tr.td.p:35-1
+msgid "Next"
+msgstr ""

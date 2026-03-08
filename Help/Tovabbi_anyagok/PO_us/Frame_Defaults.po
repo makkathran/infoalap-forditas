@@ -1,0 +1,136 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\Frame_Defaults.htm+html.head.title:12-1"
+msgid "Frame Defaults"
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\Frame_Defaults.htm+html.body.h1:17-1"
+msgid "Frame Defaults"
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.p:18-1
+msgid ""
+"When you create a frame, several default settings are used for Validation "
+"Rules and Frame Events. It is helpful to be aware of these defaults if you "
+"need to change the rules under which a frame is active, or if you need to "
+"change the functionality of a frame."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.h2:19-1
+msgid "Default Frame Events"
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.p:20-1
+msgid ""
+"When a frame is created, one frame event is always assigned, On Frame Key, "
+"set to speak the contents of the frame. This frame event is added even if "
+"you do not assign a keystroke to the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.p:21-1
+msgid ""
+"The other frame events that are assigned depend on the options selected "
+"during creation of the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.p:22-1
+msgid ""
+"The fifth page of the frame creation dialogs prompts you to specify how your "
+"frame will echo text newly displayed within the frame. The choice you select "
+"determines the other frame event that is added."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.ul.li:24-1
+msgid ""
+"<b style=\"font-weight: bold;\">Silent</b>: An On Text frame event is added "
+"with the action set to Suppress Script Event. This prevents the JAWS "
+"scripting New Text Event from causing text to be spoken."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.ul.li:25-1
+msgid ""
+"<b style=\"font-weight: bold;\">Highlight</b>: An On Text frame event is "
+"added set to filter for highlighted text only, with the action set to Speak "
+"Text Filter. This frame event speaks the text that caused the frame event to "
+"take place, in this case, the highlighted text."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.ul.li:26-1
+msgid ""
+"<b style=\"font-weight: bold;\">All</b>: An On Text frame event is added "
+"that does not filter for any specific sort of text, and with the action set "
+"to Speak Text Filter. In this case, all text within the frame is spoken any "
+"time new text is displayed within the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.ul.li:27-1
+msgid ""
+"<b style=\"font-weight: bold;\">JAWS Screen Echo</b>: No frame event is "
+"added when this choice is selected, and the way JAWS echoes text newly "
+"displayed in the frame is determined by default JAWS screen echo settings."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.p:29-1
+msgid ""
+"For more information, please refer to <a href=\"events.htm\">Frame Events</"
+"a>."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.h2:30-1
+msgid "Default Validation Rules"
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.p:31-1
+msgid "When a frame is created, two default Validation Rules are added:"
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.ul.li:33-1
+msgid ""
+"A rule is added based on the Window Title in the application. When you later "
+"use this frame, it is active if the window title in the application contains "
+"the same text as was present in the window title when the frame was created. "
+"If you create a frame in an application in which the name of the open "
+"document is reflected in the title bar, you will need to modify this rule or "
+"your frame will only be active when that document is open."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.ul.li:34-1
+msgid ""
+"A rule is added based on the window class in the application window or "
+"control. When you later use this frame, it is active if the window class in "
+"the application window or control contains the same information as was "
+"present when the frame was created."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.p:36-1
+msgid ""
+"For more information, please refer to <a href=\"rules.htm\">Validation "
+"Rules</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.div.table.tbody.tr.td.p:42-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5CFrame_Defaults.htm%2Bhtml.body.div.table.tbody.tr.td.p:48-1
+msgid "Next"
+msgstr ""

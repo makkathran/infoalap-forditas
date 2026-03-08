@@ -1,0 +1,220 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\frames_troubleshooting.htm+html.head.title:12-1"
+msgid "Troubleshooting Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\frames_troubleshooting.htm+html.body.h1:17-1"
+msgid "Troubleshooting Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:18-1
+msgid ""
+"Creating and configuring frames to do what you want is a series of fairly "
+"simple steps, but there are quite a few steps, and frames can do a lot. Some "
+"of the time, frames will not work, or they might not work the way you "
+"expect. This topic addresses several situations you might encounter when "
+"working with frames, and provides some tips for correcting the situation."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:19-1
+msgid "Tips are provided for the following situations:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.ul.li:21-1
+msgid "When a frame is inactive where you want to use it"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.ul.li:22-1
+msgid "When a frame is active where you do not want to use it"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.ul.li:23-1
+msgctxt "HTM_po_nelkul\\frames_troubleshooting.htm+html.body.ul.li:23-1"
+msgid "When a frame does not perform the actions you set for it"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.ul.li:24-1
+msgid "When a frame performs actions more frequently than you expect"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.ul.li:25-1
+msgid "When information sent to a Braille display is not properly updated"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.ul.li:26-1
+msgctxt "HTM_po_nelkul\\frames_troubleshooting.htm+html.body.ul.li:26-1"
+msgid "When Braille Information is not Displayed"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.h2:28-1
+msgid "When a Frame is Inactive Where you Want to Use it"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:29-1
+msgid ""
+"If your frame is inactive when you expected it to be available, or when you "
+"open Frame Viewer, first make sure you opened Frame Viewer from the location "
+"at which the frame was created. All frames are application specific. You "
+"cannot create frames in one application and use them in another."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:30-1
+msgid ""
+"If you open Frame Viewer and your frames are inactive, you cannot move to "
+"them."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.ol.li:32-1
+msgid ""
+"<b style=\"font-weight: bold;\">TAB</b> to the Frames List button and press "
+"<b>SPACEBAR</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.ol.li:33-1
+msgid ""
+"Move to the frame you wish to work with, and press <b>ALT+P</b> to open the "
+"frame's properties."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:35-1
+msgid ""
+"When you first create a frame, two Validation Rules are set. A rule is set "
+"for the window title to contain the text it did at the time the frame was "
+"created. A rule is also set for the window class to contain the text it did "
+"at the time the frame was created. Verify this information has not changed "
+"in the application, or turn off one of the rules. In the Validation Rules "
+"page of frame properties, select a rule in the list and press <b>SPACEBAR</"
+"b> to toggle it off or back on again."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:36-1
+msgid ""
+"Add another comparison value. The rule will be valid if one or the other of "
+"the values match the information in the application."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:37-1
+msgid ""
+"Change the comparison type to something less specific, for example, from Is "
+"to Contains. Shorten the comparison value so it only contains text that does "
+"not change."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.h2:38-1
+msgid "When a Frame is Active Where you do not Want to Use it"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:39-1
+msgid ""
+"If your frame is active in places where you do not want it speaking "
+"information or performing other actions, your validation rules are too "
+"general. Look at the window title (<b>INSERT+T</b>), window class "
+"(<strong>CTRL+INSERT+F1</strong>), or text within the area (or areas) where "
+"you wish to use the frame. Look for something unique to that area or those "
+"areas. Set up a validation rule for that unique information."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.h2:40-1
+msgctxt "HTM_po_nelkul\\frames_troubleshooting.htm+html.body.h2:40-1"
+msgid "When a frame does not perform the actions you set for it"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:41-1
+msgid ""
+"All frame actions are based on events. Make sure the event is occurring as "
+"you expect. There are only three events that directly cause actions to take "
+"place: focus moving into the area of the frame (On Focus), new text (of some "
+"type) being newly displayed within the area of the frame (On Text), or "
+"pressing an assigned keystroke (On Frame Key). The fourth event type (On "
+"Play Action) lets you set an action in one frame to occur when one of the "
+"other events takes place in another frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:42-1
+msgid ""
+"Create events to try and verify when events are occurring. Create an On "
+"Focus event with the action, Say String. Have it state, \"Focus Event.\" Try "
+"a similar test with the On Text event. Try assigning the action to the On "
+"Frame Key event, assign a keystroke, and test it."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.h2:43-1
+msgid "When a Frame Performs Actions More Frequently than you Expect"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:44-1
+msgid ""
+"Not all actions take place because of the frame events you have set. Some "
+"actions are caused by system events and the JAWS script support. Most "
+"frequently, these actions are initiated by FocusChangeEvent, or "
+"NewTextEvent. To test to see if this is the cause of the situation, create "
+"an On Focus event in your frame with the action set to Suppress Script "
+"Event. If this does not resolve the situation, create an On Text event with "
+"the action set to Suppress Script Event."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:45-1
+msgid ""
+"The On Text event, when set to filter for any highlighted text, will perform "
+"the associated action each time the text that is highlighted changes - for "
+"example, when moving through a list box. Try changing the scope of the event "
+"to only when focus is in the frame, or to only when focus is not within the "
+"frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.h2:46-1
+msgid "When Information Sent to a Braille Display is not Properly Updated"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:47-1
+msgid ""
+"When you use any of the Braille related actions to send information to a "
+"Braille display, the display may not properly refresh when you move focus to "
+"another control or perform other actions in your application. To prevent "
+"this, ensure the Show Focus Control check box is checked. This check box is "
+"located in the Add/Modify Event dialogs, on the page that is displayed after "
+"one of the Braille actions is assigned."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.h2:48-1
+msgctxt "HTM_po_nelkul\\frames_troubleshooting.htm+html.body.h2:48-1"
+msgid "When Braille Information is not Displayed"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.p:49-1
+msgid ""
+"If you configure a frame to send information to a Braille display, but the "
+"information is not displayed, verify that you are using structured mode. The "
+"frame actions related to Braille do not work while you are using line mode "
+"as line mode is an actual representation of what is displayed on the screen. "
+"While using structured mode, you can set your frames to send the information "
+"you find useful to your Braille display."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.div.table.tbody.tr.td.p:55-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframes_troubleshooting.htm%2Bhtml.body.div.table.tbody.tr.td.p:61-1
+msgid "Next"
+msgstr ""

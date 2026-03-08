@@ -1,0 +1,159 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\starting_jaws_for_windows.htm+html.head.title:12-1"
+msgid "Starting JAWS for Windows"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\starting_jaws_for_windows.htm+html.body.h1:17-1"
+msgid "Starting JAWS for Windows"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.p:18-1
+msgid ""
+"After installing JAWS, you can configure it to start manually, or to launch "
+"automatically when your computer starts. The latter is known as running JAWS "
+"as a service. Starting automatically is useful for those who require speech "
+"immediately."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.h2:19-1
+msgid "Manually Starting JAWS"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.p:20-1
+msgid "To manually start JAWS, do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ol.li:22-1
+msgid "Press <strong>WINDOWS Key+R</strong> to open the Run dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ol.li:23-1
+msgid ""
+"Type \"JAWS<em>X</em>\" (where <em>X</em> is the version number) and press "
+"<strong>ENTER</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.p:25-1
+msgid ""
+"<strong>Tip:</strong> To override your user settings and start JAWS with "
+"only the default factory settings, type \"JAWS<em>X</em> /default\" (where "
+"<em>X</em> is the version number). You can also assign a shortcut hot key to "
+"the JAWS shortcut. For more information, please see <a href=\"tutorial.chm::/"
+"windows_with_jfw_basics/desktop_orientation.htm#Define_a_Hotkey\">Define a "
+"Hot Key</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.h2:26-1
+msgid "Automatically Starting JAWS"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.p:27-1
+msgid ""
+"When you first install JAWS, the JAWS Startup Wizard launches. The Run JAWS "
+"Settings page in the wizard provides several options for starting JAWS. Use "
+"the default settings on this page since these will ensure that JAWS always "
+"loads, starts, and runs before and after Windows launches. If these settings "
+"change and later you want to restore the default values, do the following so "
+"that JAWS starts automatically:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ol.li:29-1
+msgid ""
+"Start JAWS manually as previously described, and press <strong>INSERT+J</"
+"strong> to access the JAWS application window."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ol.li:30-1
+msgid ""
+"Press <strong>ALT+H</strong> to select the Help menu, and then <strong>Z</"
+"strong> to launch the JAWS Startup Wizard."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ol.li:31-1
+msgid ""
+"Choose <strong>Next</strong> until the Run JAWS Settings page opens. If you "
+"have an Administrator account, several options appear in the wizard. If you "
+"have a Standard User account, only the <strong>Start JAWS after log on for "
+"this user</strong> combo box appears."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ol.li:32-1
+msgid "For an Administrator account, do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ul.li:35-1
+msgid "Select the Start JAWS at the Log On Screen check box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ul.li:36-1
+msgid "Clear the Start JAWS after Log On for all Users check box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ul.li:37-1
+msgctxt "HTM_po_nelkul\\starting_jaws_for_windows.htm+html.body.ul.li:37-1"
+msgid "Select Always in the Start JAWS after Log On for this User combo box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ul.li:38-1
+msgid "Clear the Run JAWS from System Tray check box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.p:40-1
+msgid "For a Standard User account, do the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ul.li:42-1
+msgctxt "HTM_po_nelkul\\starting_jaws_for_windows.htm+html.body.ul.li:42-1"
+msgid "Select Always in the Start JAWS after Log On for this User combo box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ol.li:45-1
+msgid ""
+"Choose <strong>Next</strong> to continue through the remaining pages of the "
+"wizard."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.ol.li:46-1
+msgid ""
+"On the last page of the JAWS Startup Wizard, choose <strong>Finish</strong> "
+"to accept the changes and close the wizard. The next time you start Windows, "
+"JAWS starts automatically, and is one of the first programs available."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.p:48-1
+msgid ""
+"<strong>Tip:</strong> If JAWS is configured to start automatically at the "
+"logon screen or after you have logged into Windows, press and hold both the "
+"<strong>LEFT SHIFT</strong> and <strong>RIGHT SHIFT</strong> keys as Windows "
+"boots, or after you have logged in, to prevent JAWS from starting. This is "
+"useful if you need to troubleshoot any startup related issues you may be "
+"experiencing."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.div.table.tbody.tr.td.p:53-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstarting_jaws_for_windows.htm%2Bhtml.body.div.table.tbody.tr.td.p:59-1
+msgid "Next"
+msgstr ""

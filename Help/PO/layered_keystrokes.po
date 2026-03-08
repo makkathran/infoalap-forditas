@@ -1,0 +1,1345 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-25 14:59+0200\n"
+"PO-Revision-Date: 2025-04-01 14:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr "hu"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.head.title:5-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.head.title:5-1"
+msgid "Layered Keystrokes"
+msgstr "Rétegelt billentyűparancsok"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h1:9-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.h1:9-1"
+msgid "Layered Keystrokes"
+msgstr "Rétegelt billentyűparancsok"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:10-1
+msgid ""
+"Layered keystrokes offer a fast and convenient way to perform various actions "
+"or navigate tables. These keystrokes reduce the number of keys that you need to "
+"hold down at once to perform an action. You always begin a layered keystroke by "
+"first pressing <strong>INSERT+SPACEBAR</strong> (<strong>CAPS LOCK+SPACEBAR</"
+"strong> if using the Laptop layout) followed by one or more keys that make up "
+"the command."
+msgstr ""
+"A rétegelt billentyűparancsok gyors és kényelmes módot kínálnak különféle "
+"műveletek végrehajtására vagy a táblázatokban történő navigálásra. Ezek a "
+"billentyűkombinációk csökkentik azoknak a billentyűknek a számát, amelyeket egy "
+"művelet végrehajtásához egyszerre nyomva kell tartani. Egy rétegelt "
+"billentyűparancsot mindig úgy indítson, hogy először nyomja le az "
+"<strong>INSERT+Szóközt</strong> (<strong>CAPS LOCK+SZÓKÖZ</strong>, ha a Laptop "
+"kiosztást használja), majd egy vagy több billentyűt, amely a parancsot alkotja."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h2:11-1
+msgid "General Layer Keystrokes"
+msgstr "Az általános réteg billentyűparancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:12-1
+msgid ""
+"Press and release <strong>INSERT+SPACEBAR</strong>, followed by the keystrokes "
+"listed below to perform the action."
+msgstr ""
+"Nyomja le és engedje fel az <strong>INSERT+SZÓKÖZ</strong>, majd az alább "
+"felsorolt billentyűkombinációkat a művelet végrehajtásához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table[summary]:13-1
+msgid "General Layer Commands"
+msgstr "Az általános réteg parancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:15-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:15-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:15-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:15-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:15-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:15-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:15-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:15-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:15-1"
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:16-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:16-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:16-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:16-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:16-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:16-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:16-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"th:16-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:16-1"
+msgid "Command"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűparancs<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:19-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:19-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:19-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:19-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:19-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:19-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:19-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:19-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:19-1"
+msgid "Help for Layered Commands"
+msgstr "Súgó a rétegelt parancsokhoz"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:20-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:20-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:20-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:20-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:20-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:20-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:20-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:20-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:20-1"
+msgid "QUESTION MARK"
+msgstr "KÉRDŐJEL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:23-5
+msgid "Launch FSCompanion"
+msgstr "Az FS Segéd elindítása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:24-5
+msgid "F1"
+msgstr "F1"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:27-1
+msgid "Launch JAWS Commands Search"
+msgstr "A JAWS Parancsok keresése szolgáltatásának elindítása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:28-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:28-1"
+msgid "J"
+msgstr "J"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:31-1
+msgid "Toggle Screen Shade On/Off for Privacy"
+msgstr "A Képernyő-árnyékolás be/ki kapcsolása az adatvédelem érdekében"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:32-1
+msgid "F11"
+msgstr "F11"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:35-1
+msgid "Toggle Full Speech or Speech On Demand"
+msgstr "Váltogatás a Teljes beszéd és az Igény szerinti beszéd között"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:36-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:36-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:36-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:36-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:36-1"
+msgid "S"
+msgstr "S"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:39-1
+msgid "Toggle Speech On Demand or Mute Speech"
+msgstr "Váltogatás az Igény szerinti beszéd és a Beszéd elnémítása között"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:40-1
+msgid "SHIFT+S"
+msgstr "SHIFT+S"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:43-1
+msgid "Review Speech History"
+msgstr "Beszédelőzmények áttekintése"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:44-1
+msgid "H"
+msgstr "H"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:47-1
+msgid "Clear Speech History"
+msgstr "A Beszédelőzmények törlése"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:48-1
+msgid "SHIFT+H"
+msgstr "SHIFT+H"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:51-1
+msgid "Copy Speech History to Clipboard"
+msgstr "Beszédelőzmények másolása a vágólapra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:52-1
+msgid "CTRL+H"
+msgstr "CTRL+H"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:55-1
+msgid "Launch Research It"
+msgstr "A Kutatás szolgáltatás elindítása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:56-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:56-1"
+msgid "R"
+msgstr "R"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:59-1
+msgid "Review Clipboard"
+msgstr "A vágólap áttekintése"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:60-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:60-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:60-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:60-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:60-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:60-1"
+msgid "C"
+msgstr "B"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:63-1
+msgid "Toggle Audio Ducking On/Off"
+msgstr "A más hangok elhalkítása funkció be/ki kapcsolása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:64-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:64-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:64-1"
+msgid "D"
+msgstr "D"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:67-1
+msgid "Toggle Keyboard Lock On/Off"
+msgstr "A billentyűzet zárolásának be/ki kapcsolása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:68-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:68-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:68-1"
+msgid "L"
+msgstr "L"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:71-1
+msgid "Toggle Loading of JAWS Factory Default Settings"
+msgstr "A JAWS gyári alapbeállításai betöltésének váltogatása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:72-1
+msgid "Z"
+msgstr "Z"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:75-1
+msgid "Toggle Text Analyzer On/Off (available in editable documents)"
+msgstr "A Szövegelemző be/ki kapcsolása (szerkeszthető dokumentumokban érhető el)"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:76-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:76-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:76-1"
+msgid "A"
+msgstr "A"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:79-1
+msgid "Launch Flexible Web Wizard (available in web browsers)"
+msgstr "Testreszabható webolvasás indítása (webböngészőkben érhető el)"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:80-1
+msgid "X"
+msgstr "X"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:83-1
+msgid "Open Notification History"
+msgstr "Nyissa meg az Értesítési előzményeket"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:84-1
+msgid "N"
+msgstr "N"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:87-1
+msgid "Repeat Last Notification that was Spoken"
+msgstr "Az utolsó kimondott értesítés megismétlése"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:88-1
+msgid "SHIFT+N"
+msgstr "SHIFT+N"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:91-1
+msgid ""
+"Toggle Announcement of Toast Notifications (sent by Windows and third-party "
+"apps)"
+msgstr ""
+"A felugró értesítések bejelentésének váltogatása (a Windows és az egyéb "
+"alkalmazások által küldött értesítések)"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:92-1
+msgid "CTRL+N"
+msgstr "CTRL+N"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:95-1
+msgid "Repeat Last Background Notification from Skype"
+msgstr "Az utolsó háttérértesítés megismétlése a Skype-ból"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:96-1
+msgid "SHIFT+R"
+msgstr "SHIFT+R"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:99-1
+msgid "Launch the Math Viewer (available in Microsoft Word)"
+msgstr "A matematikai megjelenítő elindítása (elérhető a Microsoft Wordben)"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:100-1
+msgid "EQUALS"
+msgstr "Ó"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:103-1
+msgid "Launch the Math Editor"
+msgstr "A matematikai szerkesztő elindítása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:104-1
+msgid "SHIFT+EQUALS"
+msgstr "SHIFT+Ó"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:107-1
+msgid "Open the Message Center"
+msgstr "Az Üzenetközpont megnyitása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:108-1
+msgid "SHIFT+M"
+msgstr "SHIFT+M"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:111-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:111-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:111-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:111-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:111-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:111-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:111-1"
+msgid "Exit Layered Keystroke mode"
+msgstr "Kilépés a rétegelt billentyűparancs módból"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:112-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:112-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:112-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:112-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:112-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:112-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:112-1"
+msgid ""
+"<strong>ESC</strong> or <strong>SPACEBAR</strong> or <strong>TAB</strong> or "
+"<strong>ENTER</strong>"
+msgstr ""
+"<strong>ESC</strong> vagy <strong>SZÓKÖZ</strong> vagy <strong>TAB</strong> "
+"vagy <strong>ENTER</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h2:115-1
+msgid "Face in View Layer Keystrokes"
+msgstr "Az Arc a nézetben réteg billentyűparancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:116-1
+msgid ""
+"Press and release <strong>INSERT+SPACEBAR</strong>, followed by <strong>F</"
+"strong> to activate the Face in View layer, and then press the keystrokes "
+"listed below to perform the action."
+msgstr ""
+"Nyomja le és engedje fel az <strong>INSERT+SZÓKÖZ</strong> billentyűparancsot, "
+"majd az <strong>F</strong> billentyűt az Arc a nézetben réteg aktiválásához, "
+"majd nyomja le az alább felsorolt billentyűkombinációkat a művelet "
+"végrehajtásához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table[summary]:117-1
+msgid "Face in View Layer Commands"
+msgstr "Az Arc a nézetben réteg parancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:119-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:119-1"
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:120-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:120-1"
+msgid "Command"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűparancs<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:123-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:123-1"
+msgid "Help for Layered Commands"
+msgstr "Súgó a rétegelt parancsokhoz"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:124-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:124-1"
+msgid "QUESTION MARK"
+msgstr "KÉRDŐJEL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:127-1
+msgid "Toggle Face in View On/Off"
+msgstr "Az Arc a nézetben be/ki kapcsolása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:128-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:128-1"
+msgid "O"
+msgstr "O"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:131-1
+msgid "Select a Camera"
+msgstr "Kamera kiválasztása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:132-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:132-1"
+msgid "C"
+msgstr "B"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:135-1
+msgid "Say Detailed Description"
+msgstr "Részletes leírás bemondása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:136-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:136-1"
+msgid "D"
+msgstr "D"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:139-1
+msgid "Say Brightness Level"
+msgstr "Fényerőszint bemondása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:140-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:140-1"
+msgid "L"
+msgstr "L"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:143-1
+msgid "Say Background Description"
+msgstr "Háttérleírás bemondása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:144-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:144-1"
+msgid "P"
+msgstr "P"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:147-1
+msgid "Adjust Confidence Level"
+msgstr "Megbízhatósági szint beállítása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:148-1
+msgid "U"
+msgstr "U"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h2:151-1
+msgid "Volume Layer Keystrokes"
+msgstr "A Hangerő réteg billentyűparancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:152-1
+msgid ""
+"Press and release <strong>INSERT+SPACEBAR</strong>, followed by <strong>V</"
+"strong> to activate the Volume layer, and then press the keystrokes listed "
+"below to perform the action."
+msgstr ""
+"Nyomja le és engedje fel az <strong>INSERT+SZÓKÖZ</strong>, majd a <strong>V</"
+"strong> billentyűt a Hangerő réteg aktiválásához, majd nyomja le az alább "
+"felsorolt billentyűparancsokat a művelet végrehajtásához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table[summary]:153-1
+msgid "Volume Layer Commands"
+msgstr "A Hangerő réteg parancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:155-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:155-1"
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:156-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:156-1"
+msgid "Command"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűparancs<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:159-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:159-1"
+msgid "Help for Layered Commands"
+msgstr "Súgó a rétegelt parancsokhoz"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:160-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:160-1"
+msgid "QUESTION MARK"
+msgstr "KÉRDŐJEL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:163-1
+msgid "Adjust JAWS Volume"
+msgstr "A JAWS hangerejének megadása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:164-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:164-1"
+msgid "J"
+msgstr "J"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:167-1
+msgid "Adjust System Volume"
+msgstr "A rendszer hangerejének megadása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:168-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:168-1"
+msgid "S"
+msgstr "S"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:171-1
+msgid "Adjust Sound Balance"
+msgstr "A hangerő balansz beállítása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:172-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:172-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:172-1"
+msgid "B"
+msgstr "H"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:175-1
+msgid "Select a Sound Card"
+msgstr "Egy hangkártya kiválasztása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:176-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:176-1"
+msgid "C"
+msgstr "B"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:179-1
+msgid ""
+"After pressing <strong>J</strong> or <strong>S</strong>, use the <strong>ARROW</"
+"strong> keys to raise or lower the volume in small increments. Use <strong>PAGE "
+"UP</strong> or <strong>PAGE DOWN</strong> to raise or lower the volume in "
+"larger increments. Press <strong>ESC</strong> to exit the layer when finished."
+msgstr ""
+"A <strong>J</strong> vagy az <strong>S</strong> lenyomása után a <strong>NYÍL</"
+"strong> billentyűkkel növelheti vagy csökkentheti a hangerőt kis lépésekben. A "
+"<strong>PAGE UP</strong> vagy a <strong>PAGE DOWN</strong> billentyűkkel "
+"növelheti vagy csökkentheti a hangerőt nagyobb lépésekben. Ha befejezte, nyomja "
+"le az <strong>ESC</strong> billentyűt a rétegből való kilépéshez."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:180-1
+msgid ""
+"<strong>Note:</strong> When adjusting volume with the <strong>ARROW</strong> "
+"keys or <strong>PAGE UP</strong> and <strong>PAGE DOWN</strong>, the lowest "
+"level that can be set is 10 percent."
+msgstr ""
+"<strong>Megjegyzés:</strong> Ha a hangerőt a <strong>NYÍL</strong> "
+"billentyűkkel vagy a <strong>PAGE UP</strong> és <strong>PAGE DOWN</strong> "
+"billentyűkkel állítja be, akkor a legalacsonyabb beállítható szint 10 százalék."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:181-1
+msgid "After pressing <strong>B</strong>:"
+msgstr "A <strong>B</strong> betű lenyomása után:"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.ul.li:183-1
+msgid ""
+"Press <strong>LEFT ARROW</strong> to route JAWS speech to the left and audio "
+"from the application that currently has focus to the right."
+msgstr ""
+"Nyomja le a <strong>BALRA NYÍL</strong> billentyűt a JAWS beszédének balra, és "
+"az éppen fókuszban lévő alkalmazás hangjának jobbra irányításához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.ul.li:184-1
+msgid ""
+"Press <strong>RIGHT ARROW</strong> to route JAWS speech to the right and audio "
+"from the application that currently has focus to the left."
+msgstr ""
+"Nyomja le a <strong>JOBBRA NYÍL</strong> billentyűt a JAWS beszédének jobbra, "
+"és az éppen fókuszban lévő alkalmazás hangjának balra irányításához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.ul.li:185-1
+msgid ""
+"Press <strong>UP ARROW</strong> to restore the sound balance to the default."
+msgstr ""
+"Nyomja le a <strong>FEL NYÍL</strong> billentyűt a hangerő balansz "
+"alapértelmezett értékre történő visszaállításához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:187-1
+msgid ""
+"After pressing <strong>C</strong>, use <strong>UP</strong> or <strong>DOWN "
+"ARROW</strong> to cycle through all sound cards available on your system. JAWS "
+"announces each sound card as you move to it. Once you find the sound card you "
+"want to use for speech, press <strong>ESC</strong>."
+msgstr ""
+"A <strong>C</strong> betű lenyomása után a <strong>FEL-</strong> vagy "
+"<strong>LE NYÍL</strong> billentyűvel léptethet végig a rendszerben elérhető "
+"összes hangkártyán. A JAWS minden egyes hangkártyát bemond, amint arra lép. Ha "
+"megtalálta a beszédhez használni kívánt hangkártyát, nyomja le az <strong>ESC</"
+"strong> billentyűt."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h2:188-1
+msgid "Braille and Text Viewer Layer Keystrokes"
+msgstr "A Braille- és szövegmegjelenítő réteg billentyűparancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:189-1
+msgid ""
+"Press and release <strong>INSERT+SPACEBAR</strong>, followed by <strong>B</"
+"strong> to activate the Braille and Text Viewer layer, and then press the "
+"keystrokes listed below to perform the action."
+msgstr ""
+"Nyomja le és engedje fel az <strong>INSERT+SZÓKÖZ</strong>, majd a <strong>B</"
+"strong> billentyűt a Braille- és szövegmegjelenítő réteg aktiválásához, majd "
+"nyomja le az alább felsorolt billentyűparancsokat a művelet végrehajtásához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table[summary]:190-1
+msgid "Braille and Text Viewer Layer Commands"
+msgstr "A Braille- és szövegmegjelenítő réteg parancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:192-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:192-1"
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:193-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:193-1"
+msgid "Command"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűparancs<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:196-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:196-1"
+msgid "Help for Layered Commands"
+msgstr "Súgó a rétegelt parancsokhoz"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:197-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:197-1"
+msgid "QUESTION MARK"
+msgstr "KÉRDŐJEL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:200-1
+msgid "Toggle Braille Viewer On/Off"
+msgstr "A Braille-megjelenítő be/ki kapcsolása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:201-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:201-1"
+msgid "B"
+msgstr "H"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:204-1
+msgid "Toggle Text Viewer On/Off"
+msgstr "A Szövegmegjelenítő be/ki kapcsolása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:205-1
+msgid "T"
+msgstr "T"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:208-1
+msgid "Pan Braille Viewer Right"
+msgstr "A Braille-megjelenítő léptetése jobbra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:209-1
+msgid "RIGHT ARROW"
+msgstr "JOBBRA NYÍL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:212-1
+msgid "Pan Braille Viewer Left"
+msgstr "A Braille-megjelenítő léptetése balra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:213-1
+msgid "LEFT ARROW"
+msgstr "BALRA NYÍL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:216-1
+msgid "Braille Viewer Next Line"
+msgstr "A Braille-megjelenítő léptetése a következő sorra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:217-1
+msgid "DOWN ARROW"
+msgstr "LE NYÍL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:220-1
+msgid "Braille Viewer Prior Line"
+msgstr "A Braille-megjelenítő léptetése az előző sorra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:221-1
+msgid "UP ARROW"
+msgstr "FEL NYÍL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:224-1
+msgid "Pan Text Viewer Right"
+msgstr "A Szövegmegjelenítő léptetése jobbra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:225-1
+msgid "CTRL+RIGHT ARROW"
+msgstr "CTRL+JOBBRA NYÍL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:228-1
+msgid "Pan Text Viewer Left"
+msgstr "A Szövegmegjelenítő léptetése balra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:229-1
+msgid "CTRL+LEFT ARROW"
+msgstr "CTRL+BALRA NYÍL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:232-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:232-1"
+msgid "Exit Layered Keystroke mode"
+msgstr "Kilépés a rétegelt billentyűparancs módból"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:233-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:233-1"
+msgid ""
+"<strong>ESC</strong> or <strong>SPACEBAR</strong> or <strong>TAB</strong> or "
+"<strong>ENTER</strong>"
+msgstr ""
+"<strong>ESC</strong> vagy <strong>SZÓKÖZ</strong> vagy <strong>TAB</strong> "
+"vagy <strong>ENTER</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h2:236-1
+msgid "Convenient OCR Layer Keystrokes"
+msgstr "A Kényelmes OCR réteg billentyűparancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:237-1
+msgid ""
+"Press and release <strong>INSERT+SPACEBAR</strong>, followed by <strong>O</"
+"strong> to activate the Convenient OCR layer, and then press the keystrokes "
+"listed below to perform the action."
+msgstr ""
+"Nyomja le és engedje fel az <strong>INSERT+SZÓKÖZ</strong>, majd az <strong>O</"
+"strong> billentyűt a Kényelmes OCR réteg aktiválásához, majd nyomja le az alább "
+"felsorolt billentyűkombinációkat a művelet végrehajtásához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table[summary]:238-1
+msgid "Convenient OCR Layer Commands"
+msgstr "A Kényelmes OCR réteg parancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:240-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:240-1"
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:241-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:241-1"
+msgid "Command"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűparancs<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:244-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:244-1"
+msgid "Help for Layered Commands"
+msgstr "Súgó a rétegelt parancsokhoz"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:245-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:245-1"
+msgid "QUESTION MARK"
+msgstr "KÉRDŐJEL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:248-1
+msgid ""
+"Acquire and Recognize Print Documents from Scanner or Freedom Scientific PEARL "
+"Camera"
+msgstr ""
+"Nyomtatott dokumentumok beolvasása és felismerése szkennerből vagy a Freedom "
+"Scientific PEARL kamerából"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:249-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:249-1"
+msgid "A"
+msgstr "A"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:252-1
+msgid "Recognize Currently Open PDF Document"
+msgstr "A jelenleg megnyitott PDF dokumentum felismerése"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:253-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:253-1"
+msgid "D"
+msgstr "D"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:256-1
+msgid "Recognize Currently Selected Image File in Windows Explorer"
+msgstr "Az aktuálisan kiválasztott képfájl felismerése a Windows Intézőben"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:257-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:257-1"
+msgid "F"
+msgstr "F"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:260-1
+msgid ""
+"Recognize Currently Selected Image File in Windows Explorer and Display in Word "
+"Document"
+msgstr ""
+"Az aktuálisan kijelölt képfájl felismerése a Windows Intézőben és megjelenítése "
+"Word dokumentumban"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:261-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:261-1"
+msgid "R"
+msgstr "R"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:264-1
+msgid "Recognize Control"
+msgstr "Vezérlőelem felismerése"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:265-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:265-1"
+msgid "C"
+msgstr "B"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:268-1
+msgid "Recognize Window"
+msgstr "Ablak felismerése"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:269-1
+msgctxt ""
+"Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr."
+"td:269-1Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:269-1"
+msgid "W"
+msgstr "W"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:272-1
+msgid "Recognize Entire Screen"
+msgstr "A teljes képernyő felismerése"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:273-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:273-1"
+msgid "S"
+msgstr "S"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:276-5
+msgid "Continuously Recognize the Active Window in the Background"
+msgstr "Az aktív ablak folyamatos felismerése a háttérben"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:277-5
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:277-5"
+msgid "B"
+msgstr "H"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:280-5
+msgid "Recognize Image Based on Current Application and Context"
+msgstr "Kép felismerése az aktuális alkalmazás és a környezet alapján"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:281-5
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:281-5"
+msgid "ENTER"
+msgstr "ENTER"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:284-1
+msgid "Cancel Recognition in Progress"
+msgstr "A folyamatban lévő felismerés megszakítása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:285-1
+msgid "Q"
+msgstr "Q"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:288-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:288-1"
+msgid "Exit Layered Keystroke mode"
+msgstr "Kilépés a rétegelt billentyűparancs módból"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:289-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:289-1"
+msgid ""
+"<strong>ESC</strong> or <strong>SPACEBAR</strong> or <strong>TAB</strong> or "
+"<strong>ENTER</strong>"
+msgstr ""
+"<strong>ESC</strong> vagy <strong>SZÓKÖZ</strong> vagy <strong>TAB</strong> "
+"vagy <strong>ENTER</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h2:292-1
+msgid "Picture Smart Layer Keystrokes"
+msgstr "Az Intelligens képfelismerés réteg billentyűparancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:293-1
+msgid ""
+"Press and release <strong>INSERT+SPACEBAR</strong>, followed by <strong>P</"
+"strong> to activate the Picture Smart layer, and then press the keystrokes "
+"listed below to perform the action."
+msgstr ""
+"Nyomja le és engedje fel az <strong>INSERT+SZÓKÖZ</strong>, majd a <strong>P</"
+"strong> billentyűt az Intelligens képfelismerés réteg aktiválásához, majd "
+"nyomja le az alább felsorolt billentyűparancsokat a művelet végrehajtásához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table[summary]:294-1
+msgid "Picture Smart Layer Commands"
+msgstr "Az Intelligens képfelismerés réteg parancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:296-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:296-1"
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:297-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:297-1"
+msgid "Command"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűparancs<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:300-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:300-1"
+msgid "Help for Layered Commands"
+msgstr "Súgó a rétegelt parancsokhoz"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:301-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:301-1"
+msgid "QUESTION MARK"
+msgstr "KÉRDŐJEL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:304-1
+msgid ""
+"Acquire and Describe an Image from Scanner or Freedom Scientific PEARL Camera"
+msgstr ""
+"Egy kép beolvasása és leírása szkennerből vagy a Freedom Scientific PEARL "
+"kamerából"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:305-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:305-1"
+msgid "A"
+msgstr "A"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:308-1
+msgid "Describe Currently selected Image File in Windows Explorer"
+msgstr "Az aktuálisan kiválasztott képfájl leírása a Windows Intézőben"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:309-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:309-1"
+msgid "F"
+msgstr "F"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:312-1
+msgid "Describe Control"
+msgstr "Vezérlőelem leírása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:313-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:313-1"
+msgid "C"
+msgstr "B"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:316-5
+msgid "Describe Entire Screen"
+msgstr "A teljes képernyő leírása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:317-5
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:317-5"
+msgid "S"
+msgstr "S"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:320-13
+msgid "Describe Current Application Window"
+msgstr "Az aktuális alkalmazásablak leírása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:321-13
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:321-13"
+msgid "W"
+msgstr "W"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:324-17
+msgid "Describe an Image Based on Current Application and Context"
+msgstr "Kép leírása az aktuális alkalmazás és a környezet alapján"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:325-17
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:325-17"
+msgid "ENTER"
+msgstr "ENTER"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:328-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:328-1"
+msgid "Exit Layered Keystroke mode"
+msgstr "Kilépés a rétegelt billentyűparancs módból"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:329-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:329-1"
+msgid ""
+"<strong>ESC</strong> or <strong>SPACEBAR</strong> or <strong>TAB</strong> or "
+"<strong>ENTER</strong>"
+msgstr ""
+"<strong>ESC</strong> vagy <strong>SZÓKÖZ</strong> vagy <strong>TAB</strong> "
+"vagy <strong>ENTER</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:332-1
+msgid "Add <strong>SHIFT</strong> to a command for more detailed descriptions."
+msgstr ""
+"A részletesebb leírásokért adja hozzá a <strong>SHIFT</strong> billentyűt egy "
+"parancshoz."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:333-1
+msgid ""
+"Add <strong>ALT</strong> to a command to immediately ask for specific details "
+"about an image."
+msgstr ""
+"Adja hozzá az <strong>ALT</strong> billentyűt egy parancshoz, hogy azonnal "
+"kérdezhessen a kép konkrét részleteiről."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:334-1
+msgid ""
+"<strong>Tip:</strong> An image can also be described by saving it to the "
+"\"PictureSmart\" directory in your User's \"Pictures\" folder."
+msgstr ""
+"<strong>Tipp:</strong> Egy kép leírható úgy is, hogy elmenti a felhasználó "
+"\"Képek\" mappájának \"PictureSmart\" könyvtárába."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h2:335-1
+msgid "Mouse Echo Layer Keystrokes"
+msgstr "Az Egérhelyzet bemondása réteg billentyűparancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:336-1
+msgid ""
+"Press and release <strong>INSERT+SPACEBAR</strong>, followed by <strong>E</"
+"strong> to activate the Mouse Echo layer, and then press the keystrokes listed "
+"below to perform the action."
+msgstr ""
+"Nyomja le és engedje fel az <strong>INSERT+SZÓKÖZ</strong>, majd az <strong>E</"
+"strong> billentyűt az Egérhelyzet bemondása réteg aktiválásához, majd nyomja le "
+"az alább felsorolt billentyűparancsokat a művelet végrehajtásához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table[summary]:337-1
+msgid "Mouse Echo Layer Commands"
+msgstr "Az Egérhelyzet bemondása réteg parancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:339-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:339-1"
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:340-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:340-1"
+msgid "Command"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűparancs<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:343-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:343-1"
+msgid "Help for Layered Commands"
+msgstr "Súgó a rétegelt parancsokhoz"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:344-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:344-1"
+msgid "QUESTION MARK"
+msgstr "KÉRDŐJEL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:347-1
+msgid "Toggle Mouse Echo On or Off"
+msgstr "Az egérhelyzet bemondásának be- vagy kikapcsolása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:348-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:348-1"
+msgid "O"
+msgstr "O"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:351-1
+msgid "Set Mouse Echo to Character"
+msgstr "Az egérhelyzet bemondásának beállítása karakterekre"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:352-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:352-1"
+msgid "C"
+msgstr "B"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:355-1
+msgid "Set Mouse Echo to Word"
+msgstr "Az egérhelyzet bemondásának beállítása szavakra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:356-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:356-1"
+msgid "W"
+msgstr "W"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:359-1
+msgid "Set Mouse Echo to Line"
+msgstr "Az egérhelyzet bemondásának beállítása sorokra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:360-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:360-1"
+msgid "L"
+msgstr "L"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:363-1
+msgid "Set Mouse Echo to Paragraph"
+msgstr "Az egérhelyzet bemondásának beállítása bekezdésekre"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:364-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:364-1"
+msgid "P"
+msgstr "P"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:367-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:367-1"
+msgid "Exit Layered Keystroke mode"
+msgstr "Kilépés a rétegelt billentyűparancs módból"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:368-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:368-1"
+msgid ""
+"<strong>ESC</strong> or <strong>SPACEBAR</strong> or <strong>TAB</strong> or "
+"<strong>ENTER</strong>"
+msgstr ""
+"<strong>ESC</strong> vagy <strong>SZÓKÖZ</strong> vagy <strong>TAB</strong> "
+"vagy <strong>ENTER</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h2:371-1
+msgid "Skype Desktop Application Layer Keystrokes"
+msgstr "A Skype asztali alkalmazás réteg billentyűparancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:372-1
+msgid ""
+"Press and release <strong>INSERT+SPACEBAR</strong>, followed by <strong>Y</"
+"strong> to activate the Skype Desktop Application layer, and then press the "
+"keystrokes listed below to perform the action."
+msgstr ""
+"Nyomja le és engedje fel az <strong>INSERT+SZÓKÖZ</strong>, majd <strong>Y</"
+"strong> billentyűt a Skype asztali alkalmazás réteg aktiválásához, majd nyomja "
+"le az alább felsorolt billentyűkombinációkat a művelet végrehajtásához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table[summary]:373-1
+msgid "Skype Desktop Application Layer Commands"
+msgstr "A Skype asztali alkalmazás réteg parancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:375-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:375-1"
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:376-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:376-1"
+msgid "Command"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűparancs<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:379-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:379-1"
+msgid "Help for Layered Commands"
+msgstr "Súgó a rétegelt parancsokhoz"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:380-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:380-1"
+msgid "QUESTION MARK"
+msgstr "KÉRDŐJEL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:383-1
+msgid "Answer Incoming Call"
+msgstr "Bejövő hívás fogadása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:384-1
+msgid "<strong>UP ARROW</strong> or <strong>A</strong>"
+msgstr "<strong>FEL NYÍL</strong> vagy <strong>A</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:387-1
+msgid "Disconnect Ongoing Call"
+msgstr "A folyamatban lévő hívás megszakítása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:388-1
+msgid "<strong>DOWN ARROW</strong> or <strong>D</strong>"
+msgstr "<strong>LE NYÍL</strong> vagy <strong>D</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:391-1
+msgid "Set Focus to Skype Desktop Application"
+msgstr "A fókusz Skype asztali alkalmazásra helyezése"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:392-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:392-1"
+msgid "S"
+msgstr "S"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:395-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:395-1"
+msgid "Exit Layered Keystroke mode"
+msgstr "Kilépés a rétegelt billentyűparancs módból"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:396-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:396-1"
+msgid ""
+"<strong>ESC</strong> or <strong>SPACEBAR</strong> or <strong>TAB</strong> or "
+"<strong>ENTER</strong>"
+msgstr ""
+"<strong>ESC</strong> vagy <strong>SZÓKÖZ</strong> vagy <strong>TAB</strong> "
+"vagy <strong>ENTER</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.h2:399-1
+msgid "Table Layer Keystrokes"
+msgstr "Billentyűparancsok a táblázati rétegen"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:400-1
+msgid ""
+"When located inside of a table, press and release <strong>INSERT+SPACEBAR</"
+"strong>, followed by <strong>T</strong> to activate the Table layer, and then "
+"press the keystrokes listed below to perform the action."
+msgstr ""
+"Ha egy táblázatban van, nyomja le és engedje fel az <strong>INSERT+SZÓKÖZ</"
+"strong>, majd a <strong>T</strong> billentyűt a Táblázat réteg aktiválásához, "
+"majd nyomja le az alább felsorolt billentyűkombinációkat a művelet "
+"végrehajtásához."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.p:401-1
+msgid ""
+"<strong>Note:</strong> The Table Layer remains active until you press a key "
+"that does not perform a table command, such as <strong>ESC</strong>, "
+"<strong>SPACEBAR</strong>, <strong>TAB</strong>, or <strong>ENTER</strong>."
+msgstr ""
+"<strong>Megjegyzés:</strong> A Táblázat réteg addig marad aktív, amíg le nem "
+"nyom egy billentyűt, amely nem hajt végre táblázat parancsot, például "
+"<strong>ESC</strong>, <strong>SZÓKÖZ</strong>, <strong>TAB</strong> vagy "
+"<strong>ENTER</strong>."
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table[summary]:402-1
+msgid "Table Layer Commands"
+msgstr "A Táblázat réteg parancsai"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:404-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:404-1"
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.th:405-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.th:405-1"
+msgid "Command"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűparancs<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:408-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:408-1"
+msgid "Help for Layered Commands"
+msgstr "Súgó a rétegelt parancsokhoz"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:409-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:409-1"
+msgid "QUESTION MARK"
+msgstr "KÉRDŐJEL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:412-1
+msgid "Move to Cell Above, Below, Left, or Right"
+msgstr "Ugrás egy cellával feljebb, lejjebb, balra vagy jobbra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:413-1
+msgid "<strong>ARROW Key</strong> in any direction"
+msgstr "<strong>NYÍL billentyű</strong> Bármelyik irányba"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:416-1
+msgid "Say Current Cell"
+msgstr "Aktuális cella felolvasása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:417-1
+msgid "NUM PAD 5"
+msgstr "SZÁMBILL 5"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:420-1
+msgid "Jump to First Table Cell"
+msgstr "Ugrás az első táblázatcellára"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:421-1
+msgid "CTRL+HOME"
+msgstr "CTRL+HOME"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:424-1
+msgid "Jump to Last Table Cell"
+msgstr "Ugrás az utolsó táblázatcellára"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:425-1
+msgid "CTRL+END"
+msgstr "CTRL+END"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:428-1
+msgid "Move to Beginning of Current Column"
+msgstr "Ugrás az aktuális oszlop elejére"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:429-1
+msgid "CTRL+UP ARROW"
+msgstr "CTRL+FEL NYÍL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:432-1
+msgid "Move to Bottom of Current Column"
+msgstr "Ugrás az aktuális oszlop aljára"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:433-1
+msgid "CTRL+DOWN ARROW"
+msgstr "CTRL+LE NYÍL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:436-1
+msgid "Move to Beginning of Current Row"
+msgstr "Ugrás az aktuális sor elejére"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:437-1
+msgid "<strong>CTRL+LEFT ARROW</strong> or <strong>HOME</strong>"
+msgstr "<strong>CTRL+BALRA NYÍL</strong> vagy <strong>HOME</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:440-1
+msgid "Move to End of Current Row"
+msgstr "Ugrás az aktuális sor végére"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:441-1
+msgid "<strong>CTRL+RIGHT ARROW</strong> or <strong>END</strong>"
+msgstr "<strong>CTRL+JOBBRA NYÍL</strong> vagy <strong>END</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:444-1
+msgid "Move to Next Table"
+msgstr "Ugrás a következő táblázatra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:445-1
+msgid "CTRL+ENTER"
+msgstr "CTRL+ENTER"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:448-1
+msgid "Move to Prior Table"
+msgstr "Ugrás az Előző táblázatra"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:449-1
+msgid "CTRL+SHIFT+ENTER"
+msgstr "CTRL+SHIFT+ENTER"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:452-1
+msgid "Read Current Row"
+msgstr "Aktuális sor felolvasása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:453-1
+msgid "SHIFT+UP ARROW"
+msgstr "SHIFT+FEL NYÍL"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:456-1
+msgid "Read from Current Cell"
+msgstr "Felolvasás az aktuális cellától"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:457-1
+msgid "SHIFT+PAGE UP"
+msgstr "SHIFT+PAGE UP"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:460-1
+msgid "Read to Current Cell"
+msgstr "Felolvasás az aktuális celláig"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:461-1
+msgid "SHIFT+HOME"
+msgstr "SHIFT+HOME"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:464-1
+msgid "Read Current Column"
+msgstr "Aktuális oszlop felolvasása"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:465-1
+msgid "SHIFT+NUM PAD 5"
+msgstr "SHIFT+NUMPAD 5"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:468-1
+msgid "Read to Bottom of Column"
+msgstr "Felolvasás az oszlop aljáig"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:469-1
+msgid "SHIFT+PAGE DOWN"
+msgstr "SHIFT+PAGE DOWN"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:472-1
+msgid "Read from Top of Column"
+msgstr "Felolvasás az oszlop tetejétől"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:473-1
+msgid "SHIFT+END"
+msgstr "SHIFT+END"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:476-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:476-1"
+msgid "Exit Layered Keystroke mode"
+msgstr "Kilépés a rétegelt billentyűparancs módból"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.table.tbody.tr.td:477-1
+msgctxt "Main\\convert\\Layered_Keystrokes.htm+html.body.table.tbody.tr.td:477-1"
+msgid ""
+"<strong>ESC</strong> or <strong>SPACEBAR</strong> or <strong>TAB</strong> or "
+"<strong>ENTER</strong>"
+msgstr ""
+"<strong>ESC</strong> vagy <strong>SZÓKÖZ</strong> vagy <strong>TAB</strong> "
+"vagy <strong>ENTER</strong>"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:485-1
+msgid "Back"
+msgstr "Vissza"
+
+#: Main%5Cconvert%5CLayered_Keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:489-1
+msgid "Next"
+msgstr "Következő"

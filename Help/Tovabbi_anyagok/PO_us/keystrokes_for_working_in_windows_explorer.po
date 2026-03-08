@@ -1,0 +1,116 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\keystrokes_for_working_in_windows_explorer.htm+html.head.title:12-1"
+msgid "Keystrokes for Working in Windows Explorer"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\keystrokes_for_working_in_windows_explorer.htm+html.body.h1:17-1"
+msgid "Keystrokes for Working in Windows Explorer"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table[summary]:18-1
+msgid "Windows Explorer Commands"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.th:20-1
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.th:21-1
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:24-1
+msgid "Delete Selected File or Folder"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:25-1
+msgid "DELETE"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:28-1
+msgid "Rename Selected File or Folder"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:29-1
+msgid "F2"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:32-1
+msgid "Refresh Window"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:33-1
+msgid "F5"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:36-1
+msgid "Switch Between Tree View and List View"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:37-1
+msgid "<b style=\"font-weight: bold;\">F6</b> or <b>TAB</b>"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:40-1
+msgid "Go Up One Folder Level"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:41-1
+msgid "BACKSPACE"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:44-1
+msgid "Open File or Folder Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:45-1
+msgid "ALT+ENTER"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td.p:49-1
+msgid "Untruncate Columns in List View"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.table.tbody.tr.td:51-1
+msgid "CTRL+NUM PAD PLUS"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.p:54-1
+msgid "<a href=\"keystrokes_for_windows_explorer-an.htm\">Additional Notes</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.p:55-1
+msgid "See Also:"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.p:56-1
+msgid "Keystrokes for Using the Clipboard"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.div.table.tbody.tr.td.p:61-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Ckeystrokes_for_working_in_windows_explorer.htm%2Bhtml.body.div.table.tbody.tr.td.p:67-1
+msgid "Next"
+msgstr ""

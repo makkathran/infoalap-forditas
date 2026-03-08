@@ -1,0 +1,290 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.head.title:12-1"
+msgid "Troubleshooting Prompts"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.h1:17-1"
+msgid "Troubleshooting Prompts"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:18-1
+msgid ""
+"Creating prompts is a straightforward process and you will seldom run into "
+"any difficulties. However, there are a few situations within which your "
+"prompts may need to be slightly reconfigured for best results. There are "
+"also situations within which it is necessary to create your prompts in a "
+"specific manner. Several of these situations are listed below with our "
+"recommendations for how to make your prompts work best."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:19-1
+msgid "A prompt is Recognized in Several Dialogs"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:20-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.p:20-1"
+msgid "Prompts in Multipage Dialogs"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:21-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.p:21-1"
+msgid "A Prompt that does not Size to the Control"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.h2:22-1
+msgid "A Prompt is Recognized in Several Dialogs"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:23-1
+msgid ""
+"It is possible FOR a prompt to be recognized within several dialogs within "
+"the same application. This can only occur when the dialogs in an application "
+"use similar names and the controls in them are laid out similarly."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:24-1
+msgid ""
+"When prompts are created, the text from the title of the dialog in which the "
+"control is located is recorded. The prompt is then available whenever a "
+"dialog in that application containing that text is opened. Because of this, "
+"if you create a prompt in a dialog titled \"Options,\" and that same "
+"application also has a dialog named \"Format Options\" or something else "
+"containing the word \"options,\" the prompt is recognized in that dialog as "
+"well. And if there is a control in that dialog in the same position as that "
+"for which you created the prompt, the prompt is spoken when you <b>TAB</b> "
+"to that control."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:25-1
+msgid "To correct this:"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:27-1
+msgid "Open the dialog where you created the prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:28-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:28-1"
+msgid ""
+"Press <b>INSERT+F2</b> to open the Run JAWS Manager dialog, select Frame "
+"Viewer, and press <b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:29-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:29-1"
+msgid ""
+"<b style=\"font-weight: bold;\">TAB</b> to the frame with the name of your "
+"prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:30-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:30-1"
+msgid "Press <b>ALT+ENTER</b> to open properties for the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:31-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:31-1"
+msgid ""
+"Press <b>CTRL+TAB</b> to move to the Validation Rules page of this dialog."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:32-1
+msgid "Select the Window Title rule and press <b>ALT+M</b> to modify it."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:33-1
+msgid "Do not change the rule type. Move to Next and press <b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:34-1
+msgid "Change the comparison type from Contains to Is and select Next."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:35-1
+msgid "Do not change the comparison value. Select Finish."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:36-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:36-1"
+msgid ""
+"You should be back in the Validation Rules page of properties. Press "
+"<b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:37-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:37-1"
+msgid "Press <b>CTRL+S</b> to save changes."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:38-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:38-1"
+msgid "Press <b>ESC</b> to exit Frame Viewer."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:40-1
+msgid ""
+"Your prompt should now work only in the dialog for which it was intended."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.h2:41-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.h2:41-1"
+msgid "Prompts in Multipage Dialogs"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:42-1
+msgid ""
+"Prompts created within multipage dialogs may be recognized within several "
+"pages of the dialog. This is because the title of the dialog is used to "
+"determine when the prompt is available, and the title of multipage dialogs "
+"do not change as you move from page to page."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:43-1
+msgid ""
+"To prevent this, the prompt must look for something unique in the page of "
+"the dialog where it was created. We recommend identifying text of some sort "
+"within the page, which is not present in any other pages of the dialog. Once "
+"you have identified such text, follow these steps to set your prompt to only "
+"be available when that text is present."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:45-1
+msgid "Open the dialog to the page where you created the prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:46-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:46-1"
+msgid ""
+"Press <b>INSERT+F2</b> to open the Run JAWS Manager dialog, select Frame "
+"Viewer, and press <b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:47-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:47-1"
+msgid ""
+"<b style=\"font-weight: bold;\">TAB</b> to the frame with the name of your "
+"prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:48-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:48-1"
+msgid "Press <b>ALT+ENTER</b> to open properties for the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:49-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:49-1"
+msgid ""
+"Press <b>CTRL+TAB</b> to move to the Validation Rules page of this dialog."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:50-1
+msgid "Press <b>ALT+A</b> to modify a new rule."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:51-1
+msgid "Set the rule type to Window Text. Move to Next and press <b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:52-1
+msgid "Leave the comparison type set to Contains, and select Next."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:53-1
+msgid ""
+"For the comparison value, type in the text you identified as unique to the "
+"page of the dialog where you want your prompt to work. Press <b>TAB</b> to "
+"move to the Add button and press <b>ENTER</b>. Then select Finish."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:54-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:54-1"
+msgid ""
+"You should be back in the Validation Rules page of properties. Press "
+"<b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:55-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:55-1"
+msgid "Press <b>CTRL+S</b> to save changes."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:56-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.ol.li:56-1"
+msgid "Press <b>ESC</b> to exit Frame Viewer."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.h2:58-1
+msgctxt "HTM_po_nelkul\\Troubleshooting_Prompts.htm+html.body.h2:58-1"
+msgid "A Prompt that does not Size to the Control"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:59-1
+msgid ""
+"You may find situations where a prompt you create does not correctly size to "
+"the control or area of the screen in which you want to use it. One example "
+"of this is when creating prompts for use in terminal emulation software. In "
+"these cases, it may be necessary to create the prompt in another manner."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:60-1
+msgid ""
+"You can use the JAWS cursor to specify the exact position of the top left "
+"and bottom right corners of your prompt, limiting it to the exact area where "
+"you need it."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:62-1
+msgid ""
+"With the JAWS cursor, navigate to the top, left corner of the area you want "
+"included in the prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:63-1
+msgid "Press <b>CTRL+SHIFT+LEFT BRACKET</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:64-1
+msgid ""
+"Move to the bottom, right corner of the area you wish to include in the "
+"prompt, and press <b>CTRL+SHIFT+RIGHT BRACKET</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.ol.li:65-1
+msgid ""
+"A dialog box appears asking you if you wish to create a frame or a prompt. "
+"Select to create a prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.p:67-1
+msgid ""
+"The standard Prompt Creator dialogs appear. Fill out the information on each "
+"page just like with any other prompt."
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.div.table.tbody.tr.td.p:73-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5CTroubleshooting_Prompts.htm%2Bhtml.body.div.table.tbody.tr.td.p:79-1
+msgid "Next"
+msgstr ""

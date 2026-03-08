@@ -1,0 +1,361 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 10:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.head.title:6-2
+msgctxt "HTM_po_nelkul\\Accessing_Math_Content.htm+html.head.title:6-2"
+msgid "Accessing Math Content"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.h1:9-1
+msgctxt "HTM_po_nelkul\\Accessing_Math_Content.htm+html.body.h1:9-1"
+msgid "Accessing Math Content"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:10-1
+msgid ""
+"JAWS enables students to read and study math problems contained in web pages "
+"and Microsoft Word documents using both speech and braille. JAWS provides "
+"spoken, natural-language descriptions of math expressions using the same "
+"terms a teacher would use to explain them in a classroom. This enables "
+"students using JAWS to read mathematical expressions as their sighted peers "
+"do."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:11-1
+msgid ""
+"To interact with math, JAWS uses MathCAT, an open-source library that "
+"translates math content from web pages and Word documents to speech and "
+"Braille. Currently, JAWS MathCAT support is only available for English."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.h2:12-1
+msgid "Math On Web Pages"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:13-1
+msgid ""
+"JAWS supports reading math content in Microsoft Edge, Google Chrome, and "
+"Mozilla Firefox that is created using MathML. MathML is a language for "
+"including mathematical content on web pages, enabling browsers to present "
+"math and science equations and formulas as they would appear on paper. Visit "
+"the <a href=\"https://www.w3.org/Math/\" target=\"_blank\">W3</a> website to "
+"learn more about MathML and the tools used to add it to web pages."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:14-1
+msgid ""
+"When you encounter MathML on a web page, JAWS describes the expression, "
+"followed by the message “math content.” If you are using a Braille display "
+"and JAWS is configured for Contracted Braille, the message “Math” is "
+"displayed followed by the expression. If the expression is too long to fit "
+"on the display, you can use the panning buttons on your display to view the "
+"rest of it. Otherwise, if JAWS is set for Computer Braille, the message "
+"“Math” is displayed followed by a message stating that Contracted Braille "
+"must be enabled to view math content. Pressing <strong>ENTER</strong> while "
+"focused on the math content opens the Math Viewer where you can explore the "
+"expression in greater detail in both speech and Braille. Check out the <a "
+"href=\"https://support.freedomscientific.com/content/html/jawshq/MathML-"
+"Samples.html\" target=\"_blank\">MathML Examples</a> page on the Freedom "
+"Scientific website to see how JAWS reads math content."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.h2:15-1
+msgid "Math in Microsoft Word Documents"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:16-1
+msgid ""
+"In Microsoft Word, JAWS and Fusion supports reading math equations inserted "
+"into documents using one of the following methods:"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ul.li:18-2
+msgid ""
+"Math inserted using the options in the Symbols group of the Insert tab in "
+"the ribbon. JAWS does not require any third-party software or plugins be "
+"installed in order to read math inserted this way. Check out this article on "
+"the <a href=\"https://www.teachucomp.com/insert-equations-in-word-"
+"instructions/\" target=\"_blank\">TeachUcomp website</a> for instructions on "
+"inserting math into Word documents using this method. The <a href=\"https://"
+"support.microsoft.com/en-us/office/insert-mathematical-"
+"symbols-91a4b04c-84a8-4de9-bd13-8609e14bed58\" target=\"_blank\">Microsoft "
+"Support website</a> also contains information on inserting mathematical "
+"symbols."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ul.li:19-2
+msgid ""
+"Math inserted using the JAWS Braille Math Editor. A braille display that "
+"includes a keyboard, such as the Focus, is required in order to use this "
+"feature."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ul.li:20-2
+msgid ""
+"Math inserted using MathType, available as a purchase from <a href=\"https://"
+"www.wiris.com/en\" target=\"blank\">Wiris.com</a>. To read math content in a "
+"Word document that was created using MathType, the MathType software must at "
+"least be installed as a trial on the computer running JAWS. Visit the <a "
+"href=\"https://www.dessci.com/en/products/mathtype/\" "
+"target=\"_blank\">Design Science website</a> for more details about MathType."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:22-1
+msgid ""
+"When you encounter a math equation or formula in a Word document, JAWS reads "
+"the problem and then says, “Math Content.” You can then press the layered "
+"keystroke <strong>INSERT+SPACEBAR</strong> followed by <strong>EQUALS</"
+"strong> to open the JAWS Math Viewer so you can study the equation in "
+"greater detail. See our <a href=\"https://support.freedomscientific.com/"
+"Content/Documents/Other/NativeWordSampleMath.docx\" target=\"_blank\">Native "
+"Word Sample Math document</a> for examples of how JAWS can enable students "
+"to access math content in Word. The math problems in this document were "
+"created using the built-in features in Word, so you do not need to install "
+"any additional software, such as MathType, to read these examples with JAWS."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.h2:23-1
+msgid "Studying Equations in the Math Viewer"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:24-1
+msgid ""
+"The JAWS Math Viewer lets you explore all of the parts of an equation in "
+"order to study it in detail. When focused on math content on a web page, "
+"press <strong>ENTER</strong> to open the current math problem in the Math "
+"Viewer. When focused on math in a Word document, use the layered keystroke "
+"<strong>INSERT+SPACEBAR</strong> followed by <strong>EQUALS</strong>."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:25-1
+msgid ""
+"Once the Math Viewer is open, explore its contents using the following "
+"keystrokes:"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.caption:27-2
+msgid "Table of Math Viewer keystrokes."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.th:29-2
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.th:30-2
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:33-2
+msgid "Move to next element"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:34-2
+msgid "RIGHT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:37-2
+msgid "Move to previous element"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:38-2
+msgid "LEFT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:41-2
+msgid "Zoom in on the current element to explore individual segments"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:42-2
+msgid "DOWN ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:45-2
+msgid "Zoom out of the current element"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:46-2
+msgid "UP ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:49-2
+msgid "Move between cells if focused in a table"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:50-2
+msgid ""
+"<strong>CTRL+ARROW</strong> keys or <strong>ALT+CTRL+ARROW</strong> keys"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:53-2
+msgid "Move back an element"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:54-2
+msgid "BACKSPACE"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:57-2
+msgid "Announce current location in element"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:58-2
+msgid "SPACEBAR"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:61-2
+msgid ""
+"Set Place Marker at current location in Math Viewer (not the same as JAWS "
+"PlaceMarkers feature on web pages."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:62-2
+msgid "<strong>CTRL+1</strong> through <strong>0</strong> on the number row"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:65-2
+msgid "Move to Place Marker 1 through 10"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:66-2
+msgid "<strong>1</strong> through <strong>0</strong> on the number row"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:69-2
+msgid "Read Place Marker 1 through 10"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:70-2
+msgid "<strong>SHIFT+1</strong> through <strong>0</strong> on the number row"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:73-3
+msgid "Exit the Math Viewer"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.table.tr.td:74-3
+msgid "<strong>ESC</strong> or <strong>ALT+F4</strong>"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:77-2
+msgid ""
+"Additionally, the contents of the Math Viewer are displayed visually on the "
+"screen. As the expression is navigated, the current element or partial "
+"expression is highlighted so a sighted teacher can easily tell what part of "
+"the expression is being spoken."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:78-2
+msgid ""
+"When using a Braille display, the entire expression remains on the display "
+"as you use the <strong>ARROW</strong> keys to navigate parts of the "
+"expression. However, the cursor (dots 7 and 8) moves to the start of the "
+"partial expression that gains focus. Pressing a cursor router over a term in "
+"the expression will immediately move the focus to the specific location in "
+"the expression."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:79-2
+msgid ""
+"To customize how JAWS reads as you navigate expressions in the Math Viewer, "
+"press <strong>INSERT+6</strong> on the number row to open Settings Center, "
+"press <strong>CTRL+SHIFT+D</strong> to load the default settings file, and "
+"search for “Math” in the edit field to move directly to the <a "
+"href=\"SettingsCenter.chm::/Math/Math_Group.htm\">Math group</a> in the tree "
+"view. For example, the default for MathCAT Navigation verbosity is set to "
+"Medium in JAWS. This allows speech users reviewing a math expression to hear "
+"information about the current element within a math expression like "
+"\"superscript,\" or \"root.\" For math expressions containing a table or "
+"matrix, this setting also allows JAWS to announce column and row coordinates "
+"while navigating."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.h2:80-2
+msgid "Selecting a Braille Math Code"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:81-2
+msgid ""
+"If a refreshable braille display is connected, JAWS shows math expressions "
+"on the display using either Nemeth or Unified English Braille (UEB Math). To "
+"switch between Nemeth or UEB Math for displaying math content in the Math "
+"Viewer or Braille Math Editor, press <strong>INSERT+EQUALS</strong>. Focus "
+"display users can also press RIGHT SHIFT+DOTS 1-2-3-4-5-6 on the display's "
+"keyboard to switch the math braille code."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:82-2
+msgid ""
+"Since Nemeth and UEB Math are only available in English, make sure JAWS is "
+"configured for one of the English contracted braille output modes by doing "
+"the following:"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ol.li:84-3
+msgid ""
+"Press <strong>INSERT+6</strong> on the number row to open Settings Center."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ol.li:85-3
+msgid ""
+"To apply changes to all applications, press <strong>CTRL+SHIFT+D</strong> to "
+"load the JAWS default settings. To apply changes to a specific application, "
+"select it from the <strong>Applications</strong> combo box."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ol.li:86-3
+msgid "In the Search edit box, type “Translation” without the quotes."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ol.li:87-3
+msgid ""
+"Press <strong>DOWN ARROW</strong> to move to Translation in the filtered "
+"search results in the tree view and press <strong>ENTER</strong> to move "
+"focus to the Translation group. Press <strong>RIGHT ARROW</strong> to expand "
+"the group."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ol.li:88-3
+msgid ""
+"In the Language combo box, make sure English – United States is selected."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ol.li:89-3
+msgid ""
+"In the Output combo box, make sure one of the Grade 1 or Grade 2 options is "
+"selected."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.ol.li:90-3
+msgid "Select OK to save your changes and close Settings Center."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.p:92-2
+msgid ""
+"<strong>Tip:</strong> If using a Focus Braille display, you can press "
+"<strong>DOTS 1-2-4-5-7-8 CHORD</strong> to quickly switch to contracted "
+"braille."
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.div.table.tbody.tr.td.p:105-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5CAccessing_Math_Content.htm%2Bhtml.body.div.table.tbody.tr.td.p:115-1
+msgid "Next"
+msgstr ""

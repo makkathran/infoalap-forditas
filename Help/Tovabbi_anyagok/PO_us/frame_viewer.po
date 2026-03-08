@@ -1,0 +1,569 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.head.title:12-1"
+msgid "Frame Viewer"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.h1:17-1"
+msgid "Frame Viewer"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:18-1
+msgid ""
+"Frame Viewer is where you work with frames. Move between them, move them, "
+"resize them, or open a frame's properties and adjust settings."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:19-1
+msgid ""
+"To open Frame Viewer, press <b>INSERT+F2</b>, move to Frame Viewer, and "
+"press <b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:20-1
+msgid ""
+"The Frame Viewer displays all active frames for the current application and "
+"the Frames Mode buttons. Focus is initially on the first of these frames. "
+"(This is determined by which frame was first created.) Press <b>TAB</b> to "
+"move through the frames. If you continue to press <b>TAB</b> until you have "
+"moved through all the frames, focus moves to the Frame Viewer buttons."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:21-1
+msgid ""
+"There are four Frame Viewer buttons: Options, Frames List, Help, and Close. "
+"These buttons let you access very useful features, and most all these "
+"features, and more, are accessible right from any frame. If you open Frame "
+"Viewer and no frames are active, focus is on the Options button."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:22-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.p:22-1"
+msgid "Commands Available from any Frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:23-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.p:23-1"
+msgid "Frames Context Menu"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:24-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.p:24-1"
+msgid "Positioning Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:25-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.p:25-1"
+msgid "Frame Viewer Toolbox"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h2:26-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.h2:26-1"
+msgid "Commands Available from any Frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.th.p:30-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.table.tbody.tr.th.p:30-1"
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.th.p:33-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.table.tbody.tr.th.p:33-1"
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:38-1
+msgid "Read Text in Frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:41-1
+msgid "INSERT+DOWN ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:46-1
+msgid "Move Between Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:49-1
+msgid "<b style=\"font-weight: bold;\">Tab</b> or <b>SHIFT+TAB</b>"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:54-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.table.tbody.tr.td.p:54-1"
+msgid "Open Frame Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:57-1
+msgid "ALT+ENTER"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:62-1
+msgid "Open Context Menu"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:65-1
+msgid ""
+"<b style=\"font-weight: bold;\">APPLICATIONS KEY</b> or <b>SHIFT+F10</b>"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:70-1
+msgid "Save All Changes to Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:73-1
+msgid "CTRL+S"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:78-1
+msgid "Delete Current Frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:81-1
+msgid "DELETE"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h2:85-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.h2:85-1"
+msgid "Frames Context Menu"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:86-1
+msgid ""
+"The context menu for a frame is opened by pressing the <b>APPLICATIONS</b> "
+"key. The following options are available from this context menu."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:87-1
+msgid ""
+"<b style=\"font-weight: bold;\">Frame Properties</b>: Opens a multi page "
+"dialog containing General Properties, Validation Rules, Events, and Position "
+"information. Refer to <a href=\"frame_properties.htm\">Frame Properties</a> "
+"for more information."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:88-1
+msgid ""
+"<b style=\"font-weight: bold;\">Status</b>: Use this submenu to temporarily "
+"disable and enable frames."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:89-1
+msgid ""
+"<b style=\"font-weight: bold;\">Move</b>: Use this option to move the frame, "
+"right from the keyboard, while receiving spoken feedback. Refer to <a "
+"href=\"#_Moving_Frames\">Moving Frames</a> for more information."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:90-1
+msgid ""
+"<b style=\"font-weight: bold;\">Resize</b>: Use this option to resize the "
+"frame, right from the keyboard, while receiving spoken feedback. Refer to <a "
+"href=\"#_Resizing_Frames\">Resizing Frames</a> for more information."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:91-1
+msgid ""
+"<b style=\"font-weight: bold;\">Events</b>: Opens the Frame Properties "
+"dialog to the Events page. Refer to <a "
+"href=\"frame_properties.htm#_Events_Properties\">Events Properties</a> for "
+"more information."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:92-1
+msgid ""
+"<b style=\"font-weight: bold;\">Save Changes</b>: Saves changes to all "
+"frames."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:93-1
+msgid ""
+"<b style=\"font-weight: bold;\">Frames List</b>: Opens a dialog listing "
+"frames currently active, or frames in the current application. Refer to <a "
+"href=\"#_Frames_List\">Frames List</a> for more information."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:94-1
+msgid "<b style=\"font-weight: bold;\">Delete</b>: Deletes the current frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:95-1
+msgid ""
+"<b style=\"font-weight: bold;\">Hide Titles</b>: Temporarily hides frame "
+"titles."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:96-1
+msgid ""
+"<b style=\"font-weight: bold;\">Exit Frame Viewer</b>: Exits frame viewer. "
+"If changes have been made, but not saved, you are prompted to save changes."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h2:97-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.h2:97-1"
+msgid "Positioning Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:98-1
+msgid ""
+"One of the primary factors determining how well a frame will work is how "
+"effectively it is positioned. Frames are positioned in the following ways."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ul.li:100-1
+msgid ""
+"When you create a frame,you can size and position the frame to the current "
+"control or window, or you can specify the exact location of the top left "
+"corner and bottom right corner. For more information, refer to <a "
+"href=\"creating_a_frame.htm\">Creating a Frame</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ul.li:101-1
+msgid ""
+"Open Frame Viewer, press <b>TAB</b> to move to an existing frame, press "
+"<b>ALT+ENTER</b> to open the current frame's properties, and press "
+"<b>CTRL+TAB</b> to move to the position page. Modify the settings in this "
+"dialog to adjust the location and size of the frame. For more information, "
+"refer to <a href=\"frame_properties.htm#_Position_Properties\">Position "
+"Properties</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ul.li:102-1
+msgid ""
+"Open Frame Viewer, press <b>TAB</b> to move to an existing frame, and select "
+"Move or Resize from the frame's context menu, and use the arrow keys to "
+"adjust the position or size of the frame. This method allows you to adjust a "
+"frame's size and/or position right within Frame Viewer, and provides spoken "
+"feedback as you move or resize a frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ul.li:103-1
+msgid ""
+"Use your mouse to drag a frame by its title bar to a new location, or to "
+"drag a border to resize the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:105-1
+msgid ""
+"<b style=\"font-weight: bold;\">Tip</b>: When a person, working visually, "
+"uses the mouse to move the mouse pointer over the edge of a frame, the mouse "
+"changes shape and becomes a double arrow. If they click and hold the left "
+"mouse button they can now drag the edge to change the frame size. When they "
+"release the left mouse button, the changed size is retained. They can "
+"continue sizing by moving the mouse to another edge and repeating the "
+"process. If they simply want to move the frame they would click and hold the "
+"left mouse button with the mouse on the title bar of the frame. While the "
+"mouse button is held down the person can move the frame freely around the "
+"screen. When they release the mouse button, the new position is retained."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h3:106-1
+msgid "Enable Show Window Contents"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:107-1
+msgid ""
+"If you select the context menu items and use the arrow keys to move or "
+"resize a frame, you first need to check the Show Window Contents While "
+"Dragging check box in the Effects page of Display Properties. This will "
+"ensure you receive the maximum feedback while you are moving or resizing a "
+"frame. To do this:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:109-1
+msgid "Press the <b>WINDOWS KEY</b> to open the Start Menu."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:110-1
+msgid "Select Settings, Control Panel."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:111-1
+msgid "Select Display Properties."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:112-1
+msgid "Press <b>CTRL+TAB</b> until you are at the Effects page."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:113-1
+msgid ""
+"<b style=\"font-weight: bold;\">TAB</b> to the Show Window Contents While "
+"Dragging check box and press <b>SPACEBAR</b> to check it if it is not "
+"already checked."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:115-1
+msgid ""
+"This ensures you receive spoken feedback as you move or resize a frame. If "
+"you do not check this check box, you still receive spoken feedback, but only "
+"after completing the operation."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h3:116-1
+msgid "Moving Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:117-1
+msgid "To move frames with the arrow keys:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:119-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.ol.li:119-1"
+msgid "Press <b>INSERT+F2</b>, move to Frame Viewer, and press <b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:120-1
+msgid ""
+"<b style=\"font-weight: bold;\">TAB</b> to the frame you wish to reposition."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:121-1
+msgid "Press the <b>APPLICATIONS</b> key. Then press <b>M</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:122-1
+msgid ""
+"Press the arrow key corresponding to the direction you wish to move the "
+"frame. As you press arrow keys and the frame moves, the distance in pixels "
+"is reported."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:123-1
+msgid ""
+"Press <b>INSERT+DOWN ARROW</b> to hear what text is within the borders of "
+"the frame. This should assist you in verifying the frame is positioned where "
+"you need it."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:124-1
+msgid ""
+"Press <b>ENTER</b> when the frame is positioned where you want it, or press "
+"<b>ESC</b> to cancel the operation."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h3:126-1
+msgid "Resizing Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:127-1
+msgid "To resize a frame with the arrow keys:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:129-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.ol.li:129-1"
+msgid "Press <b>INSERT+F2</b>, move to Frame Viewer, and press <b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:130-1
+msgid ""
+"<b style=\"font-weight: bold;\">TAB</b> to the frame you wish to resize."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:131-1
+msgid "Press the <b>APPLICATIONS</b> key. Then press <b>R</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:132-1
+msgid ""
+"Press the arrow key corresponding to the border of the frame you wish to "
+"move."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:133-1
+msgid ""
+"Press the arrow key corresponding to the direction you wish to move the "
+"selected border."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:135-1
+msgid ""
+"For example, if you wish to bring the right border of the frame in (to make "
+"the frame smaller), first press <b>RIGHT ARROW</b>, then press <b>LEFT "
+"ARROW</b> to move the border of the frame. As you press arrow keys and the "
+"border moves, the distance in pixels is reported."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:137-1
+msgid ""
+"Press <b>INSERT+DOWN ARROW</b> to hear what text is within the borders of "
+"the frame. This should assist you in verifying the frame is sized as you "
+"need it."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.ol.li:138-1
+msgid ""
+"Press <b>ENTER</b> when the frame border is positioned where you want it, or "
+"press <b>ESC</b> to cancel the operation."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h2:140-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.h2:140-1"
+msgid "Frame Viewer Toolbox"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:141-1
+msgid ""
+"Frame Viewer includes a toolbox containing four buttons: Options, Frames "
+"List, Help and Close. The Help button opens the Introduction to Frames help "
+"topic, and closes Frame Viewer. The close button closes Frame Viewer. The "
+"Options and Frames List buttons are explained in the following sections."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h3:142-1
+msgid "Options"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:143-1
+msgid ""
+"Select the Options button to open a context menu containing the following "
+"items:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:144-1
+msgid ""
+"<b style=\"font-weight: bold;\">Create New Frame</b>: This item creates a "
+"new frame positioned on and sized to the control or window that was active "
+"when Frame Viewer was opened."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:145-1
+msgid ""
+"<b style=\"font-weight: bold;\">View Frames List</b>: This item opens the "
+"Frames List dialog."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:146-1
+msgid ""
+"<b style=\"font-weight: bold;\">Save Changes</b>: This item saves changes to "
+"all frames."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:147-1
+msgid ""
+"<b style=\"font-weight: bold;\">Exit Frame Viewer</b>: This item closes "
+"Frame Viewer. If frame settings have been changed, but not saved, you are "
+"prompted to save your changes."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:148-1
+msgid ""
+"<b style=\"font-weight: bold;\">Status</b>: This item opens a submenu from "
+"which you can disable all frames and enable them again."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:149-1
+msgid ""
+"<b style=\"font-weight: bold;\">Hide Titles</b>: This item temporarily hides "
+"titles for all frames."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.h3:150-1
+msgid "Frames List"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:151-1
+msgid ""
+"The Frames list button opens a dialog that lists all frames for the "
+"application that was active when Frame Viewer was opened. This list provides "
+"an alternate means of working with your frames, and provides access to "
+"frames that are inactive. Frame Viewer does not display frames that are "
+"inactive, so the Frames List dialog is the only way to access and make "
+"modifications to inactive frames."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:152-1
+msgid ""
+"An inactive frame has Validation Rules set to check for conditions that are "
+"not met at the time Frame Viewer was opened. For example, if a frame is set "
+"to be active in the Options dialog within an application, but Frame Viewer "
+"is opened from the application's Settings dialog, the frame would be "
+"inactive."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:153-1
+msgid "The following commands are available from the list of Frames:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.th.p:157-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.table.tbody.tr.th.p:157-1"
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.th.p:160-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.table.tbody.tr.th.p:160-1"
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:165-1
+msgid "Enable/Disable Frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:168-1
+msgid "SPACEBAR"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:173-1
+msgctxt "HTM_po_nelkul\\frame_viewer.htm+html.body.table.tbody.tr.td.p:173-1"
+msgid "Open Frame Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:176-1
+msgid "ALT+P"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:181-1
+msgid "Delete Frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:184-1
+msgid "ALT+D"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:189-1
+msgid "Close Frames List"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:192-1
+msgid "ALT+C"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:197-1
+msgid "Move to Frame"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.table.tbody.tr.td.p:200-1
+msgid "ALT+M"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.p:204-1
+msgid ""
+"<b style=\"font-weight: bold;\">Note</b>: You can only move to active "
+"frames, but you can modify the properties for any frame in the list."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.div.table.tbody.tr.td.p:210-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_viewer.htm%2Bhtml.body.div.table.tbody.tr.td.p:216-1
+msgid "Next"
+msgstr ""

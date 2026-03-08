@@ -1,0 +1,77 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.head.title:11-1
+msgctxt "HTM_po_nelkul\\standard_windows_keystrokes.htm+html.head.title:11-1"
+msgid "Standard Windows Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.h1:16-1
+msgctxt "HTM_po_nelkul\\standard_windows_keystrokes.htm+html.body.h1:16-1"
+msgid "Standard Windows Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.p:17-1
+msgid ""
+"This section contains listings of keystrokes that are part of Windows. JAWS "
+"does enhance some of these keystrokes so that what is being done is spoken, "
+"but these keystrokes work even without JAWS running. We have attempted to "
+"include the most useful Windows keystrokes, but have not attempted to "
+"compile a complete listing."
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.p:18-1
+msgid "General Windows Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.p:19-1
+msgid "General Windows Application Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.p:20-1
+msgid "Keystrokes for Working in Dialog Boxes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.p:21-1
+msgid "Keystrokes for Working with Text in Documents"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.p:22-1
+msgid "Keystrokes for Working in Windows Explorer"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.p:23-1
+msgid "Keystrokes for Using the Clipboard"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.p:24-1
+msgid "See also:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.p:25-1
+msgid "Keystrokes for Popular Applications"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:30-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cstandard_windows_keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:36-1
+msgid "Next"
+msgstr ""

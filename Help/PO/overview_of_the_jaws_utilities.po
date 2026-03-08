@@ -1,0 +1,473 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-25 14:59+0200\n"
+"PO-Revision-Date: 2025-03-27 11:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr "hu"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.head.title:5-1
+msgctxt "Main\\convert\\overview_of_the_jaws_utilities.htm+html.head.title:5-1"
+msgid "Overview of the JAWS Utilities"
+msgstr "A JAWS eszközök áttekintése"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h1:9-1
+msgctxt "Main\\convert\\overview_of_the_jaws_utilities.htm+html.body.h1:9-1"
+msgid "Overview of the JAWS Utilities"
+msgstr "A JAWS eszközök áttekintése"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:10-1
+msgid ""
+"JAWS provides several utilities used to customize how JAWS works with the "
+"applications you use. Customizing JAWS allows you to make any changes that "
+"might be necessary to provide you more complete access to your programs. "
+"This topic provides an overview of the JAWS utilities."
+msgstr ""
+"A <?rh-glo_start class=\"glossterm\"?>JAWS<?rh-glo_end ?> több különböző "
+"eszközt biztosít a JAWS és a használt alkalmazások együttes működésének "
+"testreszabására. A JAWS testreszabásával minden olyan szükséges módosítást "
+"végrehajthat, amely megkönnyíti a programok kezelését. Ebben a témakörben a "
+"JAWS eszközeinek áttekintése található."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:11-1
+msgid "The Run JAWS Manager Dialog"
+msgstr "A JAWS-kezelő indítása párbeszédpanel"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:12-1
+msgid ""
+"Press <strong>INSERT+F2</strong> at any time for quick access to a dialog "
+"listing the JAWS Managers and utilities. The managers and utilities "
+"available in this dialog are listed below with a brief description of each."
+msgstr ""
+"Az <strong>INSERT+F2</strong> billentyűkombináció lenyomásával bármikor "
+"megnyithatja a JAWS-kezelőket és eszközöket felsoroló párbeszédpanelt. A "
+"párbeszédpanelen található kezelőket és segédprogramokat az alábbiakban "
+"soroltuk fel a rövid leírásukkal együtt."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:13-1
+msgid "Commands Search"
+msgstr "Parancsok keresése"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:14-1
+msgid ""
+"The JAWS Command Search feature enables you to enter a full or partial "
+"description of a JAWS command whose keystroke you do not remember and "
+"displays a list of results that match your search criteria. The results "
+"include the name of the command, a brief description, and the keystrokes "
+"that are used to perform the command. For more information, refer to <a "
+"href=\"Getting_Help/Search_for_Commands.htm\">JAWS Command Search</a>."
+msgstr ""
+"A JAWS parancskeresési szolgáltatása lehetővé teszi, hogy Ön részben vagy "
+"egészben beírja egy olyan JAWS parancs leírását, melynek billentyűparancsára "
+"nem emlékszik, és meg fog jeleníteni egy olyan eredménylistát, melyek elemei "
+"megfelelnek az Ön által megadott keresési feltételeknek. Az eredmények "
+"között szerepelni fog a parancs neve, rövid leírása, valamint a parancs "
+"billentyűparancsa. További információt a <a href=\"Getting_Help/"
+"Search_for_Commands.htm\">JAWS Parancskeresés</a> című témakörben találhat."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:15-1
+msgid "Custom Highlight Assign"
+msgstr "Egyéni kiemelés hozzárendelése"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:16-1
+msgid ""
+"Use Custom Highlight Assign to specify colors that are then recognized by "
+"JAWS as highlighted. This is very useful in applications that do not use "
+"Windows colors, or do not allow you to modify preset color settings. For "
+"more information, please refer to <a href=\"SettingsCenter.chm::/"
+"CustomHighlight/custom_highlight_colors.htm\">Custom Highlight Colors</a>."
+msgstr ""
+"Az Egyéni kiemelési beállítások eszközzel megadható, hogy a JAWS mely "
+"színeket tekintse kiemeltnek. Olyan alkalmazásoknál hasznos, melyek nem a "
+"Windows színeit használják, vagy nem engedélyezik az előre megadott "
+"színbeállítások módosítását. További információt az <a href=\"SettingsCenter."
+"chm::/CustomHighlight/custom_highlight_colors.htm\">Egyéni kiemelés színei</"
+"a> című témakörben talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:17-1
+msgid "Custom Label, Custom Label Delete, and Custom Label Delete All"
+msgstr ""
+"Egyéni felirat, Egyéni felirat törlése és Az összes egyéni felirat törlése"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:18-1
+msgid ""
+"These options are only available in web browsers, Adobe Acrobat/Reader, "
+"Microsoft Word, and HTML documents that use the virtual cursor. Use the "
+"Custom Label option to assign a custom label to the current HTML link, HTML "
+"image, or form field/control. Use the Custom Label Delete option to delete "
+"the label assigned to the current item. Use the Custom Label Delete All "
+"option to delete all custom labels on the current page or document. For more "
+"information on using this feature, see <a href=\"PopApps.chm::/internet/"
+"internet_explorer_5/Custom_Labels.htm\">Custom Labels</a>."
+msgstr ""
+"Ezek a lehetőségek csak a webböngészőkben, az Adobe Acrobat/Reader-ben, a "
+"Microsoft Wordben, és HTML dokumentumokban érhetőek el, amelyek használják a "
+"virtuális kurzort. Használja az Egyéni felirat lehetőséget egy egyéni "
+"felirat hozzárendeléséhez az aktuális HTML hivatkozáshoz, HTML képhez, vagy "
+"űrlapmezőhöz/űrlapvezérlőhöz. Használja az Egyéni felirat törlése opciót az "
+"aktuális elemhez rendelt felirat törléséhez. Használja a Minden egyéni "
+"felirat törlése opciót az összes egyéni felirat törléséhez az aktuális "
+"oldalon vagy dokumentumban. További információért a funkció használatáról, "
+"lásd az <a href=\"PopApps.chm::/internet/internet_explorer_5/Custom_Labels."
+"htm\">Egyéni feliratok</a> témakört."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:19-1
+msgid "Customize List View"
+msgstr "Listanézetek testreszabása"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:20-1
+msgid ""
+"A list view is an area in a window or dialog box that contains one or more "
+"items, such as files, folders, records, and so on. The list view usually "
+"contains multiple columns that display information about each item in the "
+"list. You can use the Customize List View feature to change how JAWS "
+"provides you with information about the columns and items in certain list "
+"views. For more information, please refer to <a href=\"../"
+"customizing_jaws_for_windows/Custom_List_View/Customizing_List_Views."
+"htm\">Customizing List Views</a>."
+msgstr ""
+"A <?rh-glo_start class=\"glossterm\"?>listanézet<?rh-glo_end ?> az ablak "
+"vagy párbeszédpanel azon területe, amelyik egy vagy több elemet, fájlokat, "
+"mappákat, rekordokat és ehhez hasonlókat tartalmaz. A listanézetben "
+"rendszerint több oszlop van, amelyek a lista egyes elemeiről tartalmaznak "
+"egy-egy adatot. A Listanézet testreszabása funkcióval változtatható meg, "
+"hogy a JAWS milyen információt közöljön az oszlopokról és az elemekről. "
+"További információt a <a href=\"../customizing_jaws_for_windows/"
+"Custom_List_View/Customizing_List_Views.htm\">Listanézetek testreszabása</a> "
+"című témakörben talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:21-1
+msgid "Dictionary Manager"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Szótárkezelő<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:22-1
+msgid ""
+"Use Dictionary Manager to specify how JAWS pronounces words, allowing you to "
+"more easily recognize spoken information and to work more effectively. For "
+"more information, please refer to <a href=\"jdiction.chm::/jdiction/"
+"introduction_to_dictionary_manager.htm\">Dictionary Manager</a>."
+msgstr ""
+"A <?rh-glo_start class=\"glossterm\"?>Szótárkezelő<?rh-glo_end ?> "
+"segítségével meghatározható a szavak kiejtése, melynek révén könnyebben "
+"felismerheti a felolvasott információkat, munkája pedig hatékonyabbá válhat. "
+"További információt a <a href=\"jdiction.chm::/jdiction/"
+"introduction_to_dictionary_manager.htm\">Szótárkezelő</a> című témakörben "
+"talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:23-1
+msgid "Flexible Web"
+msgstr "Testre szabható webolvasás"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:24-1
+msgid ""
+"Use Flexible Web to hide content on Web pages that may interrupt the reading "
+"experience, such as advertisements. You can also specify where JAWS begins "
+"reading on a specific page. For more information, please refer to <a "
+"href=\"../popapps.chm::/internet/internet_explorer_5/Flexible_Web."
+"htm\">Flexible Web</a>."
+msgstr ""
+"A Testre szabható webolvasással az olvasást megszakító elemek rejthetők el "
+"egy weblapon, például reklámok. Azt is megadhatja, hogy a JAWS hol kezdje a "
+"felolvasást egy adott oldalon. További információk a <a href=\"../popapps."
+"chm::/internet/internet_explorer_5/Flexible_Web.htm\">Testre szabható "
+"webolvasás</a> című témakörben olvashatók."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:25-1
+msgid "Frame Viewer"
+msgstr "Keretmegjelenítő"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:26-1
+msgid ""
+"Use Frame Viewer to specify areas within an application window that can then "
+"be set to be read with a keystroke, in response to some change in the "
+"program, or to silence a change in the application that you do not want to "
+"hear. For more information, please refer to <a href=\"../"
+"customizing_jaws_for_windows/Frame_Viewer/frame_viewer.htm\">Frame Viewer</a>"
+msgstr ""
+"A <?rh-glo_start class=\"glossterm\"?>Keretmegjelenítő<?rh-glo_end ?> "
+"segítségével megadhat olyan területeket az alkalmazásablakban, melyeket "
+"később egy billentyűkombinációval felolvastathat, ha változás történt a "
+"programban, vagy éppen letilthatja a felolvasást, ha valamit nem szeretne "
+"hallani. További információt a <a href=\"../customizing_jaws_for_windows/"
+"Frame_Viewer/frame_viewer.htm\">Keretmegjelenítő</a> című témakörben talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:27-1
+msgid "Graphics Labeler"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Ábrafeliratozó<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:28-1
+msgid ""
+"Graphics Labeler allows you to assign text labels to graphics. The text "
+"labels are then automatically read when labeled graphics are encountered by "
+"the active cursor. For more information, please refer to <a href=\"../"
+"customizing_jaws_for_windows/working_with_graphics/graphics_labeler_overview."
+"htm\">Graphics Labeler</a>."
+msgstr ""
+"Az <?rh-glo_start class=\"glossterm\"?>Ábrafeliratozó<?rh-glo_end ?> "
+"segítségével feliratot rendelhet az ábrákhoz. Ha az aktív kurzor felirattal "
+"ellátott ábrát talál, a program automatikusan felolvassa a feliratot. "
+"További információt az <a href=\"../customizing_jaws_for_windows/"
+"working_with_graphics/graphics_labeler_overview.htm\">Ábrafeliratozó</a> "
+"című témakörben talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:29-1
+msgid "Keyboard Manager"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Billentyűzetkezelő<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:30-1
+msgid ""
+"Use Keyboard Manager to review, add, or change keystrokes assigned to listed "
+"actions. For more information, please refer to <a href=\"jkey.chm::/jkey/"
+"introduction_to_keyboard_manager.htm\">Keyboard Manager</a>."
+msgstr ""
+"A <?rh-glo_start class=\"glossterm\"?>Billentyűzetkezelő<?rh-glo_end ?> "
+"segítségével ellenőrizheti, módosíthatja vagy bővítheti a felsorolt "
+"műveletekhez rendelt billentyűkombinációkat. További információt a <a "
+"href=\"jkey.chm::/jkey/introduction_to_keyboard_manager."
+"htm\">Billentyűzetkezelő</a> című témakörben talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:31-1
+msgid "Mark Colors in Braille"
+msgstr "Színek jelölése a Braille kijelzőn"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:32-1
+msgid ""
+"Use Mark Colors in Braille to specify text colors to be identified when the "
+"Color attribute is selected in the Braille Marking group in Settings Center. "
+"For more information, see <a href=\"SettingsCenter.chm::/Braille/"
+"braille_options_dialog.htm\">Braille Group options</a>."
+msgstr ""
+"A Színek jelölése a Braille kijelzőn eszköz segítségével adhatja meg az "
+"azonosítandó szövegszíneket, ha a <?rh-glo_start class=\"glossterm\"?"
+">Beállítási központ<?rh-glo_end ?> Braille jelölések csoportjában a Szín "
+"attribútum be van jelölve. További információt a <a href=\"SettingsCenter."
+"chm::/Braille/braille_options_dialog.htm\">Braille beállítások</a> című "
+"témakörben talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:33-1
+msgid "Navigation Quick Keys"
+msgstr "Navigációt gyorsító billentyűk"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:34-1
+msgid ""
+"Use this manager to view a list of the current Navigation Quick Key "
+"assignments for the actions associated with the current application. For "
+"more, see <a href=\"../customizing_jaws_for_windows/"
+"Navigation_Quick_Key_Manager/Navigation_Quick_Key_Manager.htm\">Navigation "
+"Quick Keys Manager</a>."
+msgstr ""
+"Használatával megjeleníthető az aktuális alkalmazáshoz társított navigációt "
+"gyorsító billentyűk jelenlegi hozzárendeléseinek listája. További "
+"ismertetést a <a href=\"../customizing_jaws_for_windows/"
+"Navigation_Quick_Key_Manager/Navigation_Quick_Key_Manager.htm\">Navigációt "
+"gyorsító billentyűk kezelője</a> című témakör tartalmaz."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:35-1
+msgid "Notification History"
+msgstr "Értesítési előzmények"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:36-1
+msgid ""
+"This option opens the Notification History dialog box, which displays a list "
+"of notifications from Windows and applications received during the past 24 "
+"hours while JAWS or Fusion was running. Refer to the <a href=\"../"
+"customizing_jaws_for_windows/Notification_History/Notification_History."
+"htm\">Notification History</a> topic for more information."
+msgstr ""
+"Ez a lehetőség megnyitja az Értesítési előzmények párbeszédpanelt, ami "
+"megjeleníti azon értesítések listáját, amelyek a Windowsból és az "
+"alkalmazásokból az elmúlt 24 órában beérkeztek, amíg a JAWS vagy a Fusion "
+"futott. További információért olvassa el az <a href=\"../"
+"customizing_jaws_for_windows/Notification_History/Notification_History."
+"htm\">Értesítési előzmények</a> témakört."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:37-1
+msgid "Prompt Creator/Modifier"
+msgstr "Elemnév létrehozása/módosítása"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:38-1
+msgid ""
+"Prompts are the labels spoken when you navigate to a control. However, these "
+"labels are not always automatically spoken. Use Prompt Creator to specify "
+"the label JAWS speaks for specific controls, and even include a custom tutor "
+"message to provide helpful navigation tips. For more information, refer to "
+"<a href=\"../customizing_jaws_for_windows/Frame_Viewer/create_a_prompt."
+"htm\">Creating a Prompt</a>."
+msgstr ""
+"Az elemnevek azok a feliratok, melyeket a program akkor olvas fel, ha a "
+"felhasználó egy vezérlőelemhez érkezik. A program azonban nem mindig olvassa "
+"fel ezeket a feliratokat automatikusan. Az Elemnév létrehozása eszközzel "
+"megadhatja, hogy adott vezérlőelemek esetében a JAWS mit olvasson fel, "
+"ezenkívül egyéni tájékoztató üzenetek megadásával is segítheti a "
+"tájékozódást. További információt az <a href=\"../"
+"customizing_jaws_for_windows/Frame_Viewer/create_a_prompt.htm\">Elemnév "
+"létrehozása</a> című témakörben talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:39-1
+msgid "Quick Settings"
+msgstr "Közvetlen beállítások"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:40-1
+msgid ""
+"Use Quick Settings to change settings in the application that is currently "
+"active. For more information, see <a href=\"../customizing_jaws_for_windows/"
+"Quick_Settings/Quick_Settings.htm\">Quick Settings Overview</a>."
+msgstr ""
+"A Közvetlen beállításokkal az aktuális alkalmazásra vonatkozó beállítások "
+"módosíthatók. További ismertetést a <a href=\"../"
+"customizing_jaws_for_windows/Quick_Settings/Quick_Settings.htm\">Közvetlen "
+"beállítások – áttekintés</a> című témakör tartalmaz."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:41-1
+msgid "Research It"
+msgstr "Kutatás"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:42-1
+msgid ""
+"Research It allows you to access data and then easily return to your primary "
+"task. It uses what is known as a lookup source and the Results Viewer. You "
+"can use it to find information, whether it is the meaning of a word, your "
+"local weather forecast, top news stories, directions to and information "
+"about a local business, and more. For more information, see <a href=\"../"
+"customizing_jaws_for_windows/Research_It/Research_It.htm\">Research It</a>."
+msgstr ""
+"A <?rh-glo_start class=\"glossterm\"?>Kutatás<?rh-glo_end ?> szolgáltatás "
+"lehetővé teszi az információszerzést, majd egyszerűen visszatérhet eredeti "
+"feladatához. Ez a szolgáltatás az információk kikereséséhez úgynevezett "
+"kutatási forrásokat használ, és az Eredmény megjelenítőben jeleníti meg "
+"azokat. Információk megkeresésére használható, ahol az információ lehet egy "
+"szó jelentése, a legfrissebb hírek, az időjárás várható alakulása, egy helyi "
+"üzlethez történő iránymutatás vagy a forrástól függően más hasznos "
+"tudnivaló. További információt a <a href=\"../customizing_jaws_for_windows/"
+"Research_It/Research_It.htm\">Kutatás</a> című témakör nyújt."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:43-1
+msgid "Script Manager"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Szkriptkezelő<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:44-1
+msgid ""
+"Use Script Manager to write and compile scripts - small programs - that can "
+"greatly alter how JAWS functions within applications. For more information "
+"on Script Manager and writing scripts, please refer to <a href=\"jscript."
+"chm::/jscript/what_is_the_script_manager_.htm\">Characteristics of the "
+"Script Manager</a>."
+msgstr ""
+"A <?rh-glo_start class=\"glossterm\"?>Szkriptkezelő<?rh-glo_end ?> szkriptek "
+"– kis programok – készítésére és fordítására szolgál. A szkriptek "
+"nagymértékben módosíthatják a JAWS működését a különböző alkalmazásokban. A "
+"Szkriptkezelővel és a szkriptek írásával kapcsolatban <a href=\"jscript."
+"chm::/jscript/what_is_the_script_manager_.htm\">A Szkriptkezelő jellemzői</"
+"a> című témakörben talál további információt."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:45-1
+msgid "Settings Center"
+msgstr "<?rh-glo_start class=\"glossterm\" ?>Beállítási központ<?rh-glo_end ?>"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:46-1
+msgid ""
+"Settings Center allows you to modify many settings that determine what "
+"information JAWS reads, and how much of it is read. You can also modify "
+"configuration settings for braille options and synthesizer options. For more "
+"information, please refer to <a href=\"SettingsCenter.chm::/Overview."
+"htm\">Settings Center</a>."
+msgstr ""
+"A Beállítási központ segítségével határozhatja meg, hogy a JAWS milyen "
+"információkat és hogyan olvasson fel. Módosíthatja a Braille-beállításokat "
+"és a beszédszintetizátor beállításait is. További információt a <a "
+"href=\"SettingsCenter.chm::/Overview.htm\">Beállítási központ</a> című "
+"témakörben találhat."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:47-1
+msgid "Skim Reading Tool"
+msgstr "Átfutó olvasás"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:48-1
+msgid ""
+"Use the Skim Reading Tool to change your skim reading preferences. This also "
+"allows you to create, select, edit, and delete skim reading text rules. You "
+"can start skim reading with your current preferences at any time by pressing "
+"<strong>CTRL+INSERT+DOWN ARROW</strong>. For more information, please refer "
+"to <a href=\"the_jaws_application_window/jaws_dialogs/Skim_Reading_Dialog."
+"htm\">Skim Reading Dialog</a>."
+msgstr ""
+"Az Átfutó olvasás választásával az átfutó olvasás beállításait "
+"változtathatja meg. Lehetősége adódik az átfutó olvasás keresőkifejezésének "
+"illetve szabályának létrehozására, kiválasztására, módosítására illetve "
+"törlésére. Az átfutó olvasást az aktuálisan érvényes beállításaival bármikor "
+"elindíthatja a <strong>CTRL+INSERT+LE</strong> billentyűparanccsal. További "
+"információt az <a href=\"the_jaws_application_window/jaws_dialogs/"
+"Skim_Reading_Dialog.htm\">Átfutó olvasás párbeszédpanel</a> című témakörben "
+"talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:49-1
+msgid "Window Class Reassign"
+msgstr ""
+"<?rh-glo_start class=\"glossterm\" ?>Ablakosztály<?rh-glo_end ?> újbóli "
+"hozzárendelése"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:50-1
+msgid ""
+"A Windows class is a programming level label for a window or control. Some "
+"programs use non-standard Window classes, making it difficult for JAWS to "
+"recognize and read them properly. Windows Class Reassign allows you to "
+"specify a standard Windows class assignment that JAWS can recognize and "
+"access. For more information, please refer to <a href=\"SettingsCenter.chm::/"
+"WindowClasses/window_classes_dialog.htm\">Window Classes Dialog.</a>"
+msgstr ""
+"Az <?rh-glo_start class=\"glossterm\"?>ablakosztály<?rh-glo_end ?> az "
+"ablakok és vezérlőelemek programozási szintű jellemzője. Bizonyos programok "
+"a szabványostól eltérő ablakosztályokat használnak, így megnehezítik a JAWS "
+"számára az osztályok felismerését és a helyes felolvasást. Az Ablakosztályok "
+"újbóli hozzárendelése eszközzel a nem szabványos ablakosztályú vezérlőkhöz a "
+"JAWS által is felismerhető és elérhető szabványos ablakosztályokat "
+"rendelhet. További információt az <a href=\"SettingsCenter.chm::/"
+"WindowClasses/window_classes_dialog.htm\">Ablakosztályok párbeszédpanel</a> "
+"című témakörben talál."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.h2:51-1
+msgid "Default or Application Settings"
+msgstr "Alapértelmezett és alkalmazásszintű beállítások"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:52-1
+msgid ""
+"Settings changed in the JAWS managers and utilities can be made at a default "
+"or application level. Default level changes affect all applications, while "
+"application level changes affect only the current application. For example, "
+"if you press <strong>INSERT+F2</strong> and select a manager while Word is "
+"active, changes you make only apply to Word."
+msgstr ""
+"A JAWS-kezelők és eszközök beállításai alapértelmezett és alkalmazásszinten "
+"módosíthatók. Az alapértelmezett szinten történő módosítások minden "
+"alkalmazásra kihatnak, míg az alkalmazásszintű módosítások csak az adott "
+"alkalmazásra hatnak ki. Ha például lenyomja az <strong>INSERT+F2</strong> "
+"billentyűkombinációt és kiválaszt egy kezelőt, mikor a Word program aktív, a "
+"módosítások csak a Word programban érvényesülnek."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.p:53-1
+msgid ""
+"In several of the managers, if you press <strong>CTRL+SHIFT+D</strong> "
+"before making changes, your changes take place on a default level."
+msgstr ""
+"Több kezelőben a módosítások végrehajtása előtt a <strong>CTRL+SHIFT+D</"
+"strong> billentyűkombinációt lenyomva a módosítások alapértelmezett szinten "
+"lépnek érvénybe."
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.div.table.tbody.tr.td.p:58-1
+msgid "Back"
+msgstr "Vissza"
+
+#: Main%5Cconvert%5Coverview_of_the_jaws_utilities.htm%2Bhtml.body.div.table.tbody.tr.td.p:64-1
+msgid "Next Section"
+msgstr "Következő szakasz"

@@ -1,0 +1,264 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\windows_keystrokes_for_working_with_text.htm+html.head.title:12-1"
+msgid "Windows Keystrokes for Working with Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\windows_keystrokes_for_working_with_text.htm+html.body.h1:17-1"
+msgid "Windows Keystrokes for Working with Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table[summary]:18-1
+msgid "Reading and Selection Commands"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.th:20-1
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.th:21-1
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:24-1
+msgid "Move One Character Left"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:25-1
+msgid "LEFT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:28-1
+msgid "Move One Character Right"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:29-1
+msgid "RIGHT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:32-1
+msgid "Move One Word Left"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:33-1
+msgid "CTRL+LEFT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:36-1
+msgid "Move One Word Right"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:37-1
+msgid "CTRL+RIGHT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:40-1
+msgid "Move to Beginning of Line"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:41-1
+msgid "HOME"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:44-1
+msgid "Move to End of Line"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:45-1
+msgid "END"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:48-1
+msgid "Move One Paragraph Up"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:49-1
+msgid "CTRL+UP ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:52-1
+msgid "Move One Paragraph Down"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:53-1
+msgid "CTRL+DOWN ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:56-1
+msgid "Move to Top of Next Page"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:57-1
+msgid "CTRL+PAGE DOWN"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:60-1
+msgid "Move to Top of Previous Page"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:61-1
+msgid "CTRL+PAGE UP"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:64-1
+msgid "Move to Beginning of Document"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:65-1
+msgid "CTRL+HOME"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:68-1
+msgid "Move to End of Document"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:69-1
+msgid "CTRL+END"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:72-1
+msgid "Scroll Up or Down One Screen"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:73-1
+msgid "<b style=\"font-weight: bold;\">PAGE UP</b> or <b>PAGE DOWN</b>"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:76-1
+msgid "Select One Character Left"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:77-1
+msgid "SHIFT+LEFT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:80-1
+msgid "Select One Character Right"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:81-1
+msgid "SHIFT+RIGHT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:84-1
+msgid "Select One Word Left"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:85-1
+msgid "CTRL+SHIFT+LEFT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:88-1
+msgid "Select One Word Right"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:89-1
+msgid "CTRL+SHIFT+RIGHT ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:92-1
+msgid "Select to Beginning of Line"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:93-1
+msgid "SHIFT+HOME"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:96-1
+msgid "Select to End of Line"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:97-1
+msgid "SHIFT+END"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:100-1
+msgid "Select to Beginning of Document"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:101-1
+msgid "CTRL+SHIFT+HOME"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:104-1
+msgid "Select to End of Document"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:105-1
+msgid "CTRL+SHIFT+END"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:108-1
+msgid "Select All"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:109-1
+msgid "CTRL+A"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:112-1
+msgid "Undo"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:113-1
+msgid "CTRL+Z"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:116-1
+msgid "Delete Current Character"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:117-1
+msgid "DELETE"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:120-1
+msgid "Delete Prior Character"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.table.tbody.tr.td:121-1
+msgid "BACKSPACE"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.p:124-1
+msgid "Additional Notes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.p:125-1
+msgid "See also:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.p:126-1
+msgid "Keystrokes for Using the Clipboard"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.p:127-1
+msgid "JAWS Keystrokes for Reading Text"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.div.table.tbody.tr.td.p:132-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindows_keystrokes_for_working_with_text.htm%2Bhtml.body.div.table.tbody.tr.td.p:136-1
+msgid "Next"
+msgstr ""

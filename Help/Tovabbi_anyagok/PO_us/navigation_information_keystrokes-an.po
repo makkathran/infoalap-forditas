@@ -1,0 +1,112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\navigation_information_keystrokes-an.htm+html.head.title:12-1"
+msgid "Additional Notes on Navigation - Information Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\navigation_information_keystrokes-an.htm+html.body.h1:17-1"
+msgid "Additional Notes on Navigation - Information Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.h2:18-1
+msgid "Say Window Title (INSERT+T)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.p:19-1
+msgid "This keystroke reads the active title bar."
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.h2:20-1
+msgid "Say Top Line of Window (INSERT+END)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.p:21-1
+msgid ""
+"This keystroke may have different results in different applications. In some "
+"programs, it will read the title bar, while in others it may read the menus or "
+"toolbars at the top of the window."
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.h2:22-1
+msgid "Say Bottom Line of Window (INSERT+PAGE DOWN )"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.p:23-1
+msgid ""
+"This keystroke reads the bottom line of a window, which is normally where a status "
+"bar is located."
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.h2:24-1
+msgid "Say Application Version (CTRL+INSERT+V)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.p:25-1
+msgid ""
+"This keystroke states the version information for the active application. If you "
+"press <b>CTRL+INSERT+V</b> while JAWS is the active window, this command displays "
+"your JAWS version number and authorization information, including your Locking "
+"code, Authorization number, and serial number. It also lists all the speech "
+"synthesizers and Braille displays that you have installed. This information is "
+"displayed in the Virtual Viewer so you can copy and paste it into a document or "
+"edit box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.h2:26-1
+msgid "Bring Up Window List (INSERT+F10)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.p:27-1
+msgid ""
+"This keystroke brings up a dialog box listing all open applications and their "
+"window states; i.e., minimized, restored, or maximized. Select an item from the "
+"list and press <b>ENTER</b> to switch to that application, or press <strong>DELETE</"
+"strong> to close the application window."
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.h2:28-1
+msgid "List System Tray Icons (INSERT+F11)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.p:29-1
+msgid ""
+"This keystroke brings up a dialog box listing items in the System Tray. Select an "
+"item from the list, and then <b>TAB</b> to buttons to simulate different mouse "
+"clicks on the item."
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.h2:30-1
+msgid "List Labeled Graphics (CTRL+INSERT+SHIFT+G)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.p:31-1
+msgid ""
+"This keystroke brings up a dialog box listing all labeled graphics in the active "
+"window. Select an item from the list and press <b>ENTER</b> to simulate a single "
+"left mouse button click on the graphic. This feature is similar to the CallToolbars "
+"(<b>INSERT+F8</b>) command available in some popular applications, however this "
+"feature is not application specific."
+msgstr ""
+
+#: HTM_po_nelkul%5Cnavigation_information_keystrokes-an.htm%2Bhtml.body.div.table.tbody.tr.td.p:36-1
+msgid "Back"
+msgstr ""

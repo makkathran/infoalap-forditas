@@ -1,0 +1,124 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\general_windows_keystrokes.htm+html.head.title:12-1"
+msgid "General Windows Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\general_windows_keystrokes.htm+html.body.h1:17-1"
+msgid "General Windows Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table[summary]:18-1
+msgid "General Windows Commands"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.th:20-1
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.th:21-1
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:24-1
+msgid "Get Help"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:25-1
+msgid "F1"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:28-1
+msgid "Open the Start Menu"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:29-1
+msgid "<b style=\"font-weight: bold;\">WINDOWS LOGO KEY</b> or <b>CTRL+ESC</b>"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:32-1
+msgid "Switch between Open Applications"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:33-1
+msgid "ALT+TAB"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:36-1
+msgid "Open the Shortcut Menu"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:37-1
+msgid "<b style=\"font-weight: bold;\">APPLICATIONS KEY</b> or <b>SHIFT+F10</b>"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:40-1
+msgid "Minimize all Applications"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:41-1
+msgid "WINDOWS LOGO KEY+M"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:44-1
+msgid "Move to First Item on the Taskbar"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:45-1
+msgid "WINDOWS LOGO KEY+TAB"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:48-1
+msgid "Open Windows Explorer"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:49-1
+msgid "WINDOWS LOGO KEY+E"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:52-1
+msgid "Open Run Dialog"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.table.tbody.tr.td:53-1
+msgid "WINDOWS LOGO KEY+R"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.p:56-1
+msgid "Additional notes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.p:57-1
+msgid "See also:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.p:58-1
+msgid "Navigation - Information Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:63-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes.htm%2Bhtml.body.div.table.tbody.tr.td.p:67-1
+msgid "Next"
+msgstr ""

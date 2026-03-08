@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+ <link rel="StyleSheet" href="../../../assets/css/default.css" type="text/css"/>
+ <title>Network Authorization Instructions</title>
+</head>
+<body>
+ <h1>Network Authorization Instructions</h1>
+<p>This topic describes the steps necessary to set up your network license server environment using our generic network authorization tool. This tool lets you manage licenses for all of our ILM-based software products, and replaces the former product-specific network license server tools.</p>
+ <h2>Network Server Installation and Activation</h2>
+<p class="Tip-Note-Text"><strong>Note:</strong> You can only install the license server on a computer running Microsoft Windows. Other operating systems are not supported.</p>
+<ol>
+  <li>Go to the <a href="https://fsactivate.freedomscientific.com/Activation/Network" target="_blank">Network License Server Installation</a> page and download the Network Authorization Tool installation file on the computer that will run the license server.</li>
+  <li>Follow the on-screen instructions to complete the installation of the network authorization tools and license server.</li>
+  <li>Once the license server is installed, open the Start menu, navigate to the Freedom Scientific Network Authorization Utilities folder, and then choose Update Network Authorization.</li>
+  <li>Follow the prompts to complete the activation process for your software product.</li>
+  </ol>
+<p class="Tip-Note-Text"><strong>Note:</strong> To activate a license on a computer that does not have direct Internet access, choose the Manual option and then follow the prompts to retrieve and enter a license code.</p>
+<p>If you experience problems activating your network license server, you may have problems connecting to the Internet due to a firewall or other similar situations. Refer to our <a href="https://fsactivate.freedomscientific.com/Activation/ILMTroubleShootingGuide" target="_blank">Software Activation Troubleshooting Guide</a> for more information.</p>
+
+<h2>Client Computer Installation and Activation</h2>
+<p>After installing and activating a network license server, you are ready to install and run the application software on your client computers. Other than installing the application on each client computer, you do not need to perform any additional action. Each time the application software is started on a client computer, it will automatically search for the license server and obtain an authorization token.</p>
+<p>The number of client computers that can be authorized at any given time depends on the number of users permitted by your license. For example, if you purchased a license for five users, your license server will allow five client computers to authorize. Once all tokens are assigned, no additional clients can receive authorization.</p>
+<p>If you need to support additional users, contact your local distributor or Freedom Scientific to purchase additional seats.</p>
+<p class="Tip-Note-Text"><strong>Note:</strong> For client computers to obtain an authorization from the network license server they must both be on the same subnet. In situations where the client computer is on a different subnet, you must provide the application software the name or IP address of the network license server using the LSHOST or LSFORCEHOST environment variables. Refer to Chapter 2 – Configuring the License Server in the Sentinel License Manager System Administrator’s Guide available from the <a href="https://fsactivate.freedomscientific.com/Activation/Network" target="_blank">Network License Server Installation</a> page.</p>
+<div style="text-align: center;">
+<table cellspacing="3" width="100%" align="center">
+<tbody><tr>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="javascript:window.history.go(-1);" accesskey="b">Back</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>

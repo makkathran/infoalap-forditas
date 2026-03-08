@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-status" content="In Progress"/>
+<meta name="topic-priority" content="0"/>
+<meta name="topic-time-estimate" content="0"/>
+<meta name="topic-comment" content=""/>
+<meta name="topic-id" content=""/>
+<meta name="window-type" content="$Global_NewWindow"/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Frame Events</title>
+<link rel="StyleSheet" href="../../assets/css/default.css" type="text/css"/>
+
+<meta name="rh-index-keywords" content="Frames:Events,Frames:Actions,Frames:Text Filters,Frames:Event Scope"/></head>
+<body>
+<h1>Frame Events</h1>
+<p>JAWS makes extensive use of events within Windows and your applications to determine when certain responses or actions are necessary. Events occur all the time: when you press a key on your keyboard (KeyPressedEvent), when you open a file containing text (NewTextEvent), when you TAB from one control to another (FocusChangeEvent). Recognizing events in such a way that actions can be taken allows JAWS to quickly and naturally respond appropriately as you work.</p>
+<p>Within frames, only specific events are used. You specify which events each frame recognizes. When one of the events specified for a frame occurs, the action you have associated with that event is taken.</p>
+<p>There are several parts to every event used with frames.</p>
+<ul>
+<li><b style="font-weight: bold;">Frame Event Types</b>: There are four types of frame events: On Focus, On Frame Key, On Play Action, and On Text. The event type determines what causes actions within your frame to take place. For example, if you want some specific action to take place whenever you <b>TAB</b> to a control within the borders of a frame, assign an On Focus event and associate the action to take place.</li>
+<li><b style="font-weight: bold;">Event Actions</b>: Event actions are the actions that occur when the event takes place. Each event you add activates only one action. If you want to have several things occur when focus moves into the borders of a frame, add the On Focus frame event several times, assigning different actions to each instance of the event.</li>
+<li><b style="font-weight: bold;">Action Attributes</b>: Many, but not all, event actions require that you specify an attribute of some sort. For example, if you set a frame to speak the contents of a window when some event occurs, when you assign the Say Window action to the frame event, you are prompted to specify which window is to be spoken.</li>
+</ul>
+<p><a href="#_Frame_Event_Types">Frame Event Types</a></p>
+<p><a href="#_Text_Filters">Text Filters</a></p>
+<p><a href="#_Event_Scope">Event Scope</a></p>
+<p><a href="#_Event_Actions">Event Actions</a></p>
+<h2><a id="_Frame_Event_Types"></a>Frame Event Types</h2>
+<p>The following events are available for use with frames.</p>
+<h3>On Focus</h3>
+<p>This event occurs whenever the system focus moves into the borders of a frame. If you want something to happen whenever you <b>TAB</b> to a specific control in a dialog, create a frame at the location of the control, assign the On Focus event, and add the actions you want to take place.</p>
+<h3>On Frame Key</h3>
+<p>This event occurs when the keyboard combination assigned to the frame is pressed. The keyboard assignment is made within the General page of the Frame Properties dialog.</p>
+<h3>On Play Action</h3>
+<p>This event occurs when the action, Play Frame Actions is used from another frame and uses this frame as the attribute.</p>
+<p>For example, assume you want several actions to take place in FrameA, but only when an event occurs in FrameB. In FrameA, set up an On Play Action event for each action you want to take place. Then in FrameB, set up the event you want to use to initiate the actions. Assign the action, Play Frame Actions to this event, and set FrameA as the attribute.</p>
+<p>With the On Play Action event, you can specify the scope of the event to determine when the event is recognized.</p>
+<h3>On Text</h3>
+<p>This event occurs when text is newly displayed within the borders of the frame. Newly displayed text can be text typed into an edit field, or static text in a dialog when the dialog first appears on the screen.</p>
+<p>This text can be filtered so only specific text, or text with certain attributes or colors activates the event.</p>
+<p>For example, if you set the On Text event for a frame containing a list box, and set the filter to recognize any highlighted text, every time you arrow to a new item in the list box, newly highlighted text is displayed and the event occurs, so the associated action takes place.</p>
+<p>With the On Text event, you can specify the scope of the event to determine when the event is recognized.</p>
+<h2><a id="_Text_Filters"></a>Text Filters</h2>
+<p>When using the On Text event, you can specify that the event is recognized only if the text newly written within the borders of the frame matches a &quot;filter&quot; you set. This filter allows you to specify:</p>
+<ul>
+<li>Foreground (Text) Color</li>
+<li>Background Color</li>
+<li>Text attributes (Bold, Highlight, Italic, Underline, etc.)</li>
+<li>A String of Text</li>
+</ul>
+<p>Foreground and background colors can be specified based on the text colors at the location of the JAWS cursor (where it was before Frame Viewer was started), by selecting the color names from the edit combo boxes, or by typing in the RGB (Red, Green, Blue) numeric values.</p>
+<p>When you specify a string of text for the filter, for the text in the frame to be considered a match, it must be displayed all on one line, and it cannot be interrupted by other text, symbols, or graphics.</p>
+<h2><a id="_Event_Scope"></a>Event Scope</h2>
+<p>The On Play Action event and the On Text event can be set so these events are only recognized under certain conditions. This allows you to limit when the actions associated with these events occur.</p>
+<p>Set these Events to be recognized:</p>
+<ul>
+<li>All the time, regardless of the location of the system focus</li>
+<li>Only when the system focus is within the frame</li>
+<li>Only when the system focus is not within the frame</li>
+</ul>
+<h2><a id="_Event_Actions"></a>Event Actions</h2>
+<p>Actions are what make frames so powerful. Set actions to read the frame or window, play a sound file, reposition cursors, or run a JAWS script. Each event you add to your frame is associated with one action, but you can have several instances of the same event type with different actions associated with each, so when the event occurs, all the actions take place.</p>
+<p class="Note-Text"><b style="font-weight: bold;">Note</b>: Actions take place in the order the associated event types are listed in the Events page of the Frame Properties dialog.</p>
+<p>When you add an event and choose an action to assign to it, as you move through the list of actions, a description of each action is provided. Below are summarized the types of actions that are available.</p>
+<h3>Speak or Braille Information</h3>
+<p>There are actions to speak or Braille the following types of information:</p>
+<ul>
+<li><b style="font-weight: bold;">Text within a frame or window</b>: You specify which frame or window.</li>
+<li><b style="font-weight: bold;">Text with specific attributes in a frame or window</b>: Specify the frame or window, and specify the attributes or colors of the text.</li>
+<li><b style="font-weight: bold;">A string of text</b>: Just specify what you want spoken or displayed in Braille.</li>
+<li><b style="font-weight: bold;">A structured message</b>: Specify a combination of specific text and information gathered through use of script functions.</li>
+</ul>
+<p class="Note-Text"><b style="font-weight: bold;">Note</b>: The actions related to Braille only work while you are in structured mode.</p>
+<h3>Move Cursors</h3>
+<p>There are actions to move cursors as follows:</p>
+<ul>
+<li>Move the JAWS cursor to the top left corner of a frame</li>
+<li>Move the JAWS cursor to the top left corner of a window</li>
+<li>Move the JAWS cursor to the PC cursor</li>
+</ul>
+<h3>Play Sounds</h3>
+<p>There are actions to play sounds you specify, system sounds, or to produce a beep from the system speaker.</p>
+<h3>Other</h3>
+<p>There are also actions to:</p>
+<ul>
+<li><b style="font-weight: bold;">Load JAWS Configuration Files</b>: Specify the configuration files you wish to use.</li>
+<li><b style="font-weight: bold;">Play Actions Specified in other Frames</b>: An event occurring in one frame can be set to cause actions in another frame to take place.</li>
+<li><b style="font-weight: bold;">Run JAWS Scripts</b>: Enhance your frames even further by using them together with JAWS scripts.</li>
+<li><b style="font-weight: bold;">Suppress Script Events</b>: Prevent script events from causing information to be spoken or Brailed so as to avoid duplicating the information your frame is providing.</li>
+</ul>
+<p> </p>
+<div style="text-align: center;">
+<table cellspacing="3" width="100%" align="center">
+<tbody><tr style="vertical-align: top;">
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p style="text-align: left; margin-bottom: 0;"><a href="javascript:window.history.go(-1);" accesskey="b">Back</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="Frame_Defaults.htm" accesskey="x">Next</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>

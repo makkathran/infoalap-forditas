@@ -1,0 +1,167 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\using_the_jaws_cursor.htm+html.head.title:12-1"
+msgid "Using the JAWS Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\using_the_jaws_cursor.htm+html.body.h1:17-1"
+msgid "Using the JAWS Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:18-1
+msgid ""
+"The JAWS Cursor is very useful when working in Windows. It corresponds to "
+"the system mouse. The JAWS Cursor is used to manipulate the system mouse, "
+"read static text to which the PC Cursor does not have access, and to access "
+"other parts of Windows to which the PC Cursor cannot be moved. The JAWS "
+"Cursor is also used to provide a quick overview of the information currently "
+"available on the screen. Press <b>NUM PAD DASH</b> to make the JAWS Cursor "
+"active."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:19-1
+msgid "Find information in the following areas:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:20-1
+msgctxt "HTM_po_nelkul\\using_the_jaws_cursor.htm+html.body.p:20-1"
+msgid "Restricting the JAWS Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:21-1
+msgctxt "HTM_po_nelkul\\using_the_jaws_cursor.htm+html.body.p:21-1"
+msgid "Using the Mouse Buttons"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.h2:22-1
+msgctxt "HTM_po_nelkul\\using_the_jaws_cursor.htm+html.body.h2:22-1"
+msgid "Restricting the JAWS Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:23-1
+msgid ""
+"The JAWS Cursor has several separate levels related to where it can move on "
+"the computer screen. Each time you press <b>INSERT+R</b> with the JAWS "
+"Cursor active, the next level of restriction is set and announced. The "
+"following describes these restrictions."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.h3:24-1
+msgid "Real Window Restrictions"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:25-1
+msgid ""
+"Technically, a real window is any window having a name. Although this is not "
+"always the case, most real windows have names. Examples of real windows "
+"include dialog boxes and application main windows. The Real Window "
+"Restriction limits the JAWS or Invisible cursors to these windows."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.h3:26-1
+msgid "Application Window Restriction"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:27-1
+msgid ""
+"When the JAWS Cursor is within the Parent Window with focus, the cursor does "
+"not move outside the Parent window when using standard navigation keys such "
+"as <b>PAGE UP PAGE DOWN</b>, <b>HOME</b>, <b>END</b>, or arrow keys."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.h3:28-1
+msgid "Current Window Restriction"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:29-1
+msgid ""
+"When put in this mode, the JAWS Cursor is restricted to the current window "
+"that it is in at that moment. This is useful to restrict movement and "
+"reading to a control such as a list box without having to hear other "
+"information outside of that specific control. The cursor does not move "
+"outside the Window with standard navigation keys such as <b>PAGE UP PAGE "
+"DOWN</b>, <b>HOME</b>, <b>END</b>, or arrow keys."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.h3:30-1
+msgid "Focus Window Restriction"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:31-1
+msgid ""
+"A focus window is the window that currently has the system focus. This "
+"generally refers to the window that contains the insertion point, caret, or "
+"highlight bar. Focus Window Restriction limits the JAWS or Invisible cursor "
+"to the window that currently has system focus. For example, an edit window "
+"where you type an e-mail reply is considered to be the focus window because "
+"it contains the insertion point or system focus."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.h3:32-1
+msgid "Frame Restriction"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:33-1
+msgid ""
+"When put in this mode, the JAWS Cursor is restricted to the current frame "
+"that it is in at that moment. This is useful to restrict movement and "
+"reading to an area of an application you define. The cursor does not move "
+"outside the frame with standard navigation keys such as <b>PAGE UP PAGE "
+"DOWN</b>, <b>HOME</b>, <b>END</b>, or arrow keys. For more information about "
+"frames, refer to <a href=\"../../customizing_jaws_for_windows/Frame_Viewer/"
+"introduction_to_frames.htm\">Introduction to Frames</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.h3:34-1
+msgid "Unrestricted"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:35-1
+msgid ""
+"In Unrestricted Mode, with the JAWS Cursor active, you can freely roam the "
+"entire screen regardless of the number of Windows open or how they appear on "
+"the screen. Using this mode, you can easily browse the screen line by line "
+"and get an understanding of everything available on the screen."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.h2:36-1
+msgctxt "HTM_po_nelkul\\using_the_jaws_cursor.htm+html.body.h2:36-1"
+msgid "Using the Mouse Buttons"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.p:37-1
+msgid ""
+"The JAWS Cursor corresponds to the system mouse, allowing you to move the "
+"mouse pointer. JAWS provides the additional functionality of keystrokes to "
+"simulate clicking the mouse buttons. For more information, please see <a "
+"href=\"../../keystrokes/jaws_keystrokes/"
+"jaws_keystrokes_for_cursors_and_mouse_simulation.htm\">Keystrokes for "
+"Cursors and Mouse Simulation</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.div.table.tbody.tr.td.p:42-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cusing_the_jaws_cursor.htm%2Bhtml.body.div.table.tbody.tr.td.p:48-1
+msgid "Next"
+msgstr ""

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-status" content="In Progress"/>
+<meta name="topic-priority" content="-1"/>
+<meta name="topic-time-estimate" content="-1"/>
+<meta name="topic-comment" content=""/>
+<meta name="topic-id" content="using_jaws\controlling_speech\application_specific_voice_settings.htm"/>
+<meta name="window-type" content="$Global_NewWindow"/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Selecting a Voice Profile</title>
+<link rel="StyleSheet" href="../../assets/css/default.css" type="text/css"/>
+
+<meta name="rh-index-keywords" content="Voice Profile,Application Specific Voice Settings,Voice Settings,Voice Settings:Application Specific,Language,Primary Language"/></head>
+<body>
+<h1>Selecting a Voice Profile</h1>
+<p>A voice profile consists of settings for the synthesizer, language, voice, and other speech items that define how JAWS speaks. Traditionally in JAWS, users have created specific language voice profiles, along with task specific profiles such as profiles for proof reading, pleasure reading, and speed reading. Beginning with JAWS 16, single profiles can now contain the settings for multiple languages, allowing users to have a single task specific profile that works regardless of the language they switch to.</p>
+<p>For example, if a person spoke English, Spanish, and French, they can create a single &quot;proofreading&quot; profile. With speech set to English, they would turn on the announcement of all punctuation and set the speaking rate to be a little slower than their normal reading rate. Next, they would switch the language to Spanish, choose their preferred voice, and make the punctuation and reading rate changes. After that, they would do the same for French and save their profile with “proofreading” as the name. This proofreading profile can now be used regardless of whether the voice is set to English, French, or Spanish.</p>
+<p>As with previous versions of JAWS, you can set profiles to automatically be used when you enter specific applications. For example, you may want a profile that simply sets punctuation to “All” when your focus is in a coding application.</p>
+<p>The sections below describe how to create and manage voice profiles.</p>
+<h2><a name="NewProfile" id="NewProfile"></a>Creating a New Voice Profile</h2>
+<p>Starting with an existing voice profile is an easy and quick way to create a new profile. You begin with basic voice settings, customize the settings to match the activity to be performed or the application to be used, and then save the new profile using a name that easily identifies it.</p>
+<p>Before creating the profile, give some thought to how you want to use it and if you want to use it in situations where you will encounter multiple languages. For example, you can create a single voice profile that contains multiple languages with unique settings for each language. With each language, you can choose among the available voices you have installed for that language. For your native language, you may be very comfortable with a very fast speech rate, but with other languages, you may want to have the speech rate slowed down for better understanding.</p>
+<p>If JAWS detects language tags in a document or web page, it will automatically switch to the appropriate language. If these tags are missing, you can always press <strong>WINDOWS Key+CTRL+L</strong> to manually change languages. This hot key opens the Select a Language dialog box. It shows all languages currently installed on your computer.</p>
+<p class="Tip-Note-Text"><strong>Note:</strong> To create multi-language profiles, you must have different synthesizer voices installed on your computer. These can be downloaded for free from the Freedom Scientific web site. To access the latest Vocalizer Expressive voices, choose the More Voices item from the JAWS Help menu.</p>
+<p>You can also create a voice profile oriented toward a specific task or activity. For example, you can have a voice profile dedicated to proofreading Word documents, or a profile dedicated for leisurely reading of emails or web pages, or a profile for software applications you use when creating your web page.</p>
+<p>To create a new voice profile, do the following:</p>
+<ol>
+<li>Press <strong>INSERT+J</strong> to make the JAWS window active.</li>
+<li>Press <strong>ALT+O</strong> to open the Options menu, Press <strong>V</strong> to choose the Voices submenu, and then press <strong>ENTER</strong> to open the Voice Adjustment dialog box.</li>
+<li>Select a factory voice profile in the Profile Name combo box. For example, Vocalizer Expressive – (factory).</li>
+<li>Select a language in the Synthesizer Language combo box. For example, English – United States or English – United Kingdom.</li>
+<li>Select a voice in the Person combo box. For example, Allison Premium – United States or Daniel Premium – United Kingdom.</li>
+<li>Make any necessary changes to the speech rate, punctuation, or other voice settings.</li>
+<li>Choose Apply, and then No when asked if you want to apply these changes as the default voice profile.</li>
+<li>If you want to add another language to this profile, repeat steps 4 through 7, but select a different language and voice, for example, Spanish – Spain and Monica Premium – Spain. You can add as many languages as you have installed on your computer.</li>
+</ol>
+<p class="Tip-Note-Text"><strong>Note:</strong> You can select a primary language for the profile. To do this, see &quot;Selecting a Primary Language&quot; in the section below.</p>
+<ol start="9">
+<li>When finished, choose Save As and type a name for the new voice profile. Choose Yes or No to make this the new default profile, and then choose OK to close the dialog box.</li>
+</ol>
+<p class="Tip-Note-Text"><strong>Note:</strong> If you do not rename the new profile, it will use the same name as the selected factory voice profile. However, its name will no longer be identified as “factory” in the Profile Name combo box.</p>
+<h3>Selecting a Primary Language</h3>
+<p>While setting up your profile, you have the option of selecting a primary synthesizer language. This is the language that is heard when you activate the profile. By default, this is set to &quot;Match JAWS UI Language,&quot; which means that it always matches the language of the JAWS interface. For example, an English version of JAWS will use English as its primary synthesizer language. A Spanish version will use Spanish as its primary synthesizer language. For more information, see Set Language as Primary in the <a href="../the_jaws_application_window/Voice_Adjustment.htm">Voice Adjustment</a> dialog box.</p>
+<p>To use a different primary language in the profile, do the following:</p>
+<ol>
+<li>Select a language in the Synthesizer Language combo box.</li>
+<li>Choose the &quot;Set Language as Primary&quot; button.</li>
+<li>Choose Yes if asked to change the primary language.</li>
+<li>Save the profile. JAWS now uses this selection as its primary language. It is also identified as &quot;primary&quot; in the Synthesizer Language combo box.</li>
+</ol>
+<h2><a name="RestoreProfile" id="RestoreProfile"></a>Restoring a Factory Voice Profile</h2>
+<p>To restore a default voice profile:</p>
+<ol>
+<li>Select the modified default voice profile in the Profile Name combo box, for example, Vocalizer Expressive.</li>
+<li>Choose the Delete Profile button and then Yes to delete the profile. JAWS switches to the first voice profile in the Profile Name combo box.</li>
+<li>Select the Profile Name combo box again, and the profile appears and is identified as “factory” in the list, for example, Vocalizer Expressive – (factory).</li>
+</ol>
+<h2><a name="DeleteProfile" id="DeleteProfile"></a>Deleting a Voice Profile</h2>
+<p>To delete a voice profile, do the following:</p>
+<ol>
+<li>Press <strong>INSERT+J</strong> to make the JAWS window active.</li>
+<li>Press <strong>ALT+O</strong> to open the Options menu, Press <strong>V</strong> to choose the Voices submenu, and then press <strong>ENTER</strong> to open the Voice Adjustment dialog box.</li>
+<li>In the Profile Name combo box, select the voice profile that you want to delete.</li>
+<li>Choose Delete Profile and then Yes to delete the profile. JAWS switches to the first voice profile in the Profile Name combo box.
+<p class="Tip-Note-Text"><strong>Note:</strong> You cannot delete a default voice profile that is labeled as “factory,” for example, Eloquence - (factory) or Vocalizer Expressive - (factory).</p>
+</li>
+<li>Select another voice profile in the Profile Name combo box, or choose OK to close the dialog box.</li>
+</ol>
+<h2>Selecting a Voice Profile for an Application</h2>
+<p>To select a voice profile for an application, do the following:</p>
+<ol>
+<li>Make sure that JAWS focus is in the application and then press <strong>INSERT+CTRL+S</strong> to open the Select a Voice Profile dialog box. It contains a combo box labeled Default, which assigns a voice profile that is used globally by JAWS, and the For &lt;application name&gt; combo box, which assigns a voice profile for a specific application.</li>
+<li>If JAWS focus is in the Default combo box, press <strong>TAB</strong> to move to the For combo box.</li>
+<li>Press <strong>UP ARROW</strong> or <strong>DOWN ARROW</strong> to scroll through the list of voice profiles, and then press <strong>ENTER</strong> to select a voice profile. The dialog box closes and JAWS now uses the selected profile for the open application.</li>
+</ol>
+<p class="Tip-Note-Text"><strong>Note:</strong> If you select Use Default, which is the first item in the combo box list, JAWS will use the same voice profile currently selected in the Default combo box for the current application.</p>
+<p><i style="font-style: italic;">Related Topics:</i></p>
+<p><a href="../the_jaws_application_window/Voice_Adjustment.htm">Voice Profile Adjustment Settings</a></p>
+<div style="text-align: center;">
+<table cellspacing="3" width="100%" align="center">
+<tbody><tr>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p style="text-align: left; margin-bottom: 0;"><a href="javascript:window.history.go(-1);" accesskey="b">Back</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="../the_jaws_application_window/Voice_Adjustment.htm" accesskey="x">Next</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>

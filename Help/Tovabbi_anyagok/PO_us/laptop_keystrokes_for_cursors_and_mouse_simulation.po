@@ -1,0 +1,200 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\laptop_keystrokes_for_cursors_and_mouse_simulation.htm+html.head.title:12-1"
+msgid "Laptop Keystrokes for Cursors and Mouse Simulation"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\laptop_keystrokes_for_cursors_and_mouse_simulation.htm+html.body.h1:17-1"
+msgid "Laptop Keystrokes for Cursors and Mouse Simulation"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table[summary]:18-1
+msgid "Laptop Cursor and Mouse Commands"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.th:20-1
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.th:21-1
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:24-1
+msgid "PC Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:25-1
+msgid ""
+"<b style=\"font-weight: bold;\">CAPS LOCK+SEMICOLON</b> (press twice quickly if the Touch Cursor is currently "
+"active)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:28-1
+msgid "JAWS Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:29-1
+msgid "CAPS LOCK+P"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:32-1
+msgid "Invisible Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:33-1
+msgid "<b style=\"font-weight: bold;\">CAPS LOCK+P</b> twice quickly"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:36-1
+msgid "Touch Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:37-1
+msgid "SHIFT+CAPS LOCK+SEMICOLON"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:40-1
+msgid "Route Touch Cursor to Focus Location"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:41-1
+msgctxt "HTM_po_nelkul\\laptop_keystrokes_for_cursors_and_mouse_simulation.htm+html.body.table.tbody.tr.td:41-1"
+msgid "CAPS LOCK+APOSTROPHE"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:44-1
+msgid "Route PC Cursor to JAWS Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:45-1
+msgctxt "HTM_po_nelkul\\laptop_keystrokes_for_cursors_and_mouse_simulation.htm+html.body.table.tbody.tr.td:45-1"
+msgid "CAPS LOCK+APOSTROPHE"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:48-1
+msgid "Route JAWS Cursor to PC Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:49-1
+msgid "CAPS LOCK+LEFT BRACKET"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:52-1
+msgid "Restrict JAWS Cursor or Virtual PC Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:53-1
+msgid "CAPS LOCK+R"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:56-1
+msgid "Left Mouse Button"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:57-1
+msgid "CAPS LOCK+8"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:60-1
+msgid "Right Mouse Button"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:61-1
+msgid "CAPS LOCK+9"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:64-1
+msgid "Left Mouse Button Lock"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:65-1
+msgid "CTRL+WINDOWS Key+8"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:68-1
+msgid "Right Mouse Button Lock"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:69-1
+msgid "CTRL+WINDOWS Key+9"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:72-1
+msgid "Drag and Drop"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:73-1
+msgid "CAPS LOCK+SHIFT+8"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:76-1
+msgid "Say Active Cursor"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:77-1
+msgid "ALT+DELETE"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:80-1
+msgid "Mouse Down"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:81-1
+msgid "<b style=\"font-weight: bold;\">ALT+SHIFT+DOWN ARROW</b> (when the JAWS Cursor is active)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:84-1
+msgid "Mouse Left"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:85-1
+msgid "<b style=\"font-weight: bold;\">ALT+SHIFT+LEFT ARROW</b> (when the JAWS Cursor is active)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:88-1
+msgid "Mouse Right"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:89-1
+msgid "<b style=\"font-weight: bold;\">ALT+SHIFT+RIGHT ARROW</b> (when the JAWS Cursor is active)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:92-1
+msgid "Mouse Up"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.table.tbody.tr.td:93-1
+msgid "<b style=\"font-weight: bold;\">ALT+SHIFT+UP ARROW</b> (when the JAWS Cursor is active)"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.p:96-1
+msgid "Additional Notes"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.div.table.tbody.tr.td.p:101-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Claptop_keystrokes_for_cursors_and_mouse_simulation.htm%2Bhtml.body.div.table.tbody.tr.td.p:105-1
+msgid "Next"
+msgstr ""

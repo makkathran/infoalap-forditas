@@ -1,0 +1,115 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-25 14:59+0200\n"
+"PO-Revision-Date: 2025-04-02 10:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr "hu"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.head.title:5-1
+msgctxt "Main\\convert\\system_requirements.htm+html.head.title:5-1"
+msgid "System Recommendations"
+msgstr "Rendszerajánlások"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.h1:9-1
+msgctxt "Main\\convert\\system_requirements.htm+html.body.h1:9-1"
+msgid "System Recommendations"
+msgstr "Rendszerajánlások"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.p:10-1
+msgid "The system recommendations for JAWS are listed below."
+msgstr "A rendszerajánlások a JAWS-hoz az alábbiakban találhatók."
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table[summary]:12-1
+msgid "Software and hardware specifications for JAWS."
+msgstr "A JAWS szoftver- és hardver-specifikációi."
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.th:14-1
+msgid "Description"
+msgstr "Leírás"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.th:15-1
+msgid "Specification"
+msgstr "Megnevezés"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.th:18-1
+msgid "Operating System (64-bit)"
+msgstr "Operációs rendszer (64 bites)"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.td:19-1
+msgid ""
+"Windows® 11, Windows 10, Windows Server® 2025, Windows Server 2022, Windows "
+"Server 2019, and Windows Server 2016<br /> JAWS supports the x64 "
+"architecture for all operating systems.<br /> JAWS provides additional "
+"support for the ARM64 architecture on Windows 11 operating systems."
+msgstr ""
+"Windows® 11, Windows 10, Windows Server® 2025, Windows Server 2022, Windows "
+"Server 2019 és Windows Server 2016<br /> A JAWS minden operációs rendszer "
+"esetében támogatja az x64 architektúrát.<br /> A JAWS további támogatást "
+"nyújt az ARM64 architektúrához a Windows 11 operációs rendszereken."
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.th:24-1
+msgid "Processor speed"
+msgstr "Processzor sebesség"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.td:25-1
+msgid "2.0 GHz i5 dual core or higher processor recommended"
+msgstr "2.0 GHz-es, kétmagos i5 vagy gyorsabb processzor ajánlott"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.th:28-1
+msgid "Memory (RAM)"
+msgstr "Memória (RAM)"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.td:29-1
+msgid "16 GB or more recommended"
+msgstr "16 GB vagy több ajánlott"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.th:32-1
+msgid "Required hard disk space"
+msgstr "Szabad lemezterület"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.td:33-1
+msgid ""
+"2 GB with more space required for additional voices<br /> SSD drive "
+"recommended"
+msgstr ""
+"2 GB, további hangokhoz több hely szükséges<br /> SSD meghajtó ajánlott"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.th:37-1
+msgid "Video"
+msgstr "Videoadapter"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.td:38-1
+msgid ""
+"Video/Graphics card with support for DirectX 9 or later with WDDM 1.0 "
+"driver<br /> 1024x768 display resolution"
+msgstr ""
+"Video/grafikus kártya DirectX 9 vagy újabb támogatással és WDDM 1.0 "
+"illesztőprogrammal<br /> 1024x768 felbontású kijelző"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.th:42-1
+msgid "Sound"
+msgstr "Hangkártya"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.table.tbody.tr.td:43-1
+msgid "Windows compatible sound card (for speech)"
+msgstr "Windows kompatibilis hangkártya (a beszédhez)"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.div.table.tbody.tr.td.p:51-1
+msgid "Back"
+msgstr "Vissza"
+
+#: Main%5Cconvert%5Csystem_requirements.htm%2Bhtml.body.div.table.tbody.tr.td:56-1
+msgid "Next"
+msgstr "Következő"

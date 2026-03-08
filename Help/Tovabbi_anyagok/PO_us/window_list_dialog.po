@@ -1,0 +1,108 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.head.title:12-1
+msgid "Window List dialog"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.h1:17-1
+msgid "Window List Dialog Box"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.p:18-1
+msgid ""
+"This topic documents the settings available in the Window List dialog box "
+"(also known as the JAWS Task List). This dialog allows you to switch between "
+"running applications. To access this dialog, press <b>INSERT+F10</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.h2:19-1
+msgid "Running Applications"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.p:20-1
+msgid ""
+"This list box lists the running applications that are displayed on the task "
+"bar. The window state of each application is also listed. The window state "
+"will be minimized, restored, or maximized. You can select an application "
+"from the list and press <b>ENTER</b> to switch to that application. Press "
+"<b>DELETE</b> on an application to close it."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.h2:21-1
+msgid "Only Include On Top Windows"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.p:22-1
+msgid ""
+"Select this check box to make it easier to interact with topmost windows, "
+"often referred to as On Top windows. These are application windows that pop "
+"up, without gaining focus or being in the <strong>ALT+TAB</strong> order. "
+"These are often found with firewall or antivirus programs and are intended "
+"to interrupt and provide information that must be acted on before "
+"continuing. You cannot minimize them or press <strong>ALT+TAB</strong> to "
+"move focus to another application."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.p:23-1
+msgid ""
+"When this check box is selected, the On Top windows are included in the JAWS "
+"Task List so that you can check to see if one of these windows is present. "
+"If it is, you can switch focus to the window from the Window List dialog box "
+"using the Switch To button. You can quickly identify On Top windows in the "
+"Window List because they include the term \"On Top\" in the name."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.h2:24-1
+msgid "Switch To"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.p:25-1
+msgid ""
+"This button allows you to switch to the application selected in the Running "
+"Applications list box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.h2:26-1
+msgid "Cancel"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.p:27-1
+msgid ""
+"This button allows you to exit the Window List dialog box without switching "
+"to a different application."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.h2:28-1
+msgid "About"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.p:29-1
+msgid ""
+"This button allows you to view a dialog containing copyright information for "
+"the Window List dialog box."
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.div.table.tbody.tr.td.p:35-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cwindow_list_dialog.htm%2Bhtml.body.div.table.tbody.tr.td:40-1
+msgid "Next"
+msgstr ""

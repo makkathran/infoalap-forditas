@@ -1,0 +1,390 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.head.title:12-1
+msgid "Frame Properties Dialog Box"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.h1:17-1
+msgid "Frame Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:18-1
+msgid ""
+"The Frame Properties Dialog is a multi-page dialog box. Use this dialog to "
+"modify general settings, validation rules, events, or to fine tune a frame's "
+"position and size."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:19-1
+msgid ""
+"To access the properties for a frame, press <b>INSERT+F2</b> to open the Run "
+"JAWS Manager dialog. Select Frame Viewer from the list and press <b>ENTER</b>. "
+"<b>TAB</b> to the frame and press <b>ALT+ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:20-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.p:20-1"
+msgid "General Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:21-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.p:21-1"
+msgid "Validation Rules Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:22-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.p:22-1"
+msgid "Events Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:23-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.p:23-1"
+msgid "Position Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.h2:24-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.h2:24-1"
+msgid "General Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:25-1
+msgid ""
+"The General page of the Frame Properties dialog contains basic settings. Many "
+"of these settings contain the information entered when a frame is created. Use "
+"this page to modify those settings you feel you need to change after you have "
+"created your frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:26-1
+msgid ""
+"<b style=\"font-weight: bold;\">Frame Name</b>: Lists the name you assigned "
+"when you created your frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:27-1
+msgid ""
+"<b style=\"font-weight: bold;\">Synopsis and Description</b>: Lists "
+"information that is used in Keyboard Help, <b>INSERT+1</b>, when you press the "
+"keystroke assigned to your frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:28-1
+msgid ""
+"<b style=\"font-weight: bold;\">Prompts - Spoken, Brailled, Tutor</b>: Lists "
+"information for frames used to provide prompt information for controls."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:29-1
+msgid ""
+"<b style=\"font-weight: bold;\">Keystroke</b>: Lists the keystroke which "
+"activates the On Frame Key event for the frame, causing any assigned actions "
+"to take place. If you copy a frame from another version of JAWS, or from "
+"another computer running JAWS, you need to reassign this keystroke."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:30-1
+msgid ""
+"<b style=\"font-weight: bold;\">Priority</b>: Sets the relative priority of "
+"frames. This is useful when you have multiple frames within the same area of "
+"an application as it allows you to determine which one takes precedence over "
+"the others. The lower the value, the higher the priority."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.h2:31-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.h2:31-1"
+msgid "Validation Rules Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:32-1
+msgid ""
+"The Validation Rules page of the Frame Properties dialog contains a list of "
+"the rules used to determine when the frame is active. The rules compare "
+"information from your application with information specified when the frame "
+"was created. The order in which rules are listed is the order in which they "
+"are processed."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:33-1
+msgid ""
+"The list specifies if the rule is on or off, the type of rule, the comparison "
+"type, and the value being compared."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.th.p:37-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.th.p:37-1"
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.th.p:40-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.th.p:40-1"
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:45-1
+msgid "Create Rule"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:48-1
+msgid "ALT+A"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:53-1
+msgid "Toggle Rule on/off"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:56-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:56-1"
+msgid "SPACEBAR"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:61-1
+msgid "Modify Rule"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:64-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:64-1"
+msgid "ALT+ENTER"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:69-1
+msgid "Move Rule up"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:72-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:72-1"
+msgid "ALT+UP ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:77-1
+msgid "Move Rule Down"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:80-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:80-1"
+msgid "ALT+DOWN ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:85-1
+msgid "Edit Comparison Value"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:88-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:88-1"
+msgid "F2"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:92-1
+msgid ""
+"When you select to create or modify a rule, a series of dialogs prompts you "
+"through each of the settings for the rule. Select Next after choosing each "
+"setting, and select Finish when you have completed all the dialogs. For more "
+"information, refer to <a href=\"rules.htm\">Validation Rules</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.h2:93-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.h2:93-1"
+msgid "Events Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:94-1
+msgid ""
+"The Events page of the Frame Properties dialog contains a list of the frame "
+"events set for the current frame. Events specify what your frame does, and "
+"what system activity causes it to do it. Events are things that happen in the "
+"application. Actions are assigned to them in this dialog so they take place "
+"whenever the event occurs. The order in which events are listed is the order "
+"in which they take place."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.th.p:98-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.th.p:98-1"
+msgid "Description"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.th.p:101-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.th.p:101-1"
+msgid "Command"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:106-1
+msgid "Create Event"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:109-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:109-1"
+msgid "F2"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:114-1
+msgid "Modify Event"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:117-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:117-1"
+msgid "ALT+ENTER"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:122-1
+msgid "toggle Event on/off"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:125-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:125-1"
+msgid "SPACEBAR"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:130-1
+msgid "Move Event Up"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:133-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:133-1"
+msgid "ALT+UP ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:138-1
+msgid "Move Event Down"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.table.tbody.tr.td.p:141-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.table.tbody.tr.td.p:141-1"
+msgid "ALT+DOWN ARROW"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:145-1
+msgid ""
+"When you select to create or modify an event, a series of dialogs prompts you "
+"through each of the settings for the event. Select Next after choosing each "
+"setting, and select Finish when you have completed all the dialogs. If you are "
+"assigning multiple actions to the same type of event, after completing the "
+"dialogs, <b>TAB</b> past the Finish button and select the Add Another Event "
+"button. You are returned to the Actions dialog where you can assign another "
+"action to the event. The Events Properties dialog lists an event for each "
+"action you assign, and they are in the order you added the actions."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:146-1
+msgid "For more information, refer to <a href=\"events.htm\">Frame Events</a>."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.h2:147-1
+msgctxt "HTM_po_nelkul\\frame_properties.htm+html.body.h2:147-1"
+msgid "Position Properties"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:148-1
+msgid ""
+"Use the Position page of the Frame Properties dialog box to specify exactly "
+"where you want the frame. The fields in this dialog are automatically filled "
+"out when you create the frame, so use these fields to tweak the exact position "
+"of your frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:149-1
+msgid "The first group of radio buttons has two choices:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.ul.li:151-1
+msgid "Distance from Left Side of Window"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.ul.li:152-1
+msgid "Distance from Right Side of Window"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:154-1
+msgid ""
+"Press <b>TAB</b> to move to the Distance edit field. Specify the distance in "
+"pixels (measured either from the left or right side of the window as specified "
+"by the radio buttons)."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:155-1
+msgid ""
+"Press <b>TAB</b> to move to the Width edit field. This field specifies the "
+"exact width of the frame in pixels. This field automatically updates as you "
+"change the distance of the frame from the left or right side of the window."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:156-1
+msgid ""
+"The second group of radio buttons is similar to the first. It also contains "
+"two choices:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.ul.li:158-1
+msgid "Distance from Top of Window"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.ul.li:159-1
+msgid "Distance from Bottom of Window"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:161-1
+msgid ""
+"This group of radio buttons also has an edit field for the exact distance from "
+"top or bottom, and there is an edit field to specify the height of the frame. "
+"Navigate these fields in the same way as the ones discussed above."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:162-1
+msgid ""
+"Use the third group of radio buttons to specify whether you want the frame to "
+"be relative to the window or the screen. As you switch between these two "
+"choices, the choices above change to be relative to the screen or window. For "
+"example, if you choose relative to screen, the choices above change to state "
+"the frame’s distance from the left of the screen, instead of distance from the "
+"left of the window."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:163-1
+msgid ""
+"We recommend you set your frames relative to the Window for most situations. "
+"If you transfer frame files to another computer using a different screen "
+"resolution, your frame is more likely to work if it is set relative to the "
+"Window. Additionally, frames are usually designed specifically for one window; "
+"therefore they should be relative to that window."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:164-1
+msgid ""
+"The Lock to DPI check box allows you to specify that a frame will only be "
+"active at the DPI (Dots Per Inch) setting at which it was created."
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:165-1
+msgid "For more information on positioning frames, refer to:"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:166-1
+msgid "Moving Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.p:167-1
+msgid "Resizing Frames"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.div.table.tbody.tr.td.p:173-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Cframe_properties.htm%2Bhtml.body.div.table.tbody.tr.td.p:179-1
+msgid "Next"
+msgstr ""

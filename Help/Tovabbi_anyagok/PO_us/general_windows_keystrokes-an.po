@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\general_windows_keystrokes-an.htm+html.head.title:12-1"
+msgid "Additional Notes on General Windows Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\general_windows_keystrokes-an.htm+html.body.h1:17-1"
+msgid "Additional Notes on General Windows Keystrokes"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.h2:18-1
+msgid "Get Help (F1)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.p:19-1
+msgid "This keystroke brings up help for the active application."
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.h2:20-1
+msgid "Switch between Open Applications (ALT+TAB)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.p:21-1
+msgid ""
+"If pressed once, this keystroke switches focus to the open application that "
+"was last used prior to the current application being used. To cycle through "
+"open applications to find the one you want, hold down <b>ALT</b> and press "
+"and release <b>TAB</b> until you find it. Then release both keys. The "
+"<b>ALT+TAB</b> \"switch to\" order is determined by the order in which "
+"applications have last been used, not by the order in which they were "
+"originally opened."
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.h2:22-1
+msgid "Open the Shortcut Menu (APPLICATION KEY or SHIFT+F10)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.p:23-1
+msgid ""
+"This keystroke brings up a shortcut menu (context menu) for the item that "
+"has the PC Cursor focus."
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.h2:24-1
+msgid "Minimize all Windows (WINDOWS KEY+M)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.p:25-1
+msgid ""
+"Some dialog boxes cannot be minimized. Using this keystroke with a dialog "
+"box of this type open can result in the system focus being on the Windows "
+"Desktop with most of the Desktop covered by the dialog box - preventing JAWS "
+"from reading the desktop items properly."
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.h2:26-1
+msgid "Move to First Item on the Taskbar (WINDOWS KEY+TAB)"
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.p:27-1
+msgid ""
+"This keystroke moves focus to the first item on the taskbar, but does not "
+"open that application."
+msgstr ""
+
+#: HTM_po_nelkul%5Cgeneral_windows_keystrokes-an.htm%2Bhtml.body.div.table.tbody.tr.td.p:32-1
+msgid "Back"
+msgstr ""

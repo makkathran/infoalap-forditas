@@ -1,0 +1,239 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\rules.htm+html.head.title:12-1"
+msgid "Validation Rules"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\rules.htm+html.body.h1:17-1"
+msgid "Validation Rules"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:18-1
+msgid ""
+"Validation Rules are the criteria used to determine when frames are active. "
+"These rules compare information within your application to information "
+"specified within the rule. To ensure a frame is active when it is supposed "
+"to be, ensure its Validation Rules are set for conditions that are met "
+"within the area of the application where you want to use the frame."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:19-1
+msgid ""
+"When you open Frame Viewer, only active frames are displayed. Validation "
+"Rules ensure your frames are only active where they are to be used. If your "
+"Validation Rules are too general, your frames will be active in too many "
+"places and may speak useless information. If your Validation Rules are too "
+"specific, your frames may not work when you need them."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:20-1
+msgid "There are three components of any Validation Rule:"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:21-1
+msgid ""
+"<b style=\"font-weight: bold;\">Information Types</b>: The types of "
+"information found in your applications that are used to determine if frames "
+"are active or inactive."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:22-1
+msgid ""
+"<b style=\"font-weight: bold;\">Comparison Types</b>: The types of "
+"comparisons made between the information types found in your applications "
+"and the comparison values you specify."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:23-1
+msgid ""
+"<b style=\"font-weight: bold;\">Comparison Values</b>: The values you "
+"specify that are compared with the information types found in your "
+"applications."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:24-1
+msgctxt "HTM_po_nelkul\\rules.htm+html.body.p:24-1"
+msgid "Information Types"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:25-1
+msgctxt "HTM_po_nelkul\\rules.htm+html.body.p:25-1"
+msgid "Comparison Types"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:26-1
+msgctxt "HTM_po_nelkul\\rules.htm+html.body.p:26-1"
+msgid "Comparison Values"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.h2:27-1
+msgctxt "HTM_po_nelkul\\rules.htm+html.body.h2:27-1"
+msgid "Information Types"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:28-1
+msgid ""
+"Validation Rules are based on types of information found in your application."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:29-1
+msgid ""
+"<b style=\"font-weight: bold;\">Window Title</b>: Window titles are the text "
+"contained within the title bars of application windows or dialog boxes. "
+"Window titles can change within applications where files can be opened. For "
+"example, the title of the open document is displayed in the title bar of "
+"Microsoft Word. If you want a frame to be active within Word no matter which "
+"file you have opened, you need to take this into account when you set up a "
+"Validation Rule based on window titles."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:30-1
+msgid ""
+"<b style=\"font-weight: bold;\">Window Class</b>: Window classes are "
+"programming level labels assigned to every control and window. To verify the "
+"window class for a control or window, move focus to it and press "
+"<b>CTRL+INSERT+F1</b>. The \"Class\" line reports the window class.<br /> "
+"Window classes usually do not change, so Validation Rules based on them "
+"usually work well. However, there are applications in which window classes "
+"are generated dynamically, and in these applications, the window class for a "
+"control or window can be different each time you reopen the application. "
+"Some applications also use different window classes from version to version."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:32-1
+msgid ""
+"<b style=\"font-weight: bold;\">Window Text</b>: Window text is text that "
+"appears within a window. When you use this rule, JAWS searches the entire "
+"window for the text to determine if your frame is active.<br /> We recommend "
+"always using other Validation Rules with this one and giving them higher "
+"priority so frames are more quickly recognized as inactive within those "
+"areas of your application where they are not used."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:34-1
+msgid ""
+"<b style=\"font-weight: bold;\">Frame Text</b>: Frame text is text that "
+"appears within the borders of the frame. When you use this rule, JAWS "
+"searches the text within the borders of the frame for the text to determine "
+"if your frame is active. We recommend taking the same precautions with this "
+"type of rule as with rules based on window text."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.h2:35-1
+msgctxt "HTM_po_nelkul\\rules.htm+html.body.h2:35-1"
+msgid "Comparison Types"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:36-1
+msgid ""
+"Validation rules compare information from the current application or screen "
+"with information values you specify. You also specify the type of comparison "
+"the rule makes. The following comparison types are available."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:37-1
+msgid ""
+"<b style=\"font-weight: bold;\">Is</b>: The value you specify must exactly "
+"match the information within the application for the rule to validate."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:38-1
+msgid ""
+"<b style=\"font-weight: bold;\">Is Not</b>: The rule will validate unless "
+"there is an exact match between the value you specify and the information in "
+"the application."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:39-1
+msgid ""
+"<b style=\"font-weight: bold;\">Contains</b>: The rule will validate if the "
+"information in the application contains the value you specify."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:40-1
+msgid ""
+"<b style=\"font-weight: bold;\">Does Not Contain</b>: The rule will validate "
+"unless the information in the application contains the value you specify."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.h2:41-1
+msgctxt "HTM_po_nelkul\\rules.htm+html.body.h2:41-1"
+msgid "Comparison Values"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:42-1
+msgid ""
+"Comparison values are specified in your Validation Rules and compared to the "
+"information types found in your applications. These comparisons are based on "
+"the comparison types you have specified."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:43-1
+msgid ""
+"When deciding on what values to specify for comparisons, it is important to "
+"consider the information type, the comparison type, and how your frame is to "
+"be used."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:44-1
+msgid ""
+"For example, in some dialogs in Microsoft Word 2000, all controls use the "
+"window class, \"bosa_sdm_Microsoft Word 9.0.\" If the frame is only to be "
+"used in this version of Word, a window class based rule using the comparison "
+"value of Is would work fine with the full window class specified as the "
+"comparison value. However, if you wished to use the same frame in Word 97 as "
+"well, you need to be aware that the window class in that version of Word is "
+"slightly different. It is, \"bosa_sdm_Microsoft Word 8.0.\" To make the "
+"frame work in both versions of Word, you need to do one of two things:"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.ul.li:46-1
+msgid ""
+"Add a second comparison value of \"bosa_sdm_Microsoft Word 8.0\" to the "
+"rule. The advantage of this is that you do not need to modify any other part "
+"of your rule. Both values are compared to the actual window class and if "
+"either of them match, the rule is validated."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.ul.li:47-1
+msgid ""
+"Change the comparison type in the rule to Contains, and change the "
+"comparison value to \"bosa_sdm_Microsoft Word\" in the rule. Since both "
+"versions of Word use a window class that contains this information, the rule "
+"will validate."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.p:49-1
+msgid ""
+"<b style=\"font-weight: bold;\">Tip</b>: To quickly change a comparison "
+"value, move to the Validation Rules page of a Frame's properties, select the "
+"rule in the list, and press <b>F2</b>. Type in the new value to be compared "
+"to the information in your application and press <b>ENTER</b>."
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.div.table.tbody.tr.td.p:55-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5Crules.htm%2Bhtml.body.div.table.tbody.tr.td.p:61-1
+msgid "Next"
+msgstr ""

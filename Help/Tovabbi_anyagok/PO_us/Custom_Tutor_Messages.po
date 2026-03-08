@@ -1,0 +1,66 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-05 10:03+0200\n"
+"PO-Revision-Date: 2026-03-05 11:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: HTM_po_nelkul%5CCustom_Tutor_Messages.htm%2Bhtml[lang]:3-1
+msgid "en"
+msgstr ""
+
+#: HTM_po_nelkul%5CCustom_Tutor_Messages.htm%2Bhtml.head.title:12-1
+msgctxt "HTM_po_nelkul\\Custom_Tutor_Messages.htm+html.head.title:12-1"
+msgid "Custom Tutor Messages"
+msgstr ""
+
+#: HTM_po_nelkul%5CCustom_Tutor_Messages.htm%2Bhtml.body.h1:17-1
+msgctxt "HTM_po_nelkul\\Custom_Tutor_Messages.htm+html.body.h1:17-1"
+msgid "Custom Tutor Messages"
+msgstr ""
+
+#: HTM_po_nelkul%5CCustom_Tutor_Messages.htm%2Bhtml.body.p:18-1
+msgid ""
+"The Prompt Creator dialogs can be used to create custom Tutor messages. Even "
+"if you don't want to change a control's prompt, you can still add a Tutor "
+"message that provides you tips to remind you of the purpose of a control."
+msgstr ""
+
+#: HTM_po_nelkul%5CCustom_Tutor_Messages.htm%2Bhtml.body.p:19-1
+msgid ""
+"When you create a Prompt, the field for specifying a spoken prompt initially "
+"contains what JAWS believes the prompt is. If you do not change this, and "
+"select the Next button, the prompt to be displayed in Braille contains this "
+"same information. If you select Next without changing this, you can add the "
+"Tutor message you wish to use without modifying the spoken or Brailled "
+"prompt for the control."
+msgstr ""
+
+#: HTM_po_nelkul%5CCustom_Tutor_Messages.htm%2Bhtml.body.p:20-1
+msgid ""
+"Tutor messages are a great tool for familiarizing yourself with windows and "
+"applications. If you no longer need these messages, you can turn them off, "
+"but still hear the custom Tutor messages you have added. In the JAWS "
+"application window, Options, Basic Settings, set the Tutor Messages group of "
+"radio buttons to Announce Custom Messages Only. And if you wish to hear "
+"Tutor messages for menus and controls, as well as the custom Tutor messages "
+"you have added, just leave this group of radio buttons set to Announce Menu "
+"and Control Help. However, you cannot choose to hear both a custom Tutor "
+"message and a default Tutor message for the same control."
+msgstr ""
+
+#: HTM_po_nelkul%5CCustom_Tutor_Messages.htm%2Bhtml.body.div.table.tbody.tr.td.p:26-1
+msgid "Back"
+msgstr ""
+
+#: HTM_po_nelkul%5CCustom_Tutor_Messages.htm%2Bhtml.body.div.table.tbody.tr.td.p:32-1
+msgid "Next"
+msgstr ""
