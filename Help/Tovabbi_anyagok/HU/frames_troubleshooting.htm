@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta charset="UTF-8" content=""/>
+<meta name="topic-status" content="In Progress"/>
+<meta name="topic-priority" content="0"/>
+<meta name="topic-time-estimate" content="0"/>
+<meta name="topic-comment" content=""/>
+<meta name="topic-id" content=""/>
+<meta name="window-type" content="$Global_NewWindow"/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Keretek – hibaelhárítás</title>
+<link rel="StyleSheet" href="../../assets/css/default.css" type="text/css"/>
+
+<meta name="rh-index-keywords" content="Keretek:Hibaelhárítás,Hibaelhárítás:Keretek"/></head>
+<body>
+<h1>Keretek – hibaelhárítás</h1>
+<p>A keretek létrehozása és a végrehajtani kívánt műveletekre való konfigurálása egy egyszerű lépésekből álló folyamat. Előfordulhat azonban, hogy a keretek nem az elvárásoknak megfelelően, illetve egyáltalán nem működnek. Ez a témakör számos olyan hibahelyzetet ismertet, amelyek a keretek használata során előfordulhatnak, továbbá hasznos tippeket nyújt megoldásukhoz.</p>
+<p>A témakör az alábbi esetekre ad megoldási javaslatokat:</p>
+<ul>
+<li><a href="#inactive">A keret inaktív azon a helyen, ahol használni szeretné</a></li>
+<li><a href="#active">A keret aktív egy olyan helyen, ahol nem szeretné használni</a></li>
+<li><a href="#noaction">A keret nem hajtja végre a beállított műveleteket</a></li>
+<li><a href="#actions">A keret a kívántnál gyakrabban hajt végre műveleteket</a></li>
+<li><a href="#brl_refresh">A Braille kijelzőre küldött adatok frissítése nem megfelelő</a></li>
+<li><a href="#no_braille">A Braille kijelzőn nem jelennek meg az adatok</a></li>
+</ul>
+<h2><a name="inactive" id="inactive"></a>A keret inaktív azon a helyen, ahol használni szeretné</h2>
+<p>Ha a <a data-glossterm="keret" class="glossterm">keret</a> inaktív, amikor Ön szerint aktívnak kellene lennie, illetve akkor, amikor a Keretmegjelenítőt megnyitja, ellenőrizze, hogy a Keretmegjelenítőt a keret létrehozási helyéről nyitotta-e meg. Valamennyi keret alkalmazásfüggő; az egyes keretek csak abban az alkalmazásban használhatók, ahol azokat létrehozta, más alkalmazásokban nem.</p>
+<p>Ha a Keretmegjelenítő megnyitásakor a keretek inaktívak, akkor nem lehet a keretekre lépni.</p>
+<ol>
+<li>A <b style="font-weight: bold;">TAB</b> billentyű segítségével lépjen a Keretek listája gombra, és nyomja le a <b>SZÓKÖZ</b> billentyűt.</li>
+<li>Lépjen a használni kívánt keretre, és nyomja le az <b>ALT+R</b> billentyűkombinációt a keret jellemzőit bemutató párbeszédpanel megnyitásához.</li>
+</ol>
+<p>Keret létrehozásakor két ellenőrzési szabály kerül beállításra. Az egyik szabály az ablak címsorára vonatkozik: tartalmaznia kell azt a szöveget, amelyet a keret létrehozásakor tartalmazott. A másik szabály az ablakosztályra vonatkozik: tartalmaznia kell azt a szöveget, amelyet a keret létrehozásakor tartalmazott. Ellenőrizze, hogy ezek az adatok nem változtak-e meg az alkalmazásban, vagy valamelyik szabályt kapcsolja ki. A keret jellemzőit tartalmazó párbeszédpanel Ellenőrzési szabályok oldalán válassza ki az egyik szabályt a listából, és használja a <b>SZÓKÖZ</b> billentyűt a szabály ki- vagy bekapcsolásához.</p>
+<p>Adjon meg másik összehasonlítási értéket. A szabály akkor lesz érvényes, ha az értékek valamelyike megegyezik az alkalmazásban szereplő adatokkal.</p>
+<p>A változtatás típusát módosítsa egy kevésbé specifikus típusra, például Egyenlő helyett Tartalmazza típusra. Rövidítse az összehasonlítási értéket úgy, hogy csak nem módosuló szöveget tartalmazzon.</p>
+<h2><a name="active" id="active"></a>A keret aktív egy olyan helyen, ahol nem szeretné használni</h2>
+<p>Amennyiben a keret olyan helyen is aktív, ahol nem kívánja az adatokat felolvastatni, illetve nem szeretne más műveleteket végrehajtatni, akkor az ellenőrzési szabályok túl általánosak. Ellenőrizze a kerettel lefedni kívánt területen vagy területeken lévő ablak vagy ablakok címsorát (<b>INSERT+T</b> billentyűkombinációval), az ablakosztályt (CTRL+INSERT+F1 billentyűkombinációval), illetve a szöveget. Keressen olyan elemet, amely a területre vagy területekre egyedien jellemző. Ehhez az egyedi adathoz állítson be egy ellenőrzési szabályt.</p>
+<h2><a name="noaction" id="noaction"></a>A keret nem hajtja végre a beállított műveleteket</h2>
+<p>Valamennyi keret eseményeken alapszik. Győződjön meg róla, hogy az <a data-glossterm="esemény" class="glossterm">esemény</a> a kívánalmaknak megfelelően következik-e be. Csak az alábbi három eseménytípus válthat ki közvetlenül műveletet: a <a data-glossterm="fókusz" class="glossterm">fókusz</a> bekerülése a keret által határolt területre (On Focus), valamilyen új szöveg megjelenése a keret által határolt területen (On Text), valamint a hozzárendelt <a data-glossterm="billentyűparancs" class="glossterm">billentyűparancs</a> használata (On Frame Key). A negyedik eseménytípusnál (On Play Action) beállítható, hogy egy adott keretben egy bizonyos művelet kerüljön végrehajtásra egy másik esemény egy másik keretben való bekövetkeztének hatására.</p>
+<p>Hozzon létre néhány eseményt, hogy meggyőződhessen az események bekövetkeztéről. Hozzon létre egy On Focus eseményt a Szöveg felolvasása művelettel. Az eseményhez adja meg a &quot;Fókuszesemény&quot; szöveget. Végezzen egy hasonló próbát az On Text eseménytípussal is. Próbálja meg a műveletet az On Frame Key típusú eseményhez rendelni, adjon meg egy billentyűparancsot, majd ellenőrizze a működést.</p>
+<h2><a name="actions" id="actions"></a>A keret a kívántnál gyakrabban hajt végre műveleteket</h2>
+<p>Nem minden művelet a beállított keretesemények következtében kerül végrehajtásra, egyes műveletek a rendszeresemények vagy a <a data-glossterm="JAWS" class="glossterm">JAWS</a> szkripttámogatásának hatására kerülnek sorra. Ezeket a műveleteket többnyire a FocusChangeEvent, illetve a NewTextEvent típusú események kezdeményezik. A következőképpen győződhet meg arról, hogy a hibát valóban ez okozta-e: hozzon létre a keretben egy On Focus típusú eseményt Szkriptesemény felfüggesztése műveletet beállítva hozzá. Ha így a probléma nem oldható meg, hozzon létre egy On Text eseményt a Szkriptesemények felfüggesztése művelet beállításával.</p>
+<p>Az On Text esemény kiemelt szöveg szűrésére állítva végrehajtja a hozzárendelt műveletet valahányszor a kiemelt szöveg megváltozik – például, ha listamezőn halad végig. Próbálja ki az esemény hatókörének megváltoztatását, például azt, hogy az esemény csak akkor váltson ki műveletet, ha a fókusz a kereten belül, illetve akkor, ha a kereten kívül van.</p>
+<h2><a name="brl_refresh" id="brl_refresh">A Braille kijelzőre küldött adatok frissítése nem megfelelő</a></h2>
+<p>Amikor a Braille-műveletek valamelyikét használja az adatok Braille kijelzőre való küldéséhez, előfordulhat, hogy a kijelző nem megfelelően frissítődik a fókusz vezérlőelemekre való helyezése vagy más műveletek végrehajtása során. Ennek elkerüléséhez ellenőrizze, hogy a Fókuszban lévő vezérlőelem megjelenítése <a data-glossterm="jelölőnégyzet" class="glossterm">jelölőnégyzet</a> be van-e jelölve. A jelölőnégyzet megtalálható az Esemény módosítása és az Esemény hozzáadása párbeszédpanelen, azon a lapon, amely a Braille-műveletek hozzárendelése után jelenik meg.</p>
+<h2><a name="no_braille" id="no_braille">A Braille kijelzőn nem jelennek meg az adatok</a></h2>
+<p>Amennyiben egy keretet az adatok Braille kijelzőre való küldésére állít be, de az adatok nem jelennek meg, ellenőrizze, hogy részletező üzemmódot használ-e. A Braille-megjelenítéshez kapcsolódó keretműveletek nem működnek soronkénti mód használatakor, mivel ez az üzemmód a képernyőn megjelenő adatokat változtatás nélkül küldi a kijelzőre. A részletező üzemmódban a keretek segítségével beállítható, hogy csak a hasznosnak vélt adatok kerüljenek a Braille kijelzőre.</p>
+<p> </p>
+<div style="text-align: center;">
+<table cellspacing="3" width="100%" align="center">
+<tbody><tr style="vertical-align: top;">
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p style="text-align: left; margin-bottom: 0;"><a href="javascript:window.history.go(-1);" accesskey="v">Vissza</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="../Custom_List_View/Customizing_List_Views.htm" accesskey="k">Következő</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>

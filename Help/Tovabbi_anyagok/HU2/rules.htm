@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html lang="hu" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta charset="UTF-8" content=""/>
+<meta name="topic-status" content="In Progress"/>
+<meta name="topic-priority" content="0"/>
+<meta name="topic-time-estimate" content="0"/>
+<meta name="topic-comment" content=""/>
+<meta name="topic-id" content="customizing_jaws_for_windows\Frame_Viewer\rules.htm"/>
+<meta name="window-type" content="$Global_NewWindow"/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Ellenőrző szabályok</title>
+<link rel="StyleSheet" href="../../assets/css/default.css" type="text/css"/>
+
+<meta name="rh-index-keywords" content="Ellenőrző szabályok,Keretek:Ellenőrző szabályok"/></head>
+<body>
+<h1>Ellenőrző szabályok</h1>
+<p>Az ellenőrző szabályok azok a feltételek, amelyek meghatározzák, hogy mikor aktívak a keretek. Ezek a szabályok összehasonlítják az alkalmazásból kapott információkat a szabályban meghatározott információkkal. Annak biztosítására, hogy egy <a data-glossterm="keret" class="glossterm">keret</a> akkor legyen aktív, amikor szükség van rá, győződjön meg arról, hogy a keret ellenőrző szabályai az alkalmazás azon területének megfelelően vannak beállítva, ahol a keretet használni kívánja.</p>
+<p>Amikor megnyitja a Keretmegjelenítőt, csak az aktív keretek jelennek meg. Az ellenőrző szabályok biztosítják, hogy a keretek csak akkor legyenek aktívak, amikor szükség van rájuk. Ha az ellenőrző szabályok túl általánosak, akkor a keretek túl sok helyen lesznek aktívak, és haszontalan információkat olvashatnak fel. Ha viszont túl specifikusak, előfordulhat, hogy a keretek nem működnek, amikor szükség lenne rájuk.</p>
+<p>Minden ellenőrző szabálynak három összetevője van:</p>
+<p><b style="font-weight: bold;">Információtípusok</b>: Az alkalmazásokban található azon információtípusok, amelyek a keretek aktivitásának vagy inaktivitásának meghatározására használhatók.</p>
+<p><b style="font-weight: bold;">Összehasonlítási típusok</b>: Az alkalmazásokban található információtípusok és a megadott összehasonlítási értékek között végrehajtható összehasonlítások típusai.</p>
+<p><b style="font-weight: bold;">Összehasonlítási értékek</b>: Az alkalmazásban található információkkal összehasonlítandó, felhasználó által megadott értékek.</p>
+<p><a href="#_Information_Types">Információtípusok</a></p>
+<p><a href="#_Comparison_Types">Összehasonlítási típusok</a></p>
+<p><a href="#_Comparison_Values">Összehasonlítási értékek</a></p>
+<h2><a id="_Information_Types"></a>Információtípusok</h2>
+<p>Az ellenőrző szabályok az alkalmazásban található információtípusokon alapulnak.</p>
+<p><b style="font-weight: bold;">Ablak címsora</b>: Az ablak címsora az a szöveg, amely az alkalmazásablak vagy a párbeszédpanel felső sávjában található. Olyan alkalmazásokban, amelyekben fájlokat lehet megnyitni, az ablak címsora megváltozhat. A Microsoft Word címsorában például megjelenik a megnyitott dokumentum címe. Ha azt szeretné, hogy egy keret a megnyitott fájl nevétől függetlenül aktív legyen a Word programban, erre figyelnie kell, amikor ablakcímsoron alapuló ellenőrző szabályt állít fel.</p>
+<p><b style="font-weight: bold;"><a data-glossterm="Ablakosztály" class="glossterm">Ablakosztály</a></b>: Az ablakosztályok az egyes vezérlőelemekhez és ablakokhoz rendelt programozási szintű elnevezések. Egy vezérlőelem vagy ablak ablakosztályának ellenőrzéséhez helyezze rá a fókuszt, és nyomja meg a <b>CTRL+INSERT+F1</b> billentyűkombinációt. Az ablakosztály az Osztály sorban olvasható le.<br/>
+Az ablakosztályok általában nem változnak, a rajtuk alapuló ellenőrző szabályok tehát rendszerint jól működnek. Néhány alkalmazás azonban dinamikusan hozza létre az ablakosztályokat, és ezekben egy vezérlőelem vagy ablak ablakosztálya az alkalmazás minden egyes megnyitásakor más lehet. Ezenkívül bizonyos alkalmazások egyes verzióiban is különbözhetnek az ablakosztályok.</p>
+<p><b style="font-weight: bold;">Ablak szövege</b>: Az ablak szövege az ablakban megjelenő szöveg. Ezt a szabályt alkalmazva a <a data-glossterm="JAWS" class="glossterm">JAWS</a> leellenőrzi a teljes ablakot az adott szöveget keresve, és ez alapján határozza meg, hogy a keret aktív-e.<br/>
+Javasoljuk, hogy e mellett az ellenőrző szabály mellett mindig használjon más, magasabb prioritású szabályt is. Ennek segítségével a program hamarabb ismeri fel, ha egy keret inaktív egy alkalmazás bizonyos területén.</p>
+<p><b style="font-weight: bold;">Keret szövege</b>: A keret szövege az a szöveg, amelyik a keret határain belül jelenik meg. Ezt a szabályt alkalmazva a JAWS leellenőrzi a keret teljes területét az adott szöveget keresve, és ez alapján határozza meg, hogy a keret aktív-e. Javasoljuk, hogy ennél a szabálytípusnál szintén vegye figyelembe az ablak szövegén alapuló szabályoknál leírtakat.</p>
+<h2><a id="_Comparison_Types"></a>Összehasonlítási típusok</h2>
+<p>Az ellenőrző szabályok összehasonlítják az aktuális alkalmazás vagy képernyő információit a megadott információkkal. A szabály által használt összehasonlítási típust szintén a felhasználó adja meg. A következő összehasonlítási típusok állnak rendelkezésre:</p>
+<p><b style="font-weight: bold;">Egyenlő</b>: Ahhoz, hogy a szabály érvényesnek fogadja el a keretet, a megadott értéknek pontosan meg kell egyeznie az alkalmazásban található információval.</p>
+<p><b style="font-weight: bold;">Nem egyenlő</b>: A szabály akkor fogadja el érvényesnek a keretet, ha nincs pontos egyezés a megadott érték és az alkalmazásban található információ között.</p>
+<p><b style="font-weight: bold;">Tartalmazza</b>: Ahhoz, hogy a szabály érvényesnek fogadja el a keretet, az alkalmazásban található információnak tartalmaznia kell a megadott értéket.</p>
+<p><b style="font-weight: bold;">Nem tartalmazza</b>: A szabály akkor fogadja el érvényesnek a keretet, ha az alkalmazásban található információ nem tartalmazza a megadott értéket.</p>
+<h2><a id="_Comparison_Values"></a>Összehasonlítási értékek</h2>
+<p>Az összehasonlítási értékeket a felhasználó az ellenőrző szabályokban adja meg. Ezeket az alkalmazásban található információtípusokkal hasonlítja össze a JAWS. Ezek az összehasonlítások a megadott összehasonlítási típusokon alapulnak.</p>
+<p>Az összehasonlítás értékeinek meghatározásakor fontos, hogy figyeljen az információ típusára, az összehasonlítás típusára, valamint a keret használatának módjára.</p>
+<p>A Microsoft Word 2000 néhány párbeszédpanelén például minden vezérlőelem a bosa_sdm_Microsoft Word 9.0 ablakosztályt használja. Ha a keretet csak a Word ezen verziójában kívánja használni, az Egyenlő összehasonlítási típust alkalmazó, ablakosztály alapú szabály kiválóan működik, amennyiben a teljes ablakosztályt adja meg összehasonlítási értékként. Ha viszont ugyanezt a keretet a Word 97 programban is használni szeretné, figyelembe kell vennie, hogy ez a verzió némileg eltérő ablakosztályt használ, a bosa_sdm_Microsoft Word 8.0 ablakosztályt. Ha azt szeretné, hogy a keret mindkét verzióban működjön, az alábbi két lehetőség közül választhat:</p>
+<ul>
+<li>Második összehasonlítási értékként adja a szabályhoz a bosa_sdm_Microsoft Word 8.0 értéket. Ennek az az előnye, hogy a szabály más részein nem kell változtatnia. A JAWS mindkét értéket összehasonlítja az aktuális ablakosztállyal, és ha az valamelyikkel egyezik, a szabály érvényesnek fogadja el a keretet.</li>
+<li>Válassza a Tartalmazza összehasonlítási típust, és állítsa be a bosa_sdm_Microsoft Word összehasonlítási értéket. Mivel a Word mindkét említett verziója olyan ablakosztályt használ, amely tartalmazza ezt a karaktersorozatot, a szabály érvényesnek fogadja el a keretet.</li>
+</ul>
+<p class="Tip-Text"><b style="font-weight: bold;">Tipp</b>: Az összehasonlítási érték gyors megváltoztatásához váltson a Keret jellemzői párbeszédpanel Ellenőrzési szabályok lapjára, válassza ki a listából a szabályt, majd nyomja meg az <b>F2</b> billentyűt. Írja be az alkalmazásban található információkkal összehasonlítani kívánt új értéket, majd nyomja meg az <b>ENTER</b> billentyűt.</p>
+<p> </p>
+<div style="text-align: center;">
+<table cellspacing="3" width="100%" align="center">
+<tbody><tr style="vertical-align: top;">
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p style="text-align: left; margin-bottom: 0;"><a href="javascript:window.history.go(-1);" accesskey="v">Vissza</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="events.htm" accesskey="k">Következő</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>
