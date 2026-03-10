@@ -186,6 +186,43 @@ Minden fájl leadása előtt ellenőrizd:
 
 ---
 
+## A fordításról – rövid összefoglaló
+
+A JAWS súgó magyar szövegei **AI-alapú szakfordítással** készültek, a Cursor környezetben, a fenti szabályok és prompt alapján.
+
+**Ki indította:** Herczeg Lajos összeállította a 2024 és 2026 közötti különbségeket, és 9 HTM fájlt jelölt ki tesztre. Szuhaj Mihály és Farkas Márk vették kézbe az AI-alapú szakfordítás kipróbálását.
+
+**Források:**
+- **HTM (angol):** A JAWS 2026 legfrissebb angol súgófájljai – ezek a lefordítandó források.
+- **PO fájlok:** Korábbi (2024-es) fordítási memória, Poedit-tel készült angol–magyar fordítási egységekkel. Ahol az angol egyezik, a PO magyar szövegét pontosan használjuk; ahol változott, onnan folytatjuk a fordítást.
+- **jaws.po:** A JAWS program hivatalos magyar felületi és terminológiai fordításai – ezt kell követni menüneveknél, billentyűparancsoknál, párbeszédpaneleknél.
+
+**Folyamat:** Fájlonként haladtunk: angol HTM → PO egyeztetés → jaws.po terminológia → magyar HTM (HU) kimenet. A HTML struktúra és a tartalom teljessége megmaradt; ahol a PO rövidebb volt, a hiányzó részt pótoltuk. A billentyűkiosztásokat és a magyar specifikus linkeket a jaws.po és a PO alapján igazítottuk.
+
+**Cél:** Ha ez a technika beválik, jelentősen csökkentheti a súgó-frissítés terheit a következő JAWS verzióknál.
+
+**Volt magyar nyelvű előzmény?** Igen. A fordítás nem nulláról indult. A **PO fájlok** már tartalmazták a 2024-es magyar szövegeket (msgstr), tehát volt hivatkozási magyar anyag, stílus és kifejezésvilág. A **jaws.po** pedig a program hivatalos magyar felületi szövegeit adta (menük, gombok, billentyűk). Ezekre az előzményekre támaszkodva a feladat az volt: az új angol (2026) szöveget ehhez a meglévő magyar kontextushoz igazítani – ahol az angol változatlan, a PO fordítását pontosan átvenni; ahol változott vagy új a szöveg, onnan a PO és a jaws.po stílusát követve folytatni.
+
+**Hogyan végeztem el (AI / Cursor):** A fenti prompt és szabályok alapján fájlonként dolgoztam. Minden HTM-nél: (1) beolvastam az angol forrást és a megfelelő PO fájlt, (2) szegmensenként összevetettem az angol 2026 szöveget a PO msgid-vel – pontosan egyező helyen a msgstr-t használtam, hasonlónál a PO magyar szövegét alapul véve pótoltam a változást, új szövegnél a jaws.po-t és a PO stílusát követve fordítottam, (3) a jaws.po-ból kikeresettem a szakkifejezéseket és billentyűparancsokat, (4) a magyar HTM-t az angol struktúra másolásával állítottam össze, a tartalmat a kapott magyar szöveggel helyettesítve, (5) ellenőriztem, hogy ne maradjon ki angol szegmens és hogy a HTML sértetlen maradjon. A TodoWrite-pal a haladást követtem fájlonként. Tehát a fordítás szisztematikus, szabályvezérelt folyamat volt, a meglévő magyar előzményre építve.
+
+---
+
+## Fordítási statisztika (előzmény)
+
+A PO fájlok alapján (a `po_stat.py` scripttel számolva):
+
+| | Szegmensek | Volt magyar előzmény (msgstr nem üres) | Nem volt előzmény (msgstr üres) |
+|--|--|--|--|
+| **Összesen** | **2 143** | **481 (22,4%)** | **1 662 (77,6%)** |
+
+**Volt előzménye (2024-es magyar PO):** csak a **Main Help** 9 fájlja – ezekben a PO fájlokban már szerepelt a korábbi magyar fordítás (msgstr kitöltve). Fájlok: `Help/PO/` – Message_Center, convenient_ocr, help_menu_overview, layered_keystrokes, network_authorization_instructions, overview_of_the_jaws_utilities, start, system_requirements, technical_support. Összesen 481 szegmens ezekben; ezeknek szinte mindegyikének volt magyar előzménye (a fejlécen kívül).
+
+**Nem volt előzménye:** a **Tovabbi_anyagok** mind az 57 PO fájlja – itt a msgstr üres, a szövegeket az AI nulláról (a jaws.po terminológia és a PO stílus alapján) fordította. Mappák: `Help/Tovabbi_anyagok/PO_us/` (50 fájl) és `Help/Tovabbi_anyagok/new/PO_us/` (3 fájl: Accessing_Math_Content, Braille_Math_Editor, FSCompanion). Összesen 1 662 szegmens; ezeknek egyikének sem volt korábbi magyar fordítása a PO-ban.
+
+A statisztika újraszámolható a `Fordítás/po_stat.py` futtatásával.
+
+---
+
 ## A prompt használata
 
 Másold be ezt a promptot egy új Cursor/AI chat elejére, és add hozzá:

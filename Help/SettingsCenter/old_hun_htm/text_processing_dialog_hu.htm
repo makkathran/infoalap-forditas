@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Szövegfeldolgozás csoport</title>
+<link rel="StyleSheet" href="../assets/css/default.css" type="text/css"/>
+<meta name="rh-index-keywords" content="Csoportok,Szövegfeldolgozás,Dátum számainak felolvasása,Számok felolvasása"/></head>
+<body>
+<h1>Szövegfeldolgozás csoport</h1>
+<p>Az ebben a csoportban lévő beállításokkal határozható meg, hogy a JAWS hogyan olvassa a szöveget. Ezek közé tartozik a nagybetűk bejelentése, a listaelemek, számok és dátumok bejelentése, az új sorok jelzése és így tovább.</p>
+<h2>Általános</h2>
+<h3>Ismétlődő karakterek szűrése</h3>
+<p>Ez a lista lehetővé teszi annak meghatározását, hogy hányszor kerüljön felolvasásra egy karakter, amikor egy megszakítás nélküli, ismétlődő karaktersorozat észlelhető. A következő lehetőségek közül választhat: Az első 3 ismétlődő karakter felolvasása, Az első 4 ismétlődő karakter felolvasása, Az első 5 ismétlődő karakter felolvasása, Az első 6 ismétlődő karakter felolvasása, Az összes ismétlődő karakter felolvasása, vagy Ismétlődő karakterek számának bemondása. Vegye figyelembe, hogy a három, négy, öt, hat vagy az összes beállítás esetén a szóközök nem kerülnek bejelentésre. A számolás beállítása esetén azonban a szóközök jelzésre kerülnek. Ez olyan szerkesztőkben hasznos, ahol a szóközök számának ismerete fontos, például programozáskor.</p>
+<p>Alapértelmezés szerint az első három ismétlődő karakter kerül bejelentésre.</p>
+<h3>Nagybetűk jelzése</h3>
+<p>Ezzel a listával határozhatja meg, hogy a JAWS mikor jelezze a nagybetűket. A JAWS alapértelmezés szerint csak a karakterenkénti olvasás, illetve a szavak és sorok betűzése közben jelzi, ha nagybetűs karakterhez ér.</p>
+<h3>Listaelem</h3>
+<p>A következők egyikével a listaelemek ismertetési módját határozhatja meg:</p>
+<ul>
+<li><b>Nincs bemondás</b>: Ezen lehetőség választása esetén a program nem olvassa fel a listamezőkhöz tartozó leírásokat.</li>
+<li><b>Kijelölve bemondása</b>: Ha ez a beállítás van engedélyezve, a JAWS csak a kijelölt a listaelemekről közöl információt.</li>
+<li><b>Nincs kijelölve bemondása</b>: Ha ez a beállítás van engedélyezve, a JAWS csak a kijelölés alatt nem lévő listaelemekről közöl információt. Ez az alapértelmezett beállítás.</li>
+<li><b>Mindkettő bemondása</b>: Ha ez a beállítás van engedélyezve, a JAWS a listamezők elemeit mind kijelölt, mind ki nem jelölt állapotban megemlíti.</li>
+</ul>
+<h3>Az alfanumerikus adatok betűzése</h3>
+<p>A következők egyikének a választásával állítható be az alfanumerikus adatok felolvasási módja:</p>
+<ul>
+<li><strong>Kikapcsolva:</strong> Ez az alapértelmezett beállítás. Ennél a beállításnál a JAWS úgy olvassa fel a szöveget, ahogy megjelenik. A magánhangzót is tartalmazó szórészeknél a Profivox betűzés nélkül olvassa fel a szóval egybeírt számot, például a 123RON felolvasása: százhuszonhárom ron.</li>
+<li><strong>Betűzés</strong>: A JAWS angol beszédszintetizátora betűzi a számot és betűt tartalmazó szavakat. A magyar Profivox ettől a választástól függetlenül csak akkor betűzi a 123RON szöveges részét, ha az csak mássalhangzókat tartalmaz.</li>
+<li><strong>Betűzés azonosító szóval</strong>: A JAWS a betűzést az azonos kezdőbetűjű azonosítószóval végzi. Ennél a beállításnál a példaként használt szó magyarul így hangzik el: 1 2 3 Róbert Olga Nelli.</li>
+</ul>
+<h3>Sortörések bejelentése, ha</h3>
+<p>A Felolvasás- és hangkezelő párbeszédpanelen megadhatja azt a hangot vagy szöveget, amit akkor szeretne hallani, ha íráskor vagy olvasáskor a szöveg új sorába lép. Jelöljön be a következő jelölőnégyzetekből egyet vagy többet, hogy megadja, hogyan jelezze a JAWS az új sort:</p>
+<ul>
+<li><b>Írás közben a szövegszerkesztő automatikusan sort tör</b>: Ha bejelöli ezt a jelölőnégyzetet, a JAWS a szöveg beírása közben jelzi, hogy a szövegszerkesztője automatikus sortörést hajtott végre.</li>
+<li><b>A felhasználó balról vagy jobbról átlép egy sortörést</b>: A JAWS jelzi az új sort, ha szavanként vagy karakterenként olvas.</li>
+<li><b>Sortörést tartalmazó szöveget olvastat fel a felhasználó</b>: A JAWS jelzi az új sort, amikor a JAWS szabványos felolvasó parancsainak használatakor olyan speciális karakterekkel találkozik, amelyek új szövegsor kezdetét jelölik.</li>
+<li><strong>Folyamatos felolvasás közben</strong>: A JAWS bejelenti az új sorokat a folyamatos felolvasás közben.</li>
+</ul>
+<h3>Tagolt szavak helyes felolvasása</h3>
+<p>A korábbi kiadásokban a szót felolvasó parancs kiadásakor a JAWS kötőjeles összetett szavaknál, telefonszámoknál, illetve a számítástechnikában használt dátumnál és egyenletnél csak azt a szövegrészt olvasta fel, ahol a kurzor éppen volt. E verziótól kezdve azonban a bekapcsolt Tagolt szavak helyes felolvasása funkció lehetővé teszi, hogy az aktuális szót felolvasó parancs is teljesen felolvassa az ilyen kifejezéseket.</p>
+<p><strong>Megjegyzés:</strong> A Tagolt szavak helyes felolvasása funkció alkalmazásfüggő. Ha az alkalmazás a kifejezést egy egységként kezeli, például a Microsoft Excel a dátumot, akkor a JAWS is a teljes kifejezést felolvassa. Viszont ha másik alkalmazás, például a Microsoft Word nem, akkor a JAWS is csak a kifejezés aktuális részét olvassa fel.</p>
+<p>A &quot;számítógép-használati útmutató&quot; kifejezésben például, ha a kurzor a &quot;számítógép&quot; szóban van valahol, a JAWS csak a &quot;számítógép&quot; részét olvassa fel az összetett szónak. A Tagolt szavak helyes felolvasása funkció viszont lehetővé teszi a kötőjellel tagolt egész összetett szó felolvasását.</p>
+<p>Hasonlóképpen az &quot;Az esemény várható bekövetkezése: 2008.12.12.&quot; mondatban a JAWS a szófelolvasáskor csak az aktuális számot olvasta fel, nem az egész dátumot. Most, ha a Tagolt szavak helyes felolvasása be van kapcsolva, a JAWS felolvassa a teljes dátumot.</p>
+<p>Utolsó példaként hallgassuk meg, hogy a telefonszámot hogyan olvassa fel a JAWS. Ha a kurzor a kötőjel és a 273 között található az 1-273-31-80 telefonszámban, a JAWS korábbi verziói csak annyit olvastak fel, hogy &quot;273&quot;. A JAWS 8.0 verzióban, ha a Tagolt szavak helyes felolvasása be van kapcsolva, a JAWS felolvassa a teljes telefonszámot, így &quot;1-273-31-80&quot;.</p>
+<h3>Kis- és nagybetűk együttes feldolgozása</h3>
+<p>Ha ez a jelölőnégyzet be van jelölve, akkor azon szavakat, melyek belsejében nagybetű található, két külön szóként olvassa fel a program. A „JConfig” szó esetén például a „jéconfig” szót olvassa fel a program a „jconfig” szó helyett. (A jelölőnégyzet alapértelmezésként be van jelölve.)</p>
+<h3>Kivételszótár használata</h3>
+<p>Ha ez a jelölőnégyzet be van jelölve, a program a szavakat egy teljes körű vagy alkalmazásszintű szótár alapján dolgozza fel. További információt a <a href="jdiction.chm::/jdiction/introduction_to_dictionary_manager.htm">Szótárkezelő</a> című témakörben talál. (A jelölőnégyzet alapértelmezésként be van jelölve.)</p>
+<h3>Betűzés azonosítószóval mindig</h3>
+<p>Amennyiben nem jelöli be ezt a jelölőnégyzetet, akkor az aktuális sor vagy szó betűzésénél <b>(INSERT+SZÁMBILLENTYŰ 5</b> vagy <b>INSERT+FEL NYÍL</b> gyorsan kétszer megnyomva) a JAWS az elvárásnak megfelelően mindegyik karaktert bemondja. A jelölőnégyzetet bejelölve a program a szóban vagy sorban található karaktereket fonetikusan, a kiejtésnek megfelelően olvassa fel. Például, ha kétszer gyorsan megnyomja az <b>INSERT+SZÁMBILL 5</b> billentyűkombinációt, a program a „JAWS” szót a következő módon fogja betűzni: János, Aladár, dupla-Vilmos, Sándor (Juliet Alpha Whiskey Sierra). Alapértelmezésként nincs bejelölve ez a lehetőség.</p>
+<h3>Karakter utáni szünetet követően a karakter fonetikus felolvasása</h3>
+<p>A szövegen karakterenként léptetve hasznos lehet az adott betű fonetikus felolvastatása. Ezt a lehetőséget bekapcsolva és egy rövid ideig egy betűn megállva a JAWS fonetikusan betűzni fogja az adott betűt.</p>
+<p>A JAWS egy kézi lehetőséget is kínál a karakterenkénti léptetés során a folyamatos fonetikus felolvasásra. Ez a funkció a Karakter felolvasása billentyűparancs egymás után gyors kétszeri lenyomásával kapcsolható be- vagy ki. Ha a manuális felolvasási lehetőség van érvényben, a program a megállást követően nem fogja kiejteni az adott betűt.</p>
+<p>Alapértelmezésként a fonetikus kiejtés van beállítva, azaz a program fel fogja olvasni a karaktert, ha karakterenkénti léptetés során másfél másodpercig szünetelteti a léptetést.</p>
+<h3>Élő régió frissítések bejelentése</h3>
+<p>Ez a beállítás szabályozza az élő régió frissítések bejelentését az azokat támogató weboldalakon és alkalmazásokban. Ha ez a jelölőnégyzet nincs bejelölve, akkor az élő régió frissítések nem lesznek bemondva. Ez a jelölőnégyzet alapértelmezés szerint be van jelölve.</p>
+<h3>A billentyűzet nyelvének felismerése</h3>
+<p>Ha ez a jelölőnégyzet be van jelölve, a JAWS a megfelelő nyelvi hangkaraktert használja, amely megfelel az éppen aktív nyelvi billentyűzetnek. Például, ha a beviteli nyelvet spanyolra állítja, akkor a JAWS gépelés közben automatikusan áttér spanyol hangkarakterre, ha rendelkezésre áll.</p>
+<p>Törölje a jelölőnégyzet jelölését, ha azt szeretné, hogy a JAWS folytassa az aktuális nyelvi hangkarakter használatát, még akkor is, ha a billentyűzet bevitelét másik nyelvre váltja.</p>
+<p>Ez a jelölőnégyzet alapértelmezés szerint be van jelölve.</p>
+<h3>Speciális szerkesztés támogatása</h3>
+<p>Ha bejelöli ezt a jelölőnégyzetet, a JAWS a formázott szöveget tartalmazó területeken további támogatást nyújt. Ez a szolgáltatás fokozott pontosságot tesz lehetővé az ilyen területeken lévő szöveg felolvasásakor. Ezzel lehetővé válik, hogy a JAWS a szövegjellemzők szélesebb körét azonosítsa, és megkönnyíti az automatikus nyelvfelismerést is. Ugyanakkor egyes programok használatánál ez csökkentheti a teljesítményt. Alapértelmezésként nincs bejelölve ez a lehetőség.</p>
+<h3>Először az elemállapot felolvasása</h3>
+<p>Ha ez a jelölőnégyzet be van jelölve, a virtuális PC kurzor használható a HTML dokumentumok olvasásához. Ha nincs bejelölve, akkor a listaelem állapotát a listaelem nevének felolvasása után olvassa fel a program. Ez a jelölőnégyzet alapértelmezetten be van jelölve.</p>
+<h3>Először az ablaktípus felolvasása</h3>
+<p>Ha ez a jelölőnégyzet be van jelölve, a program az ablak címe vagy az ablakban található szöveg felolvasása előtt bemondja az ablak típusát. Ablaktípus lehet például a &quot;párbeszédpanel&quot;. Alapértelmezésként nincs bejelölve ez a lehetőség.</p>
+<h3>Először az ablakállapot felolvasása</h3>
+<p>Ha ez a jelölőnégyzet be van jelölve, a program az ablak címe vagy az ablakban található szöveg felolvasása előtt bemondja az ablak állapotát. Ez esetben például a &quot;nincs bejelölve kis- és nagybetűk megkülönböztetése jelölőnégyzet&quot; szöveget olvassa fel a &quot;kis- és nagybetűk megkülönböztetése jelölőnégyzet nincs bejelölve&quot; szöveg helyett. Alapértelmezésként nincs bejelölve ez a lehetőség.</p>
+<h3>Beljebb kezdődő sorok jelzése</h3>
+<p>A jelölőnégyzet bejelölésével kérheti a behúzások változásának jelzését a Felolvasás- és hangkezelő párbeszédpanelen megadott szabályok szerint. A Felolvasás- és hangkezelő párbeszédpanel lehetőséget ad a szövegbehúzás jelzésének testreszabására, azonban ez a jelölőnégyzet szabályozza, hogy a JAWS valamilyen módon jelezheti-e a szövegbehúzás tényét. Alapértelmezésként nincs bejelölve ez a lehetőség.</p>
+<h2>Szám és dátum feldolgozása</h2>
+<h3>Dátum számainak felolvasása</h3>
+<p>A következők egyikének a választásával meghatározhatja, hogy a JAWS hogyan olvassa fel a számformátumú dátumokat:</p>
+<ul>
+<li><b>Számokkal</b>: Ha ezt a beállítást választja, a program a számok felolvasáshoz hasonló módon olvassa fel a dátumokat is. Ez az alapértelmezett beállítás.</li>
+<li><b>Év, hónap, nap esetén</b>: Ha ezt a beállítást választja, a program a ponttal vagy kötőjellel tagolt, év, hónap, nap alakban megadott dátumokat dátumként olvassa fel. A 2001. 07. 04. karaktersor például 2001. július. 4 formában hangzik el.</li>
+<li>Hónap, nap esetén is: Ha ezt a beállítást választja, az Év, hónap, nap beállítás leírásában említett dátumokon kívül a program a csak hónapot és napot jelző számokat is dátumként olvassa fel. Például a 7.4 karaktersor &quot;július 4&quot; formában hallható.</li>
+</ul>
+<p>Ha ezt választotta, előfordulhat, hogy a JAWS a verziószámokat helytelenül dátumként olvassa fel. Ezért ezt akkor célszerű használni, ha rövid (év nélküli) dátumok gyakran előfordulnak, de verziószámok nem.</p>
+<p>A JAWS dátumfeldolgozója mostantól figyelembe veszi a Windows területi beállításait, és a Windows Területi beállítások párbeszédpaneljén megadott tagolókarakter alapján határozza meg, mi tekintendő dátumnak. Például a &quot;17/8/2002&quot; karakterláncot 2002. augusztus 17.-nek tekinti a JAWS, ha a Területi beállítások ausztrál angol formátumot írnak elő, míg amerikai angol dátumformátum esetén nem kezeli dátumként a karakterláncot. A &quot;3/2/2002&quot; dátum amerikai angol dátumformátum esetén 2002. március 2.-nek felel meg, ausztráliai angol dátumformátum esetén viszont 2002. február 3.-nak.</p>
+<p class="Tip-Note-Text"><b>Megjegyzés:</b> Az osztásjel (ferde törtvonal) karaktert a JAWS, a korábbi verzióitól eltérően, csak akkor ismeri el dátumelválasztónak, ha a Windows területi beállításaiban dátumelválasztóként ténylegesen ez lett beállítva.</p>
+<h3>Számok felolvasása</h3>
+<p>A következők egyikének a választásával állítható be a számok felolvasási módja:</p>
+<ul>
+<li>A beszédszintetizátor vezérli: Ha ezt a beállítást választja, akkor az aktuális beszédszintetizátor dönti el, hogyan olvassa fel a számokat. Ez az alapértelmezett beállítás.</li>
+<li><b>Különálló számjegyek</b>: A beállítás választása esetén a program különálló számjegyek sorozataként olvassa fel a számokat. A 123 számot például &quot;egy kettő három&quot; formában olvassa fel.</li>
+<li><b>Párok</b>: Ha ezzel a lehetőséggel él, a program angol képernyőolvasási nyelv esetén számpáronként olvassa fel a számokat, Például 1050 esetén a &quot;tíz ötven&quot; szöveget olvassa fel. Ha a szám páratlan számú számjegyből áll, a program előbb felolvassa az első számjegyet, mint különálló számot, majd a számot alkotó többi számpárt. A 123 számot például &quot;egy huszonhárom&quot; formában olvassa fel.</li>
+<li><b>Teljes számok</b>: Ha ez a lehetőség van kiválasztva, a számokat mindig egyben olvassa fel a program. A 123 számhoz például a &quot;százhuszonhárom&quot; szöveget olvassa fel.</li>
+</ul>
+<h3><a name="SingleDigits" id="SingleDigits"></a>Ha a szám tartalmaz</h3>
+<p class="Tip-Note-Text"><strong>Megjegyzés:</strong> Ez a vezérlőelem a Számok felolvasása kombinált listamezővel együtt használatos. Ez azt jelenti, hogy a JAWS először a Számok felolvasása kombinált listamezőben lévő értéket veszi figyelembe, majd a Ha a szám tartalmaz kombinált listamező kiválasztott elemét.</p>
+<p>Ez a kombinált listamező használható azon küszöbérték megadásához, hogy a JAWS hány számjegy fölött olvassa fel egyesével a számokat. Például, ha a szám öt vagy több számjegyből álló, a JAWS minden számot egyesével mond be. Az 54321 felolvasása 5 4 3 2 1 lesz.</p>
+<p>Ez akkor lehet hasznos, ha olyan hosszú számokat kell felolvasni, mint a telefonszám, a sorozatszám vagy valamely alkatrész száma. Ez a szabály csak a következő feltételek esetén érvényesül: a számsorozat előtt vagy után nincs vele egybeírt egy vagy több betű, nem tartalmaz kötőjelet, kettőspontot, tizedesjelet vagy törtvonalat a számok tagolására, a telefonszám, dátum vagy idő formázásához hasonlóan. Ha a szabály alól a kötőjeleket ki szeretné venni, jelölje be a kombinált listamező alatti Ha a szám kötőjeleket tartalmaz jelölőnégyzetet.</p>
+<p>A kombinált listamezőben a következők egyike választható:</p>
+<ul>
+<li><b>Öt vagy több számjegy </b>(ez az alapértelmezés szerinti beállítás)</li>
+<li><strong>Hat vagy több számjegy</strong></li>
+<li><strong>Hét vagy több számjegy</strong></li>
+<li><strong>Nyolc vagy több számjegy</strong></li>
+<li><b>A beszédszintetizátor vezérli</b>: Ha ezt a beállítást választja, akkor az aktuális beszédszintetizátor dönti el, hogyan olvassa fel a számokat.</li>
+</ul>
+<h3><a name="Dashes" id="Dashes"></a>Ha a szám kötőjeleket tartalmaz</h3>
+<p class="Tip-Note-Text"><strong>Megjegyzés:</strong> Ez a vezérlőelem, ahogyan a Különálló számjegyek is, a Számok felolvasása kombinált listamezővel együtt használható. Ez azt jelenti, hogy a JAWS először a Számok felolvasása kombinált listamezőben lévő értéket veszi figyelembe, majd ezután a Ha a szám tartalmaz kombinált listamező kiválasztott értékét. Ugyanakkor, ha ez a jelölőnégyzet be van jelölve, a szóköz nélküli kötőjeleket tartalmazó számsorban a számok kötőjelenként külön lesznek felolvasva.</p>
+<p>Ezt a jelölőnégyzetet akkor kell bejelölni, ha azt szeretné, hogy a JAWS a kötőjelet tartalmazó számokat egyesével olvassa fel. Ez akkor érvényesül, ha a számjegy előtt, illetve után kötőjel van, mint a telefonszámoknál. A jelölőnégyzet alapértelmezésként be van jelölve.</p>
+<h3>Dollárban kifejezett összegek helyes felolvasása</h3>
+<p>Ha ez a jelölőnégyzet be van jelölve, a program a dollárjellel ($) kezdődő számokat dollárra és centre választva olvassa fel. Például $9.95 esetén a &quot;nine dollars and ninety five cents&quot; szöveget olvassa fel (a funkció csak angol nyelvű szövegeken fog helyesen működni). Ezért az egy dollárnál kisebb összegek felolvasásához a dollárérték helyét kitöltő bevezető nullának szerepelnie kell a számban. A $0.02 szöveget például &quot;two cents&quot; formában olvassa fel a program. Alapértelmezésként nincs bejelölve ez a lehetőség.</p>
+<h2>Nyelvhelyességi ellenőrzés</h2>
+<h3>Helyesírás ellenőrzés navigáció közben</h3>
+<p>Ezt a kombinált listamezőt használja annak megjelölésére, hogy hogyan jelezze a program a szöveg felolvasása közben a helyesírási hibákat. A következő beállítások állnak rendelkezésre:</p>
+<ul>
+<li><b>Kikapcsolva</b> - A JAWS nem jelzi a helyesírási hibákat.</li>
+<li><b>Hangjelzés lejátszása</b> - A &quot;Hangjelzés lejátszása&quot; opciót választva a JAWS figyelmeztető hangjelzést ad, ha helyesírási hibát talál az adott szóban.</li>
+<li>Gépelési hibák bemondása - A &quot;Gépelési hibák bemondása&quot; opciót választva a JAWS a &quot;Hibás!&quot; szót mondja be, ha egy hibásan írt helyre áll. Ez az alapértelmezett beállítás.</li>
+</ul>
+<h3>Helyesírás-ellenőrzés gépelés közben</h3>
+<p>Ezzel a jelölőnégyzettel határozhatja meg, hogy hogyan jelezze a program a beírás során az esetleges helyesírási hibákat. Semmilyen helyesírási hibát sem jelez a rendszer a beírás során, ha törli ezt a bejelölést. Bejelölése esetén a program rögtön hangjelzést ad, ha a beírás során hibásan írt, vagy javított egy szót. Ez a jelölőnégyzet alapértelmezetten be van jelölve.</p>
+<h3>Helyesírási hibák felolvasása és számolása</h3>
+<p>Ezt a jelölőnégyzetet választva a program bemondja az észlelt helyesírási hibák számát, mielőtt felolvasná a sor szövegét, ha a soronkénti felolvasást választotta. Alapértelmezésként nincs bejelölve ez a jelölőnégyzet és nem is érhető el, ha kikapcsolta a hibák észlelése a navigálás alatt funkciót.</p>
+<h3>Nyelvhelyességi és fejlettebb lektorálás</h3>
+<p>Bejelölése esetén a JAWS egy üzenetet mond be, ha nyelvtani, vagy komolyabb helyesírási hibát tartalmazó helyre áll, vagy lép ki onnan. Ez a jelölőnégyzet alapértelmezés szerint be van jelölve az összes alkalmazás számára, így a JAWS bejelentheti a webalapú szerkesztőkben, például a Google Dokumentumokban észlelt nyelvtani hibákat. Ez a jelölőnégyzet alapértelmezés szerint nincs bejelölve a Microsoft Word és az Outlook alkalmazásban, mivel a Word nyelvtani és korrektúra-észlelési szolgáltatásai sokkal szigorúbbak, mint a legtöbb online szerkesztőben, és részletesebb beszédhez vezethet.</p>
+<h3>Nyelvtani/helyesírási hibák számának felolvasása</h3>
+<p>Ezt a jelölőnégyzetet bejelölve a program bemondja az észlelt nyelvtani, vagy helyesírási hibák számát, mielőtt felolvasná a sor szövegét, ha a soronkénti felolvasást választotta. Alapértelmezésként nincs bejelölve ez a jelölőnégyzet és nem is érhető el, ha kikapcsolta a nyelvtani és a helyesírási hibák észlelése funkciót.</p>
+<h3>Lehetőségek használata folyamatos felolvasáskor</h3>
+<p>Jelölje be ezt a jelölőnégyzetet, ha kéri, hogy a JAWS jelezze a helyesírási és a nyelvhelyességi hibákat, ha a dokumentumot Minden felolvasása (<b>INSERT+LEFELE NYÍL</b>) üzemmódban olvassa fel. Alapértelmezésként nincs bejelölve ez a jelölőnégyzet és nem is érhető el, ha egyaránt kikapcsolta a nyelvtani és a helyesírási hibák észlelése funkciót.</p>
+<h3>Megjegyzés bejelentése</h3>
+<p>Ha ez a lehetőség be van jelölve, akkor a JAWS jelzi, ha egy megjegyzéssel ellátott szövegbe navigál, vagy onnan kilép, az olyan webalapú szerkesztőkben, mint a Google Dokumentumok. Ez a jelölőnégyzet alapértelmezés szerint be van jelölve.</p>
+<h3>Beszúrt szöveg bejelentése</h3>
+<p>Ha ez a lehetőség be van jelölve, akkor a JAWS jelzi, ha egy beszúrt szövegbe navigál, vagy onnan kilép, az olyan webalapú szerkesztőkben, mint a Google Dokumentumok. Ez a jelölőnégyzet alapértelmezés szerint be van jelölve.</p>
+<h3>Törölt szöveg bejelentése</h3>
+<p>Ha ez a lehetőség be van jelölve, akkor a JAWS jelzi, ha egy törölt szövegbe navigál, vagy onnan kilép, az olyan webalapú szerkesztőkben, mint a Google Dokumentumok. Ez a jelölőnégyzet alapértelmezés szerint be van jelölve.</p>
+<h3>Kiemelt szöveg bejelentése</h3>
+<p>Ha ez a lehetőség be van jelölve, akkor a JAWS jelzi, ha egy kiemelt szövegbe navigál, vagy onnan kilép, az olyan webalapú szerkesztőkben, mint a Google Dokumentumok. Ez a jelölőnégyzet alapértelmezés szerint be van jelölve.</p>
+<h3>Javasolt szöveges bejelentés</h3>
+<p>Ha be van jelölve, a JAWS egy üzenettel jelzi, ha webes szerkesztőkben, például a Google Dokumentumokban a javasolt szövegbe navigál, illetve onnan kilép. Ez a jelölőnégyzet alapértelmezés szerint be van jelölve.</p>
+<h3>A helyesírási hibák aláhúzása</h3>
+<p>Ezt a jelölőnégyzetet jelölje be, hogy megjelölhesse a nyelvtani és elírási hibákat a 7-es és 8-as pontot használó pontírásnál. Ez a jelölőnégyzet alapértelmezetten be van jelölve.</p>
+<h3>Nyelvhelyességi és fejlett lektorálási hibák aláhúzása</h3>
+<p>Ezt a jelölőnégyzetet jelölje be, hogy megjelölhesse a nyelvtani és elírási hibákat a 7-es és 8-as pontot használó pontírásnál. Ez a lehetőség alapértelmezés szerint nincs bejelölve.</p>
+<h3>Vezérlő karakterek, úgymint oldaltörések szűrése</h3>
+<p>A bejelölés törlésével engedélyezi a Braille-kimenetet az olyan vezérlő karakterek számára, mint az oldaltörések. A használt alkalmazástól függően különböző vezérlő karakterek lehetnek megjelenítve. Ezek mind a számítógépes, mind pedig az irodalmi Braille számára meg fognak jelenni. Ez a jelölőnégyzet alapértelmezetten be van jelölve.</p>
+<h2>Nyelvi feldolgozás</h2>
+<h3>Nyelvfelismerés</h3>
+<p>Ez a választógomb csoport lehetővé teszi az automatikus nyelvfelismerés konfigurálását.</p>
+<p>Válassza az „A dokumentum és a weboldal jelölése alapján” lehetőséget, ha azt szeretné, hogy a JAWS észlelje a nyelvi változásokat a nyelvi címkéket támogató dokumentumokban, majd a felolvasáshoz a szintetizátor megfelelő nyelvű hangkarakterét használja. Például, ha a JAWS spanyol címkéket talál egy weboldalon, akkor a szöveg egy spanyol hangkarakter használatával lesz felolvasva. A nyelvfelismerés olyan szintetizátorokkal működik, mint az Eloquence vagy a Vocalizer Expressive, amelyek több nyelvet támogatnak. A Vocalizer Expressive használatához telepítenie kell az adott nyelvű hangkaraktereket, hogy ez a felismerés megfelelően működjön.</p>
+<p>Válassza a „Szöveg alapján (csak Vocalizer Expressive)” lehetőséget, hogy a JAWS felismerje a nyelvet a dokumentumban használt szöveges karaktertípusok alapján, és a megfelelő Vocalizer Expressive hangkarakter segítségével végezze a felolvasást. Például, ha a JAWS arab karaktereket észlel, és Ön telepített egy arab Vocalizer Expressive hangkaraktert, akkor a JAWS az arab hangkarakterre vált át felolvasáskor.</p>
+<p>Válassza a &quot;Ki&quot; lehetőséget, ha nem szeretné, hogy a JAWS megváltoztassa a szintetizátor nyelvét, amikor egy másik nyelven írt szöveget olvas.</p>
+<h3>Amikor a nyelvfelismerés szöveg alapján történik</h3>
+<p>A választógombok ezen csoportjával meghatározhatja, hogy a számok hogyan kerüljenek bemondásra, amikor a nyelvfelismerés beállítása „Szöveg alapján”. Dönthet úgy, hogy a számok az elsődleges hangkarakterrel legyenek bemondva, vagy pedig a számok nyelvi kontextusának megfelelő hangkarakter segítségével kerüljenek felolvasásra.</p>
+<p>Az alapértelmezés a számok felolvasása az elsődleges hangkarakter segítségével.</p>
+<h3>Továbbfejlesztett jobbról balra (RTL) támogatás</h3>
+<p>Jelölje be ezt a jelölőnégyzetet, hogy megbizonyosodjon arról, hogy a jobbról balra eső szöveget a szintetizátor a megfelelő sorrendben mondja ki.</p>
+<p>Ez a jelölőnégyzet alapértelmezés szerint nincs bejelölve egyik nyelvhez sem, az arab és a héber kivételével.</p>
+<h3>Kiterjesztés nyelvjárásra</h3>
+<p>Ez a jelölőnégyzet meghatározza, hogy a JAWS átvált-e egy másik nyelvre az ugyanazon alapnyelven belüli dialektusok közül. Például, ha ezt a funkciót választja, és a JAWS angol nyelven olvas egy olyan weboldalt, amely támogatja az amerikai, a brit és az ausztrál angol nyelvet, a JAWS nem fog váltani a nyelvek között, mivel az alapnyelv az angol. Ha azonban a JAWS más nyelvet észlel, például német vagy francia, akkor arra a nyelvre vált át.</p>
+<p>Ez a jelölőnégyzet alapértelmezés szerint be van jelölve, és csak akkor érhető el, ha a nyelvfelismerés beállítása „A dokumentum és a weboldal jelölése alapján”.</p>
+<div style="text-align: center;">
+<table cellspacing="3" align="center" width="100%">
+<tbody><tr>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p style="text-align: left; margin-bottom: 0;"><a href="javascript:window.history.go(-1);" accesskey="v">Vissza</a></p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p> </p>
+</td>
+<td style="padding-left: 3px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px;">
+<p><a href="../SpeechVerbosity/general_verbosity_dialog.htm" accesskey="k">Következő</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>
